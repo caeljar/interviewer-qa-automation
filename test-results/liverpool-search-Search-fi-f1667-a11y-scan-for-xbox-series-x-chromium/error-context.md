@@ -1,0 +1,1722 @@
+# Instructions
+
+- Following Playwright test failed.
+- Explain why, be concise, respect Playwright best practices.
+- Provide a snippet of code with the fix, if possible.
+
+# Test info
+
+- Name: liverpool-search.spec.ts >> Search, filter, validate and run a11y scan for: xbox series x
+- Location: tests\liverpool-search.spec.ts:11:3
+
+# Error details
+
+```
+Error: expect(received).toBeGreaterThanOrEqual(expected)
+
+Expected: >= 3
+Received:    2
+```
+
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e4]:
+        - navigation [ref=e7]:
+          - generic [ref=e12]:
+            - generic [ref=e15]:
+              - generic [ref=e21] [cursor=pointer]: Elige una tienda
+              - text: 
+            - list [ref=e23]:
+              - listitem [ref=e24]:
+                - menu [ref=e25]:
+                  - text: Servicios
+                  - generic [ref=e26]: 
+                - generic:
+                  - generic:
+                    - generic:
+                      - list:
+                        - listitem:
+                          - link "Viajes y vacaciones ":
+                            - /url: /tienda/viajes/cat5280345
+                            - generic:
+                              - generic: Viajes y vacaciones
+                              - generic:
+                                - generic: 
+                        - listitem:
+                          - link "Tiempo aire":
+                            - /url: /tienda/checkout/airtimeTicket
+                        - listitem:
+                          - link "Centro de seguros":
+                            - /url: https://miseguro.liverpool.com.mx/
+                        - listitem:
+                          - link "Diseño de interiores ":
+                            - /url: /tienda/paginas/diseno-interiores
+                            - generic:
+                              - generic: Diseño de interiores
+                              - generic:
+                                - generic: 
+                        - listitem:
+                          - link "Experiencias en tienda":
+                            - /url: /tienda/paginas/servicios_experiencias
+                        - listitem:
+                          - link "Encuentra tu tienda":
+                            - /url: /tienda/browse/storelocator
+                        - listitem:
+                          - link "Alimentos y bebidas ":
+                            - /url: /tienda/paginas/restaurante
+                            - generic:
+                              - generic: Alimentos y bebidas
+                              - generic:
+                                - generic: 
+                        - listitem:
+                          - link "Sorteos y concursos":
+                            - /url: https://sorteosyconcursos.liverpool.com.mx/app/
+              - listitem [ref=e27]:
+                - link "Otros sitios" [ref=e28] [cursor=pointer]:
+                  - /url: /tienda/N-hgcLI2abDrxHMRMHRY%2BNcxgGU5UwgEshy4hRAfc%2B%2BKU%3D?s=xbox%20series%20x&st=sortPrice|0#!
+                  - generic [ref=e29]:
+                    - text: Otros sitios
+                    - generic [ref=e30]: 
+                - generic:
+                  - generic:
+                    - generic:
+                      - list:
+                        - listitem:
+                          - link "Suburbia":
+                            - /url: https://www.suburbia.com.mx/tienda/home
+                        - listitem:
+                          - link "Babies R Us":
+                            - /url: http://www.babiesrus.com.mx/tienda/home
+                        - listitem:
+                          - link "Banana Republic":
+                            - /url: https://www.bananarepublic.com.mx/tienda/home
+                        - listitem:
+                          - link "Dupuis":
+                            - /url: https://www.dupuis.com.mx/tienda/home
+                        - listitem:
+                          - link "Fabletics":
+                            - /url: https://www.fabletics.mx/tienda/home
+                        - listitem:
+                          - link "GAP":
+                            - /url: https://www.gap.com.mx/tienda/home
+                        - listitem:
+                          - link "Pottery Barn":
+                            - /url: https://www.potterybarn.com.mx/tienda/home
+                        - listitem:
+                          - link "Pottery Barn Kids":
+                            - /url: https://www.potterybarnkids.com.mx/tienda/home
+                        - listitem:
+                          - link "Toys R Us":
+                            - /url: http://www.toysrus.com.mx/tienda/home
+                        - listitem:
+                          - link "West Elm":
+                            - /url: https://www.westelm.com.mx/tienda/home
+                        - listitem:
+                          - link "Williams Sonoma":
+                            - /url: https://www.williams-sonoma.com.mx/tienda/home
+              - listitem [ref=e31]:
+                - link "Mesa de regalos" [ref=e32] [cursor=pointer]:
+                  - /url: https://mesaderegalos.liverpool.com.mx/
+              - listitem [ref=e33]:
+                - link "Mi crédito" [ref=e34] [cursor=pointer]:
+                  - /url: https://micredito.liverpool.com.mx/
+        - generic [ref=e38]:
+          - text: 
+          - link "Liverpool Logo" [ref=e40] [cursor=pointer]:
+            - /url: /tienda/N-hgcLI2abDrxHMRMHRY%2BNcxgGU5UwgEshy4hRAfc%2B%2BKU%3D?s=xbox%20series%20x&st=sortPrice|0#!
+            - img "Liverpool Logo" [ref=e41]
+          - list [ref=e44]:
+            - listitem [ref=e45]:
+              - generic [ref=e46] [cursor=pointer]:
+                - generic [ref=e47]: 
+                - text: Categorías
+          - generic [ref=e51]:
+            - textbox "Buscar por producto, categoría y más" [ref=e52]: xbox series x
+            - button "" [ref=e54] [cursor=pointer]:
+              - generic [ref=e55]: 
+          - generic [ref=e56]:
+            - paragraph [ref=e58]:
+              - generic [ref=e60] [cursor=pointer]: Iniciar sesión
+            - generic:
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - generic: Iniciar sesión
+                    - separator
+                    - listitem:
+                      - link "Mis compras":
+                        - /url: /tienda/N-hgcLI2abDrxHMRMHRY%2BNcxgGU5UwgEshy4hRAfc%2B%2BKU%3D?s=xbox%20series%20x&st=sortPrice|0#!
+                    - listitem:
+                      - link "Ayuda":
+                        - /url: /tienda/N-hgcLI2abDrxHMRMHRY%2BNcxgGU5UwgEshy4hRAfc%2B%2BKU%3D?s=xbox%20series%20x&st=sortPrice|0#!
+          - generic [ref=e61]:
+            - text: 
+            - button [ref=e65] [cursor=pointer]
+      - text:  
+    - generic [ref=e69]:
+      - text:  
+      - list [ref=e75]:
+        - listitem [ref=e76]:
+          - link "Home" [ref=e77] [cursor=pointer]:
+            - /url: /tienda/home
+          - generic [ref=e79]: 
+        - listitem [ref=e80]:
+          - strong [ref=e82]: xbox series x
+      - generic [ref=e83]:
+        - complementary [ref=e84]:
+          - generic [ref=e86]:
+            - heading "\"xbox series x\" (34 resultados)" [level=5] [ref=e87]:
+              - text: "\"xbox series x\""
+              - generic [ref=e88]: (34 resultados)
+            - generic [ref=e90]:
+              - generic [ref=e91]:
+                - paragraph [ref=e92]: Filtros seleccionados (1)
+                - link "Limpiar Filtros" [ref=e93] [cursor=pointer]:
+                  - /url: /tienda/N-hgcLI2abDrxHMRMHRY%2BNcxgGU5UwgEshy4hRAfc%2B%2BKU%3D?s=xbox%20series%20x&st=sortPrice|0#!
+              - separator [ref=e94]
+              - generic [ref=e96] [cursor=pointer]:
+                - text: Blanco
+                - generic [ref=e97]: 
+            - button "Categorías " [ref=e99] [cursor=pointer]:
+              - heading "Categorías " [level=5] [ref=e100]:
+                - generic [ref=e101]:
+                  - generic "Categorías" [ref=e103]
+                  - generic [ref=e106]: 
+            - list [ref=e109]:
+              - listitem [ref=e110]: Videojuegos
+              - listitem [ref=e111]: Especiales
+              - listitem [ref=e112]: Xbox
+              - listitem [ref=e113]: Electrónica
+              - listitem [ref=e114]: Microsoft
+              - listitem [ref=e115]: Hot Sale
+              - listitem [ref=e116]: Mujer
+            - generic [ref=e117]:
+              - button "Descuentos " [ref=e119] [cursor=pointer]:
+                - heading "Descuentos " [level=5] [ref=e120]:
+                  - generic [ref=e121]:
+                    - generic "Descuentos" [ref=e123]
+                    - generic [ref=e126]: 
+              - generic [ref=e127]:
+                - generic [ref=e128]:
+                  - radio [ref=e130] [cursor=pointer]
+                  - generic [ref=e133] [cursor=pointer]: 30.0 % o más (4)
+                - generic [ref=e134]:
+                  - radio [ref=e136] [cursor=pointer]
+                  - generic [ref=e139] [cursor=pointer]: 20.0 % o más (17)
+                - generic [ref=e140]:
+                  - radio [ref=e142] [cursor=pointer]
+                  - generic [ref=e145] [cursor=pointer]: 10.0 % o más (23)
+            - generic [ref=e146]:
+              - button "Marcas " [ref=e148] [cursor=pointer]:
+                - heading "Marcas " [level=5] [ref=e149]:
+                  - generic [ref=e150]:
+                    - generic "Marcas" [ref=e152]
+                    - generic [ref=e155]: 
+              - generic [ref=e156]:
+                - generic [ref=e159]:
+                  - textbox "Búsqueda rápida" [ref=e160]:
+                    - /placeholder: ""
+                  - generic:
+                    - generic:
+                      - generic: Búsqueda rápida
+                  - button "" [ref=e162] [cursor=pointer]:
+                    - generic [ref=e163]: 
+                - generic [ref=e165]:
+                  - generic [ref=e166] [cursor=pointer]:
+                    - checkbox [ref=e167]
+                    - generic:
+                      - img
+                  - generic [ref=e168] [cursor=pointer]: COLLECTIVEMINDDS (1)
+                - generic [ref=e170]:
+                  - generic [ref=e171] [cursor=pointer]:
+                    - checkbox [ref=e172]
+                    - generic:
+                      - img
+                  - generic [ref=e173] [cursor=pointer]: GEN BRAND (2)
+                - generic [ref=e175]:
+                  - generic [ref=e176] [cursor=pointer]:
+                    - checkbox [ref=e177]
+                    - generic:
+                      - img
+                  - generic [ref=e178] [cursor=pointer]: HP (1)
+                - generic [ref=e180]:
+                  - generic [ref=e181] [cursor=pointer]:
+                    - checkbox [ref=e182]
+                    - generic:
+                      - img
+                  - generic [ref=e183] [cursor=pointer]: KMD (1)
+                - generic [ref=e185]:
+                  - generic [ref=e186] [cursor=pointer]:
+                    - checkbox [ref=e187]
+                    - generic:
+                      - img
+                  - generic [ref=e188] [cursor=pointer]: MANDALIBRE (1)
+                - generic [ref=e190]:
+                  - generic [ref=e191] [cursor=pointer]:
+                    - checkbox [ref=e192]
+                    - generic:
+                      - img
+                  - generic [ref=e193] [cursor=pointer]: MICROSOFT (16)
+                - generic [ref=e195]:
+                  - generic [ref=e196] [cursor=pointer]:
+                    - checkbox [ref=e197]
+                    - generic:
+                      - img
+                  - generic [ref=e198] [cursor=pointer]: RAZER (1)
+                - link "Ver más" [ref=e199] [cursor=pointer]:
+                  - /url: /tienda/N-hgcLI2abDrxHMRMHRY%2BNcxgGU5UwgEshy4hRAfc%2B%2BKU%3D?s=xbox%20series%20x&st=sortPrice|0#!
+            - generic [ref=e200]:
+              - button "Color " [ref=e202] [cursor=pointer]:
+                - heading "Color " [level=5] [ref=e203]:
+                  - generic [ref=e204]:
+                    - generic "Color" [ref=e206]
+                    - generic [ref=e209]: 
+              - generic [ref=e210]:
+                - list [ref=e211]:
+                  - listitem [ref=e212]
+                  - listitem [ref=e215]
+                  - listitem [ref=e218]
+                  - listitem [ref=e221]
+                  - listitem [ref=e224]
+                  - listitem [ref=e227]
+                  - listitem [ref=e230]
+                  - listitem
+                  - listitem
+                  - listitem
+                  - listitem
+                  - listitem
+                  - listitem
+                  - listitem
+                - link "Ver más" [ref=e233] [cursor=pointer]:
+                  - /url: /tienda/N-hgcLI2abDrxHMRMHRY%2BNcxgGU5UwgEshy4hRAfc%2B%2BKU%3D?s=xbox%20series%20x&st=sortPrice|0#!
+            - generic [ref=e234]:
+              - button "Precios " [ref=e236] [cursor=pointer]:
+                - heading "Precios " [level=5] [ref=e237]:
+                  - generic [ref=e238]:
+                    - generic "Precios" [ref=e240]
+                    - generic [ref=e243]: 
+              - generic [ref=e244]:
+                - generic [ref=e245]:
+                  - generic [ref=e246]:
+                    - radio [ref=e248] [cursor=pointer]
+                    - generic [ref=e251] [cursor=pointer]: Menos de $500.0 (4)
+                  - generic [ref=e252]:
+                    - radio [ref=e254] [cursor=pointer]
+                    - generic [ref=e257] [cursor=pointer]: $500.0 -$1000.0 (6)
+                  - generic [ref=e258]:
+                    - radio [ref=e260] [cursor=pointer]
+                    - generic [ref=e263] [cursor=pointer]: $1000.0 -$2000.0 (9)
+                  - generic [ref=e264]:
+                    - radio [ref=e266] [cursor=pointer]
+                    - generic [ref=e269] [cursor=pointer]: $2000.0 -$5000.0 (5)
+                  - generic [ref=e270]:
+                    - radio [ref=e272] [cursor=pointer]
+                    - generic [ref=e275] [cursor=pointer]: $5000.0 -$10000.0 (5)
+                  - generic [ref=e276]:
+                    - radio [ref=e278] [cursor=pointer]
+                    - generic [ref=e281] [cursor=pointer]: Mas de $10000.0 (5)
+                - generic [ref=e282]:
+                  - textbox "Mínimo" [ref=e285]
+                  - generic [ref=e286]: "-"
+                  - textbox "Máximo" [ref=e289]
+                  - generic [ref=e292] [cursor=pointer]: 
+            - generic [ref=e294]:
+              - button "Calificación " [ref=e296] [cursor=pointer]:
+                - heading "Calificación " [level=5] [ref=e297]:
+                  - generic [ref=e298]:
+                    - generic "Calificación" [ref=e300]
+                    - generic [ref=e303]: 
+              - generic [ref=e305]:
+                - generic [ref=e306] [cursor=pointer]:
+                  - checkbox [ref=e307]
+                  - generic:
+                    - img
+                - list [ref=e310] [cursor=pointer]:
+                  - listitem [ref=e311]:
+                    - generic [ref=e312]: 
+                  - listitem [ref=e313]:
+                    - generic [ref=e314]: 
+                  - listitem [ref=e315]:
+                    - generic [ref=e316]: 
+                  - listitem [ref=e317]:
+                    - generic [ref=e318]: 
+                  - listitem [ref=e319]: 4 estrellas o más (1)
+            - generic [ref=e320]:
+              - button "Vendido por " [ref=e322] [cursor=pointer]:
+                - heading "Vendido por " [level=5] [ref=e323]:
+                  - generic [ref=e324]:
+                    - generic "Vendido por" [ref=e326]
+                    - generic [ref=e329]: 
+              - generic [ref=e330]:
+                - generic [ref=e331]:
+                  - generic [ref=e333]:
+                    - generic [ref=e334] [cursor=pointer]:
+                      - checkbox [ref=e335]
+                      - generic:
+                        - img
+                    - generic [ref=e336] [cursor=pointer]: liverpool (9)
+                  - generic [ref=e338]:
+                    - generic [ref=e339] [cursor=pointer]:
+                      - checkbox [ref=e340]
+                      - generic:
+                        - img
+                    - generic [ref=e341] [cursor=pointer]: toysrus (8)
+                  - generic [ref=e343]:
+                    - generic [ref=e344] [cursor=pointer]:
+                      - checkbox [ref=e345]
+                      - generic:
+                        - img
+                    - generic [ref=e346] [cursor=pointer]: RANOR INFINITY SA DE CV (6)
+                  - generic [ref=e348]:
+                    - generic [ref=e349] [cursor=pointer]:
+                      - checkbox [ref=e350]
+                      - generic:
+                        - img
+                    - generic [ref=e351] [cursor=pointer]: MandaLibre (5)
+                  - generic [ref=e353]:
+                    - generic [ref=e354] [cursor=pointer]:
+                      - checkbox [ref=e355]
+                      - generic:
+                        - img
+                    - generic [ref=e356] [cursor=pointer]: iMports77 (5)
+                  - generic [ref=e358]:
+                    - generic [ref=e359] [cursor=pointer]:
+                      - checkbox [ref=e360]
+                      - generic:
+                        - img
+                    - generic [ref=e361] [cursor=pointer]: doto (4)
+                  - generic [ref=e363]:
+                    - generic [ref=e364] [cursor=pointer]:
+                      - checkbox [ref=e365]
+                      - generic:
+                        - img
+                    - generic [ref=e366] [cursor=pointer]: commerweb (3)
+                - link "Ver más" [ref=e367] [cursor=pointer]:
+                  - /url: /tienda/N-hgcLI2abDrxHMRMHRY%2BNcxgGU5UwgEshy4hRAfc%2B%2BKU%3D?s=xbox%20series%20x&st=sortPrice|0#!
+            - generic [ref=e368]:
+              - button "Tipo de producto " [ref=e370] [cursor=pointer]:
+                - heading "Tipo de producto " [level=5] [ref=e371]:
+                  - generic [ref=e372]:
+                    - generic "Tipo de producto" [ref=e374]
+                    - generic [ref=e377]: 
+              - generic [ref=e378]:
+                - generic [ref=e379]:
+                  - generic [ref=e381]:
+                    - generic [ref=e382] [cursor=pointer]:
+                      - checkbox [ref=e383]
+                      - generic:
+                        - img
+                    - generic [ref=e384] [cursor=pointer]: Controles para Consola (12)
+                  - generic [ref=e386]:
+                    - generic [ref=e387] [cursor=pointer]:
+                      - checkbox [ref=e388]
+                      - generic:
+                        - img
+                    - generic [ref=e389] [cursor=pointer]: Consolas de Videojuegos (7)
+                  - generic [ref=e391]:
+                    - generic [ref=e392] [cursor=pointer]:
+                      - checkbox [ref=e393]
+                      - generic:
+                        - img
+                    - generic [ref=e394] [cursor=pointer]: Juegos de Consola (5)
+                  - generic [ref=e396]:
+                    - generic [ref=e397] [cursor=pointer]:
+                      - checkbox [ref=e398]
+                      - generic:
+                        - img
+                    - generic [ref=e399] [cursor=pointer]: Videojuegos (5)
+                  - generic [ref=e401]:
+                    - generic [ref=e402] [cursor=pointer]:
+                      - checkbox [ref=e403]
+                      - generic:
+                        - img
+                    - generic [ref=e404] [cursor=pointer]: Audífono over ear (2)
+                  - generic [ref=e406]:
+                    - generic [ref=e407] [cursor=pointer]:
+                      - checkbox [ref=e408]
+                      - generic:
+                        - img
+                    - generic [ref=e409] [cursor=pointer]: Soportes (2)
+                  - generic [ref=e411]:
+                    - generic [ref=e412] [cursor=pointer]:
+                      - checkbox [ref=e413]
+                      - generic:
+                        - img
+                    - generic [ref=e414] [cursor=pointer]: Audífonos (1)
+                - link "Ver más" [ref=e415] [cursor=pointer]:
+                  - /url: /tienda/N-hgcLI2abDrxHMRMHRY%2BNcxgGU5UwgEshy4hRAfc%2B%2BKU%3D?s=xbox%20series%20x&st=sortPrice|0#!
+            - generic [ref=e416]:
+              - button "Género " [ref=e418] [cursor=pointer]:
+                - heading "Género " [level=5] [ref=e419]:
+                  - generic [ref=e420]:
+                    - generic "Género" [ref=e422]
+                    - generic [ref=e425]: 
+              - generic [ref=e429]:
+                - generic [ref=e430] [cursor=pointer]:
+                  - checkbox [ref=e431]
+                  - generic:
+                    - img
+                - generic [ref=e432] [cursor=pointer]: Mujer (1)
+            - generic [ref=e433]:
+              - button "Capacidad del disco duro " [ref=e435] [cursor=pointer]:
+                - heading "Capacidad del disco duro " [level=5] [ref=e436]:
+                  - generic [ref=e437]:
+                    - generic "Capacidad del disco duro" [ref=e439]
+                    - generic [ref=e442]: 
+              - generic [ref=e444]:
+                - generic [ref=e446]:
+                  - generic [ref=e447] [cursor=pointer]:
+                    - checkbox [ref=e448]
+                    - generic:
+                      - img
+                  - generic [ref=e449] [cursor=pointer]: 512 GB (5)
+                - generic [ref=e451]:
+                  - generic [ref=e452] [cursor=pointer]:
+                    - checkbox [ref=e453]
+                    - generic:
+                      - img
+                  - generic [ref=e454] [cursor=pointer]: 1 TB (4)
+            - generic [ref=e455]:
+              - button "Material " [ref=e457] [cursor=pointer]:
+                - heading "Material " [level=5] [ref=e458]:
+                  - generic [ref=e459]:
+                    - generic "Material" [ref=e461]
+                    - generic [ref=e464]: 
+              - generic [ref=e466]:
+                - generic [ref=e468]:
+                  - generic [ref=e469] [cursor=pointer]:
+                    - checkbox [ref=e470]
+                    - generic:
+                      - img
+                  - generic [ref=e471] [cursor=pointer]: Plástico (3)
+                - generic [ref=e473]:
+                  - generic [ref=e474] [cursor=pointer]:
+                    - checkbox [ref=e475]
+                    - generic:
+                      - img
+                  - generic [ref=e476] [cursor=pointer]: Espuma (2)
+                - generic [ref=e478]:
+                  - generic [ref=e479] [cursor=pointer]:
+                    - checkbox [ref=e480]
+                    - generic:
+                      - img
+                  - generic [ref=e481] [cursor=pointer]: Cuero sintético (1)
+                - generic [ref=e483]:
+                  - generic [ref=e484] [cursor=pointer]:
+                    - checkbox [ref=e485]
+                    - generic:
+                      - img
+                  - generic [ref=e486] [cursor=pointer]: Poliéster (1)
+                - generic [ref=e488]:
+                  - generic [ref=e489] [cursor=pointer]:
+                    - checkbox [ref=e490]
+                    - generic:
+                      - img
+                  - generic [ref=e491] [cursor=pointer]: Spandex (1)
+            - generic [ref=e492]:
+              - button "Voltaje " [ref=e494] [cursor=pointer]:
+                - heading "Voltaje " [level=5] [ref=e495]:
+                  - generic [ref=e496]:
+                    - generic "Voltaje" [ref=e498]
+                    - generic [ref=e501]: 
+              - generic [ref=e505]:
+                - generic [ref=e506] [cursor=pointer]:
+                  - checkbox [ref=e507]
+                  - generic:
+                    - img
+                - generic [ref=e508] [cursor=pointer]: 5 V (1)
+            - generic [ref=e509]:
+              - button "Memoria RAM " [ref=e511] [cursor=pointer]:
+                - heading "Memoria RAM " [level=5] [ref=e512]:
+                  - generic [ref=e513]:
+                    - generic "Memoria RAM" [ref=e515]
+                    - generic [ref=e518]: 
+              - generic [ref=e522]:
+                - generic [ref=e523] [cursor=pointer]:
+                  - checkbox [ref=e524]
+                  - generic:
+                    - img
+                - generic [ref=e525] [cursor=pointer]: 1 GB (1)
+            - generic [ref=e526]:
+              - button "Estampado " [ref=e528] [cursor=pointer]:
+                - heading "Estampado " [level=5] [ref=e529]:
+                  - generic [ref=e530]:
+                    - generic "Estampado" [ref=e532]
+                    - generic [ref=e535]: 
+              - generic [ref=e539]:
+                - generic [ref=e540] [cursor=pointer]:
+                  - checkbox [ref=e541]
+                  - generic:
+                    - img
+                - generic [ref=e542] [cursor=pointer]: Liso (1)
+            - generic [ref=e543]:
+              - button "Temática " [ref=e545] [cursor=pointer]:
+                - heading "Temática " [level=5] [ref=e546]:
+                  - generic [ref=e547]:
+                    - generic "Temática" [ref=e549]
+                    - generic [ref=e552]: 
+              - generic [ref=e554]:
+                - generic [ref=e556]:
+                  - generic [ref=e557] [cursor=pointer]:
+                    - checkbox [ref=e558]
+                    - generic:
+                      - img
+                  - generic [ref=e559] [cursor=pointer]: Estrategia (3)
+                - generic [ref=e561]:
+                  - generic [ref=e562] [cursor=pointer]:
+                    - checkbox [ref=e563]
+                    - generic:
+                      - img
+                  - generic [ref=e564] [cursor=pointer]: Acción (2)
+                - generic [ref=e566]:
+                  - generic [ref=e567] [cursor=pointer]:
+                    - checkbox [ref=e568]
+                    - generic:
+                      - img
+                  - generic [ref=e569] [cursor=pointer]: Simulación (1)
+            - generic [ref=e570]:
+              - button "Funcionamiento " [ref=e572] [cursor=pointer]:
+                - heading "Funcionamiento " [level=5] [ref=e573]:
+                  - generic [ref=e574]:
+                    - generic "Funcionamiento" [ref=e576]
+                    - generic [ref=e579]: 
+              - generic [ref=e583]:
+                - generic [ref=e584] [cursor=pointer]:
+                  - checkbox [ref=e585]
+                  - generic:
+                    - img
+                - generic [ref=e586] [cursor=pointer]: Batería (1)
+        - main [ref=e587]:
+          - generic [ref=e588]:
+            - generic [ref=e590]:
+              - generic [ref=e591] [cursor=pointer]: Videojuegos
+              - generic [ref=e592] [cursor=pointer]: XBOX ONE
+              - generic [ref=e593] [cursor=pointer]: 1 TB
+              - generic [ref=e594] [cursor=pointer]: Consolas de Videojuegos
+              - generic [ref=e595] [cursor=pointer]: Juegos de Consola
+              - generic [ref=e596] [cursor=pointer]: XBOX
+              - generic [ref=e597] [cursor=pointer]: Mujer
+              - generic [ref=e598] [cursor=pointer]: HP
+              - generic [ref=e599] [cursor=pointer]: 512 GB
+            - generic [ref=e601]:
+              - heading "Xbox series x" [level=1] [ref=e602]
+              - generic [ref=e603]:
+                - link "Menor precio " [ref=e607] [cursor=pointer]:
+                  - /url: /tienda/N-hgcLI2abDrxHMRMHRY%2BNcxgGU5UwgEshy4hRAfc%2B%2BKU%3D?s=xbox%20series%20x&st=sortPrice|0#!
+                  - text: Menor precio
+                  - generic: 
+                - generic [ref=e608]:
+                  - link "" [ref=e609] [cursor=pointer]:
+                    - /url: /tienda/N-hgcLI2abDrxHMRMHRY%2BNcxgGU5UwgEshy4hRAfc%2B%2BKU%3D?s=xbox%20series%20x&st=sortPrice|0#!
+                    - generic [ref=e610]: 
+                  - link "" [ref=e611] [cursor=pointer]:
+                    - /url: /tienda/N-hgcLI2abDrxHMRMHRY%2BNcxgGU5UwgEshy4hRAfc%2B%2BKU%3D?s=xbox%20series%20x&st=sortPrice|0#!
+                    - generic [ref=e612]: 
+                  - paragraph [ref=e613]: 34 Productos
+          - list [ref=e617]:
+            - listitem [ref=e618]:
+              - link [ref=e619] [cursor=pointer]:
+                - /url: /tienda/pdp/soporte-para-aud%C3%ADfonos-gamer-gen-brand/1162162922?skuid=1162162922
+                - figure [ref=e621]:
+                  - img "Soporte para audífonos gamer Gen Brand" [ref=e624]
+                  - generic [ref=e626]:
+                    - article [ref=e627]:
+                      - heading "GEN BRAND" [level=3] [ref=e628]
+                      - heading "Soporte para audífonos gamer" [level=3] [ref=e629]
+                    - generic [ref=e631]:
+                      - generic [ref=e632]:
+                        - paragraph [ref=e633]:
+                          - text: $299
+                          - superscript [ref=e634]: "00"
+                        - paragraph [ref=e635]:
+                          - text: $229
+                          - superscript [ref=e636]: "00"
+                      - list [ref=e638]:
+                        - listitem [ref=e639]:
+                          - generic "Blanco" [ref=e640]
+            - listitem [ref=e641]:
+              - link [ref=e642] [cursor=pointer]:
+                - /url: /tienda/pdp/aud%C3%ADfonos-over-ear-gen-brand-c6-100camo-wht4g-al%C3%A1mbricos-con-cancelaci%C3%B3n-de-ruido/1154570400?skuid=1154570400
+                - figure [ref=e644]:
+                  - img "Audífonos Over-Ear Gen Brand C6-100Camo-Wht4G alámbricos con cancelación de ruido" [ref=e647]
+                  - generic [ref=e649]:
+                    - article [ref=e650]:
+                      - heading "GEN BRAND" [level=3] [ref=e651]
+                      - heading "Audífonos Over-Ear C6-100Camo-Wht4G alámbricos con cancelación de ruido" [level=3] [ref=e652]
+                    - generic [ref=e654]:
+                      - generic [ref=e655]:
+                        - paragraph [ref=e656]:
+                          - text: $419
+                          - superscript [ref=e657]: "00"
+                        - paragraph [ref=e658]:
+                          - text: $366
+                          - superscript [ref=e659]: "81"
+                      - list [ref=e661]:
+                        - listitem [ref=e662]:
+                          - generic "Blanco" [ref=e663]
+            - listitem [ref=e664]:
+              - link [ref=e665] [cursor=pointer]:
+                - /url: /tienda/pdp/control-virtual-zone-inal%C3%A1mbricos-para-xbox-360/1113641084?skuid=1113641084
+                - figure [ref=e667]:
+                  - img "Control Virtual Zone inalámbricos para xbox 360" [ref=e670]
+                  - generic [ref=e672]:
+                    - article [ref=e673]:
+                      - heading "VIRTUAL ZONE" [level=3] [ref=e674]
+                      - heading "Control inalámbricos para xbox 360" [level=3] [ref=e675]
+                    - generic [ref=e677]:
+                      - generic [ref=e678]:
+                        - paragraph [ref=e679]:
+                          - text: $549
+                          - superscript [ref=e680]: "00"
+                        - paragraph [ref=e681]:
+                          - text: $429
+                          - superscript [ref=e682]: "00"
+                      - list [ref=e684]:
+                        - listitem [ref=e685]:
+                          - generic "Blanco" [ref=e686]
+                      - list [ref=e688]:
+                        - listitem [ref=e689]:
+                          - generic [ref=e690]: 
+                        - listitem [ref=e691]:
+                          - generic [ref=e692]: 
+                        - listitem [ref=e693]:
+                          - generic [ref=e694]: 
+                        - listitem [ref=e695]:
+                          - generic [ref=e696]: 
+                        - listitem [ref=e697]:
+                          - generic [ref=e698]: 
+                        - listitem [ref=e699]: (1)
+            - listitem [ref=e700]:
+              - link [ref=e701] [cursor=pointer]:
+                - /url: /tienda/pdp/base-vertical-mandalibre-para-consola-xbox-one-s/22129550?skuid=1100064215
+                - figure [ref=e703]:
+                  - img "Base Vertical MandaLibre para Consola Xbox One S" [ref=e706]
+                  - generic [ref=e708]:
+                    - article [ref=e709]:
+                      - heading "MANDALIBRE" [level=3] [ref=e710]
+                      - heading "Base Vertical MandaLibre para Consola Xbox One S" [level=3] [ref=e711]: Base Vertical MandaLibre para Consola Xbox One S
+                    - generic [ref=e713]:
+                      - generic [ref=e714]:
+                        - paragraph [ref=e715]:
+                          - text: $599
+                          - superscript [ref=e716]: "00"
+                        - paragraph [ref=e717]:
+                          - text: $432
+                          - superscript [ref=e718]: "00"
+                      - list [ref=e720]:
+                        - listitem [ref=e721]:
+                          - generic "Blanco" [ref=e722]
+            - listitem [ref=e723]:
+              - link [ref=e724] [cursor=pointer]:
+                - /url: /tienda/pdp/control-store-cline-inal%C3%A1mbricos-para-xbox-360-edici%C3%B3n-limitada/99971515457?skuid=1155938061
+                - figure [ref=e726]:
+                  - img "Control Store Cline inalámbricos para xbox 360 edición limitada" [ref=e729]
+                  - generic [ref=e731]:
+                    - article [ref=e732]:
+                      - heading "STORE CLINE" [level=3] [ref=e733]
+                      - heading "Control inalámbricos para xbox 360 edición limitada" [level=3] [ref=e734]
+                    - generic [ref=e736]:
+                      - generic [ref=e737]:
+                        - paragraph [ref=e738]:
+                          - text: $799
+                          - superscript [ref=e739]: "00"
+                        - paragraph [ref=e740]:
+                          - text: $548
+                          - superscript [ref=e741]: "00"
+                      - list [ref=e743]:
+                        - listitem [ref=e744]:
+                          - generic "Azul" [ref=e745]
+                        - listitem [ref=e746]:
+                          - generic "Rojo" [ref=e747]
+                        - listitem [ref=e748]:
+                          - generic "Blanco" [ref=e749]
+                      - list [ref=e751]:
+                        - listitem [ref=e752]:
+                          - generic [ref=e753]: 
+                        - listitem [ref=e754]:
+                          - generic [ref=e755]: 
+                        - listitem [ref=e756]:
+                          - generic [ref=e757]: 
+                        - listitem [ref=e758]:
+                          - generic [ref=e759]: 
+                        - listitem [ref=e760]:
+                          - generic [ref=e761]: 
+                        - listitem [ref=e762]: (1)
+            - listitem [ref=e763]:
+              - link [ref=e764] [cursor=pointer]:
+                - /url: /tienda/pdp/man-of-medan-the-dark-pictures-anthology-xbox-one-est%C3%A1ndar-para-xbox-one/1095620791?skuid=1095620791
+                - figure [ref=e766]:
+                  - img "Man Of Medan The Dark Pictures Anthology Xbox One estándar para Xbox One" [ref=e769]
+                  - generic [ref=e771]:
+                    - article [ref=e772]:
+                      - heading "XBOX ONE" [level=3] [ref=e773]
+                      - heading "Man Of Medan The Dark Pictures Anthology estándar para Xbox One" [level=3] [ref=e774]
+                    - generic [ref=e776]:
+                      - generic [ref=e777]:
+                        - paragraph [ref=e778]:
+                          - text: $739
+                          - superscript [ref=e779]: "00"
+                        - paragraph [ref=e780]:
+                          - text: $639
+                          - superscript [ref=e781]: "00"
+                      - list [ref=e783]:
+                        - listitem [ref=e784]:
+                          - generic "Sin color" [ref=e785]
+                      - list [ref=e787]:
+                        - listitem [ref=e788]:
+                          - generic [ref=e789]: 
+                        - listitem [ref=e790]:
+                          - generic [ref=e791]: 
+                        - listitem [ref=e792]:
+                          - generic [ref=e793]: 
+                        - listitem [ref=e794]:
+                          - generic [ref=e795]: 
+                        - listitem [ref=e796]:
+                          - generic [ref=e797]: 
+                        - listitem [ref=e798]: (1)
+            - listitem [ref=e799]:
+              - link [ref=e800] [cursor=pointer]:
+                - /url: /tienda/pdp/mouse-gamer-hp-hyperx-pulsefire/1193854563?skuid=1193854563
+                - figure [ref=e802]:
+                  - img "Mouse gamer Hp HyperX Pulsefire" [ref=e805]
+                  - generic [ref=e807]:
+                    - article [ref=e808]:
+                      - heading "HP" [level=3] [ref=e809]
+                      - heading "Mouse gamer HyperX Pulsefire" [level=3] [ref=e810]
+                    - generic [ref=e812]:
+                      - generic [ref=e813]:
+                        - paragraph [ref=e814]:
+                          - text: $999
+                          - superscript [ref=e815]: "00"
+                        - paragraph [ref=e816]:
+                          - text: $699
+                          - superscript [ref=e817]: "30"
+                      - list [ref=e819]:
+                        - listitem [ref=e820]:
+                          - generic "Blanco" [ref=e821]
+            - listitem [ref=e822]:
+              - link [ref=e823] [cursor=pointer]:
+                - /url: /tienda/pdp/control-collectivemindds-al%C3%A1mbrico-para-xbox-series-x/1185731053?skuid=1185731053
+                - figure [ref=e825]:
+                  - img "Control Collectivemindds alámbrico para xbox series x" [ref=e828]
+                  - generic [ref=e830]:
+                    - article [ref=e831]:
+                      - heading "COLLECTIVEMINDDS" [level=3] [ref=e832]
+                      - heading "Control alámbrico para xbox series x" [level=3] [ref=e833]
+                    - generic [ref=e835]:
+                      - paragraph [ref=e837]:
+                        - text: $899
+                        - superscript [ref=e838]: "00"
+                      - list [ref=e840]:
+                        - listitem [ref=e841]:
+                          - generic "Blanco" [ref=e842]
+            - listitem [ref=e843]:
+              - link [ref=e844] [cursor=pointer]:
+                - /url: /tienda/pdp/farming-smilulator-xbox-one-est%C3%A1ndar-para-xbox-one/1091326066?skuid=1091326066
+                - figure [ref=e846]:
+                  - img "Farming Smilulator Xbox One estándar para Xbox One" [ref=e849]
+                  - generic [ref=e851]:
+                    - article [ref=e852]:
+                      - heading "XBOX ONE" [level=3] [ref=e853]
+                      - heading "Farming Smilulator estándar para Xbox One" [level=3] [ref=e854]
+                    - generic [ref=e856]:
+                      - generic [ref=e857]:
+                        - paragraph [ref=e858]:
+                          - text: $1,035
+                          - superscript [ref=e859]: "00"
+                        - paragraph [ref=e860]:
+                          - text: $919
+                          - superscript [ref=e861]: "00"
+                      - list [ref=e863]:
+                        - listitem [ref=e864]:
+                          - generic "Sin color" [ref=e865]
+            - listitem [ref=e866]:
+              - link [ref=e867] [cursor=pointer]:
+                - /url: /tienda/pdp/estaci%C3%B3n-de-carga-store-cline-usb-+-usb-tipo-c/1157154571?skuid=1157154571
+                - figure [ref=e869]:
+                  - img "Estación de carga Store Cline USB + USB tipo C" [ref=e872]
+                  - generic [ref=e874]:
+                    - article [ref=e875]:
+                      - heading "STORE CLINE" [level=3] [ref=e876]
+                      - heading "Estación de carga USB + USB tipo C" [level=3] [ref=e877]
+                    - generic [ref=e879]:
+                      - generic [ref=e880]:
+                        - paragraph [ref=e881]:
+                          - text: $1,199
+                          - superscript [ref=e882]: "00"
+                        - paragraph [ref=e883]:
+                          - text: $949
+                          - superscript [ref=e884]: "00"
+                      - list [ref=e886]:
+                        - listitem [ref=e887]:
+                          - generic "Blanco" [ref=e888]
+                      - list [ref=e890]:
+                        - listitem [ref=e891]:
+                          - generic [ref=e892]: 
+                        - listitem [ref=e893]:
+                          - generic [ref=e894]: 
+                        - listitem [ref=e895]:
+                          - generic [ref=e896]: 
+                        - listitem [ref=e897]:
+                          - generic [ref=e898]: 
+                        - listitem [ref=e899]:
+                          - generic [ref=e900]: 
+                        - listitem [ref=e901]: (3)
+            - listitem [ref=e902]:
+              - link [ref=e903] [cursor=pointer]:
+                - /url: /tienda/pdp/wheel-of-fortune-xbox-one-est%C3%A1ndar-para-xbox-one/1091324357?skuid=1091324357
+                - figure [ref=e905]:
+                  - img "Wheel Of Fortune Xbox One estándar para Xbox One" [ref=e908]
+                  - generic [ref=e910]:
+                    - article [ref=e911]:
+                      - heading "XBOX ONE" [level=3] [ref=e912]
+                      - heading "Wheel Of Fortune estándar para Xbox One" [level=3] [ref=e913]
+                    - generic [ref=e915]:
+                      - generic [ref=e916]:
+                        - paragraph [ref=e917]:
+                          - text: $1,420
+                          - superscript [ref=e918]: "90"
+                        - paragraph [ref=e919]:
+                          - text: $1,093
+                          - superscript [ref=e920]: "00"
+                      - list [ref=e922]:
+                        - listitem [ref=e923]:
+                          - generic "Sin color" [ref=e924]
+            - listitem [ref=e925]:
+              - link [ref=e926] [cursor=pointer]:
+                - /url: /tienda/pdp/conjunto-casual-roman-fashion-para-mujer/9993045859?skuid=1197850643
+                - figure [ref=e928]:
+                  - img "Conjunto casual Roman Fashion para mujer" [ref=e931]
+                  - generic [ref=e933]:
+                    - article [ref=e934]:
+                      - heading "ROMAN FASHION" [level=3] [ref=e935]
+                      - heading "Conjunto casual para mujer" [level=3] [ref=e936]
+                    - generic [ref=e938]:
+                      - generic [ref=e939]:
+                        - paragraph [ref=e940]:
+                          - text: $1,329
+                          - superscript [ref=e941]: "00"
+                        - paragraph [ref=e942]:
+                          - text: $1,189
+                          - superscript [ref=e943]: "00"
+                      - list [ref=e945]:
+                        - listitem [ref=e946]:
+                          - generic "Blanco" [ref=e947]
+            - listitem [ref=e948]:
+              - link [ref=e949] [cursor=pointer]:
+                - /url: /tienda/pdp/control-turtle-beach-inal%C3%A1mbricos-para-xbox-series-x/1133050147?skuid=1133050147
+                - figure [ref=e951]:
+                  - img "Control Turtle Beach inalámbricos para xbox series x" [ref=e954]
+                  - generic [ref=e956]:
+                    - article [ref=e957]:
+                      - heading "TURTLE BEACH" [level=3] [ref=e958]
+                      - heading "Control inalámbricos para xbox series x" [level=3] [ref=e959]
+                    - generic [ref=e961]:
+                      - generic [ref=e962]:
+                        - paragraph [ref=e963]:
+                          - text: $1,699
+                          - superscript [ref=e964]: "00"
+                        - paragraph [ref=e965]:
+                          - text: $1,189
+                          - superscript [ref=e966]: "30"
+                      - list [ref=e968]:
+                        - listitem [ref=e969]:
+                          - generic "Blanco" [ref=e970]
+                      - list [ref=e972]:
+                        - listitem [ref=e973]:
+                          - generic [ref=e974]: 
+                        - listitem [ref=e975]:
+                          - generic [ref=e976]: 
+                        - listitem [ref=e977]:
+                          - generic [ref=e978]: 
+                        - listitem [ref=e979]:
+                          - generic [ref=e980]: 
+                        - listitem [ref=e981]:
+                          - generic [ref=e982]: 
+                        - listitem [ref=e983]: (8)
+            - listitem [ref=e984]:
+              - link [ref=e985] [cursor=pointer]:
+                - /url: /tienda/pdp/project-highrise-xbox-one-est%C3%A1ndar-para-xbox-one/1095620112?skuid=1095620112
+                - figure [ref=e987]:
+                  - img "Project Highrise Xbox One estándar para Xbox One" [ref=e990]
+                  - generic [ref=e992]:
+                    - article [ref=e993]:
+                      - heading "XBOX ONE" [level=3] [ref=e994]
+                      - heading "Project Highrise estándar para Xbox One" [level=3] [ref=e995]
+                    - generic [ref=e997]:
+                      - generic [ref=e998]:
+                        - paragraph [ref=e999]:
+                          - text: $1,609
+                          - superscript [ref=e1000]: "40"
+                        - paragraph [ref=e1001]:
+                          - text: $1,238
+                          - superscript [ref=e1002]: "00"
+                      - list [ref=e1004]:
+                        - listitem [ref=e1005]:
+                          - generic "Sin color" [ref=e1006]
+                      - list [ref=e1008]:
+                        - listitem [ref=e1009]:
+                          - generic [ref=e1010]: 
+                        - listitem [ref=e1011]:
+                          - generic [ref=e1012]: 
+                        - listitem [ref=e1013]:
+                          - generic [ref=e1014]: 
+                        - listitem [ref=e1015]:
+                          - generic [ref=e1016]: 
+                        - listitem [ref=e1017]:
+                          - generic [ref=e1018]: 
+                        - listitem [ref=e1019]: (1)
+            - listitem [ref=e1020]:
+              - link [ref=e1021] [cursor=pointer]:
+                - /url: /tienda/pdp/control-microsoft-inal%C3%A1mbrico-para-xbox-one/1100561162?skuid=1100561162
+                - figure [ref=e1023]:
+                  - img "Control Microsoft inalámbrico para xbox one" [ref=e1026]
+                  - generic [ref=e1028]:
+                    - article [ref=e1029]:
+                      - heading "MICROSOFT" [level=3] [ref=e1030]
+                      - heading "Control inalámbrico para xbox one" [level=3] [ref=e1031]
+                    - generic [ref=e1033]:
+                      - generic [ref=e1034]:
+                        - paragraph [ref=e1035]:
+                          - text: $1,999
+                          - superscript [ref=e1036]: "00"
+                        - paragraph [ref=e1037]:
+                          - text: $1,283
+                          - superscript [ref=e1038]: "00"
+                      - list [ref=e1040]:
+                        - listitem [ref=e1041]:
+                          - generic "Blanco" [ref=e1042]
+                      - list [ref=e1044]:
+                        - listitem [ref=e1045]:
+                          - generic [ref=e1046]: 
+                        - listitem [ref=e1047]:
+                          - generic [ref=e1048]: 
+                        - listitem [ref=e1049]:
+                          - generic [ref=e1050]: 
+                        - listitem [ref=e1051]:
+                          - generic [ref=e1052]: 
+                        - listitem [ref=e1053]:
+                          - generic [ref=e1054]: 
+                        - listitem [ref=e1055]: (253)
+            - listitem [ref=e1056]:
+              - link [ref=e1057] [cursor=pointer]:
+                - /url: /tienda/pdp/control-xbox-inal%C3%A1mbrico-para-xbox/1189066135?skuid=1189066135
+                - figure [ref=e1059]:
+                  - img "Control Xbox inalámbrico para xbox" [ref=e1062]
+                  - generic [ref=e1064]:
+                    - article [ref=e1065]:
+                      - heading "XBOX" [level=3] [ref=e1066]
+                      - heading "Control inalámbrico para xbox" [level=3] [ref=e1067]
+                    - generic [ref=e1069]:
+                      - generic [ref=e1070]:
+                        - paragraph [ref=e1071]:
+                          - text: $1,699
+                          - superscript [ref=e1072]: "00"
+                        - paragraph [ref=e1073]:
+                          - text: $1,359
+                          - superscript [ref=e1074]: "20"
+                      - list [ref=e1076]:
+                        - listitem [ref=e1077]:
+                          - generic "Blanco" [ref=e1078]
+            - listitem [ref=e1079]:
+              - link [ref=e1080] [cursor=pointer]:
+                - /url: /tienda/pdp/pillars-of-eternity-xbox-one-est%C3%A1ndar-para-xbox-one/1091326104?skuid=1091326104
+                - figure [ref=e1082]:
+                  - generic [ref=e1083]:
+                    - generic:
+                      - img "Pillars Of Eternity Xbox One estándar para Xbox One"
+                  - generic [ref=e1085]:
+                    - article [ref=e1086]:
+                      - heading "XBOX ONE" [level=3] [ref=e1087]
+                      - heading "Pillars Of Eternity estándar para Xbox One" [level=3] [ref=e1088]
+                    - generic [ref=e1090]:
+                      - generic [ref=e1091]:
+                        - paragraph [ref=e1092]:
+                          - text: $2,203
+                          - superscript [ref=e1093]: "50"
+                        - paragraph [ref=e1094]:
+                          - text: $1,695
+                          - superscript [ref=e1095]: "00"
+                      - list [ref=e1097]:
+                        - listitem [ref=e1098]:
+                          - generic "Sin color" [ref=e1099]
+            - listitem [ref=e1100]:
+              - link [ref=e1101] [cursor=pointer]:
+                - /url: /tienda/pdp/control-microsoft-inal%C3%A1mbrico-para-xbox/1180446571?skuid=1180446571
+                - figure [ref=e1103]:
+                  - generic [ref=e1104]:
+                    - generic:
+                      - img "Control Microsoft inalámbrico para xbox"
+                  - generic [ref=e1106]:
+                    - article [ref=e1107]:
+                      - heading "MICROSOFT" [level=3] [ref=e1108]
+                      - heading "Control inalámbrico para xbox" [level=3] [ref=e1109]
+                    - generic [ref=e1111]:
+                      - paragraph [ref=e1113]:
+                        - text: $1,699
+                        - superscript [ref=e1114]: "00"
+                      - list [ref=e1116]:
+                        - listitem [ref=e1117]:
+                          - generic "Blanco" [ref=e1118]
+                      - list [ref=e1120]:
+                        - listitem [ref=e1121]:
+                          - generic [ref=e1122]: 
+                        - listitem [ref=e1123]:
+                          - generic [ref=e1124]: 
+                        - listitem [ref=e1125]:
+                          - generic [ref=e1126]: 
+                        - listitem [ref=e1127]:
+                          - generic [ref=e1128]: 
+                        - listitem [ref=e1129]:
+                          - generic [ref=e1130]: 
+                        - listitem [ref=e1131]: (1)
+            - listitem [ref=e1132]:
+              - link [ref=e1133] [cursor=pointer]:
+                - /url: /tienda/pdp/control-microsoft-inal%C3%A1mbricos-para-xbox/1126718086?skuid=1126718086
+                - figure [ref=e1135]:
+                  - generic [ref=e1136]:
+                    - generic:
+                      - img "Control Microsoft inalámbricos para xbox"
+                  - generic [ref=e1138]:
+                    - article [ref=e1139]:
+                      - heading "MICROSOFT" [level=3] [ref=e1140]
+                      - heading "Control inalámbricos para xbox" [level=3] [ref=e1141]
+                    - generic [ref=e1143]:
+                      - paragraph [ref=e1145]:
+                        - text: $1,699
+                        - superscript [ref=e1146]: "00"
+                      - list [ref=e1148]:
+                        - listitem [ref=e1149]:
+                          - generic "Blanco" [ref=e1150]
+                      - list [ref=e1152]:
+                        - listitem [ref=e1153]:
+                          - generic [ref=e1154]: 
+                        - listitem [ref=e1155]:
+                          - generic [ref=e1156]: 
+                        - listitem [ref=e1157]:
+                          - generic [ref=e1158]: 
+                        - listitem [ref=e1159]:
+                          - generic [ref=e1160]: 
+                        - listitem [ref=e1161]:
+                          - generic [ref=e1162]: 
+                        - listitem [ref=e1163]: (14)
+            - listitem [ref=e1164]:
+              - link [ref=e1165] [cursor=pointer]:
+                - /url: /tienda/pdp/control-razer-al%C3%A1mbrico-para-xbox-series-x-edici%C3%B3n-especial/1172655846?skuid=1172655846
+                - figure [ref=e1167]:
+                  - img "Control Razer alámbrico para xbox series x edición especial" [ref=e1170]
+                  - generic [ref=e1172]:
+                    - article [ref=e1173]:
+                      - heading "RAZER" [level=3] [ref=e1174]
+                      - heading "Control alámbrico para xbox series x edición especial" [level=3] [ref=e1175]
+                    - generic [ref=e1177]:
+                      - generic [ref=e1178]:
+                        - paragraph [ref=e1179]:
+                          - text: $3,560
+                          - superscript [ref=e1180]: "70"
+                        - paragraph [ref=e1181]:
+                          - text: $2,739
+                          - superscript [ref=e1182]: "00"
+                      - list [ref=e1184]:
+                        - listitem [ref=e1185]:
+                          - generic "Blanco" [ref=e1186]
+                      - list [ref=e1188]:
+                        - listitem [ref=e1189]:
+                          - generic [ref=e1190]: 
+                        - listitem [ref=e1191]:
+                          - generic [ref=e1192]: 
+                        - listitem [ref=e1193]:
+                          - generic [ref=e1194]: 
+                        - listitem [ref=e1195]:
+                          - generic [ref=e1196]: 
+                        - listitem [ref=e1197]:
+                          - generic [ref=e1198]: 
+                        - listitem [ref=e1199]: (1)
+            - listitem [ref=e1200]:
+              - link [ref=e1201] [cursor=pointer]:
+                - /url: /tienda/pdp/control-microsoft-inal%C3%A1mbrico-para-xbox-one-series-x-edici%C3%B3n-especial/9993672586?skuid=1199085391
+                - figure [ref=e1203]:
+                  - img "Control Microsoft inalámbrico para Xbox One Series X edición especial" [ref=e1206]
+                  - generic [ref=e1208]:
+                    - article [ref=e1209]:
+                      - heading "MICROSOFT" [level=3] [ref=e1210]
+                      - heading "Control inalámbrico para Xbox One Series X edición especial" [level=3] [ref=e1211]
+                    - generic [ref=e1213]:
+                      - generic [ref=e1214]:
+                        - paragraph [ref=e1215]:
+                          - text: $3,599
+                          - superscript [ref=e1216]: "00"
+                        - paragraph [ref=e1217]:
+                          - text: $3,199
+                          - superscript [ref=e1218]: "00"
+                      - list [ref=e1220]:
+                        - listitem [ref=e1221]:
+                          - generic "Blanco" [ref=e1222]
+            - listitem [ref=e1223]:
+              - link [ref=e1224] [cursor=pointer]:
+                - /url: /tienda/pdp/control-microsoft-inal%C3%A1mbrico-para-xbox/1126718094?skuid=1126718094
+                - figure [ref=e1226]:
+                  - img "Control Microsoft inalámbrico para xbox" [ref=e1229]
+                  - generic [ref=e1231]:
+                    - article [ref=e1232]:
+                      - heading "MICROSOFT" [level=3] [ref=e1233]
+                      - heading "Control inalámbrico para xbox" [level=3] [ref=e1234]
+                    - generic [ref=e1236]:
+                      - generic [ref=e1237]:
+                        - paragraph [ref=e1238]:
+                          - text: $4,299
+                          - superscript [ref=e1239]: "00"
+                        - paragraph [ref=e1240]:
+                          - text: $3,399
+                          - superscript [ref=e1241]: "00"
+                      - list [ref=e1243]:
+                        - listitem [ref=e1244]:
+                          - generic "Blanco" [ref=e1245]
+                      - list [ref=e1247]:
+                        - listitem [ref=e1248]:
+                          - generic [ref=e1249]: 
+                        - listitem [ref=e1250]:
+                          - generic [ref=e1251]: 
+                        - listitem [ref=e1252]:
+                          - generic [ref=e1253]: 
+                        - listitem [ref=e1254]:
+                          - generic [ref=e1255]: 
+                        - listitem [ref=e1256]:
+                          - generic [ref=e1257]: 
+                        - listitem [ref=e1258]: (87)
+            - listitem [ref=e1259]:
+              - link [ref=e1260] [cursor=pointer]:
+                - /url: /tienda/pdp/control-microsoft-inal%C3%A1mbrico-para-xbox/1184582917?skuid=1184582917
+                - figure [ref=e1262]:
+                  - generic [ref=e1263]:
+                    - generic:
+                      - img "Control Microsoft inalámbrico para xbox"
+                  - generic [ref=e1265]:
+                    - article [ref=e1266]:
+                      - heading "MICROSOFT" [level=3] [ref=e1267]
+                      - heading "Control inalámbrico para xbox" [level=3] [ref=e1268]
+                    - generic [ref=e1270]:
+                      - paragraph [ref=e1272]:
+                        - text: $3,799
+                        - superscript [ref=e1273]: "00"
+                      - list [ref=e1275]:
+                        - listitem [ref=e1276]:
+                          - generic "Blanco" [ref=e1277]
+            - listitem [ref=e1278]:
+              - link [ref=e1279] [cursor=pointer]:
+                - /url: /tienda/pdp/consola-fija-xbox-series-s-de-512-gb-microsoft/1100132300?skuid=1100132300
+                - figure [ref=e1281]:
+                  - img "Consola fija xbox series s de 512 gb Microsoft" [ref=e1284]
+                  - generic [ref=e1286]:
+                    - article [ref=e1287]:
+                      - heading "MICROSOFT" [level=3] [ref=e1288]
+                      - heading "Consola fija xbox series s de 512 gb" [level=3] [ref=e1289]
+                    - generic [ref=e1291]:
+                      - paragraph [ref=e1293]:
+                        - text: $8,899
+                        - superscript [ref=e1294]: "00"
+                      - list [ref=e1296]:
+                        - listitem [ref=e1297]:
+                          - generic "Blanco" [ref=e1298]
+                      - list [ref=e1300]:
+                        - listitem [ref=e1301]:
+                          - generic [ref=e1302]: 
+                        - listitem [ref=e1303]:
+                          - generic [ref=e1304]: 
+                        - listitem [ref=e1305]:
+                          - generic [ref=e1306]: 
+                        - listitem [ref=e1307]:
+                          - generic [ref=e1308]: 
+                        - listitem [ref=e1309]:
+                          - generic [ref=e1310]: 
+                        - listitem [ref=e1311]: (419)
+            - listitem [ref=e1312]:
+              - link [ref=e1313] [cursor=pointer]:
+                - /url: /tienda/pdp/control-microsoft-al%C3%A1mbrico-para-xbox-one/1144646572?skuid=1144646572
+                - figure [ref=e1315]:
+                  - generic [ref=e1316]:
+                    - generic:
+                      - img "Control Microsoft alámbrico para xbox one"
+                  - generic [ref=e1318]:
+                    - article [ref=e1319]:
+                      - heading "MICROSOFT" [level=3] [ref=e1320]
+                      - heading "Control alámbrico para xbox one" [level=3] [ref=e1321]
+                    - generic [ref=e1323]:
+                      - paragraph [ref=e1325]:
+                        - text: $9,078
+                        - superscript [ref=e1326]: "00"
+                      - list [ref=e1328]:
+                        - listitem [ref=e1329]:
+                          - generic "Blanco" [ref=e1330]
+            - listitem [ref=e1331]:
+              - link [ref=e1332] [cursor=pointer]:
+                - /url: /tienda/pdp/consola-fija-xbox-series-s-de-512-gb-edici%C3%B3n-bundle-microsoft/1140162147?skuid=1140162147
+                - figure [ref=e1334]:
+                  - img "Consola fija xbox series s de 512 gb edición bundle Microsoft" [ref=e1337]
+                  - generic [ref=e1339]:
+                    - article [ref=e1340]:
+                      - heading "MICROSOFT" [level=3] [ref=e1341]
+                      - heading "Consola fija xbox series s de 512 gb edición bundle" [level=3] [ref=e1342]
+                    - generic [ref=e1344]:
+                      - generic [ref=e1345]:
+                        - paragraph [ref=e1346]:
+                          - text: $11,919
+                          - superscript [ref=e1347]: "00"
+                        - paragraph [ref=e1348]:
+                          - text: $9,389
+                          - superscript [ref=e1349]: "00"
+                      - list [ref=e1351]:
+                        - listitem [ref=e1352]:
+                          - generic "Blanco" [ref=e1353]
+                      - list [ref=e1355]:
+                        - listitem [ref=e1356]:
+                          - generic [ref=e1357]: 
+                        - listitem [ref=e1358]:
+                          - generic [ref=e1359]: 
+                        - listitem [ref=e1360]:
+                          - generic [ref=e1361]: 
+                        - listitem [ref=e1362]:
+                          - generic [ref=e1363]: 
+                        - listitem [ref=e1364]:
+                          - generic [ref=e1365]: 
+                        - listitem [ref=e1366]: (1)
+            - listitem [ref=e1367]:
+              - link [ref=e1368] [cursor=pointer]:
+                - /url: /tienda/pdp/consola-fija-xbox-series-s-de-512-gb-microsoft/1141615064?skuid=1141615064
+                - figure [ref=e1370]:
+                  - img "Consola fija xbox series s de 512 gb Microsoft" [ref=e1373]
+                  - generic [ref=e1375]:
+                    - article [ref=e1376]:
+                      - heading "MICROSOFT" [level=3] [ref=e1377]
+                      - heading "Consola fija xbox series s de 512 gb" [level=3] [ref=e1378]
+                    - generic [ref=e1380]:
+                      - generic [ref=e1381]:
+                        - paragraph [ref=e1382]:
+                          - text: $10,999
+                          - superscript [ref=e1383]: "00"
+                        - paragraph [ref=e1384]:
+                          - text: $9,389
+                          - superscript [ref=e1385]: "00"
+                      - list [ref=e1387]:
+                        - listitem [ref=e1388]:
+                          - generic "Blanco" [ref=e1389]
+            - listitem [ref=e1390]:
+              - link [ref=e1391] [cursor=pointer]:
+                - /url: /tienda/pdp/consola-fija-xbox-series-s-de-512-gb-edici%C3%B3n-especial-microsoft/1146389216?skuid=1146389216
+                - figure [ref=e1393]:
+                  - img "Consola fija xbox series s de 512 gb edición especial Microsoft" [ref=e1396]
+                  - generic [ref=e1398]:
+                    - article [ref=e1399]:
+                      - heading "MICROSOFT" [level=3] [ref=e1400]
+                      - heading "Consola fija xbox series s de 512 gb edición especial" [level=3] [ref=e1401]
+                    - generic [ref=e1403]:
+                      - generic [ref=e1404]:
+                        - paragraph [ref=e1405]:
+                          - text: $11,579
+                          - superscript [ref=e1406]: "00"
+                        - paragraph [ref=e1407]:
+                          - text: $9,389
+                          - superscript [ref=e1408]: "00"
+                      - list [ref=e1410]:
+                        - listitem [ref=e1411]:
+                          - generic "Blanco" [ref=e1412]
+                      - list [ref=e1414]:
+                        - listitem [ref=e1415]:
+                          - generic [ref=e1416]: 
+                        - listitem [ref=e1417]:
+                          - generic [ref=e1418]: 
+                        - listitem [ref=e1419]:
+                          - generic [ref=e1420]: 
+                        - listitem [ref=e1421]:
+                          - generic [ref=e1422]: 
+                        - listitem [ref=e1423]:
+                          - generic [ref=e1424]: 
+                        - listitem [ref=e1425]: (4)
+            - listitem [ref=e1426]:
+              - link [ref=e1427] [cursor=pointer]:
+                - /url: /tienda/pdp/consola-fija-xbox-series-s-de-1-tb-edici%C3%B3n-est%C3%A1ndar-microsoft/1163096729?skuid=1163096729
+                - figure [ref=e1429]:
+                  - img "Consola fija xbox series s de 1 tb edición estándar Microsoft" [ref=e1432]
+                  - generic [ref=e1434]:
+                    - article [ref=e1435]:
+                      - heading "MICROSOFT" [level=3] [ref=e1436]
+                      - heading "Consola fija xbox series s de 1 tb edición estándar" [level=3] [ref=e1437]
+                    - generic [ref=e1439]:
+                      - paragraph [ref=e1441]:
+                        - text: $10,499
+                        - superscript [ref=e1442]: "00"
+                      - list [ref=e1444]:
+                        - listitem [ref=e1445]:
+                          - generic "Blanco" [ref=e1446]
+                      - list [ref=e1448]:
+                        - listitem [ref=e1449]:
+                          - generic [ref=e1450]: 
+                        - listitem [ref=e1451]:
+                          - generic [ref=e1452]: 
+                        - listitem [ref=e1453]:
+                          - generic [ref=e1454]: 
+                        - listitem [ref=e1455]:
+                          - generic [ref=e1456]: 
+                        - listitem [ref=e1457]:
+                          - generic [ref=e1458]: 
+                        - listitem [ref=e1459]: (41)
+            - listitem [ref=e1460]:
+              - link [ref=e1461] [cursor=pointer]:
+                - /url: /tienda/pdp/consola-fija-xbox-series-s-de-512-gb-edici%C3%B3n-bundle-microsoft/9993645172?skuid=1199037826
+                - figure [ref=e1463]:
+                  - img "Consola fija Xbox Series S de 512 GB edición bundle Microsoft" [ref=e1466]
+                  - generic [ref=e1468]:
+                    - article [ref=e1469]:
+                      - heading "MICROSOFT" [level=3] [ref=e1470]
+                      - heading "Consola fija Xbox Series S de 512 GB edición bundle" [level=3] [ref=e1471]
+                    - generic [ref=e1473]:
+                      - generic [ref=e1474]:
+                        - paragraph [ref=e1475]:
+                          - text: $14,999
+                          - superscript [ref=e1476]: "00"
+                        - paragraph [ref=e1477]:
+                          - text: $11,099
+                          - superscript [ref=e1478]: "00"
+                      - list [ref=e1480]:
+                        - listitem [ref=e1481]:
+                          - generic "Blanco" [ref=e1482]
+            - listitem [ref=e1483]:
+              - link [ref=e1484] [cursor=pointer]:
+                - /url: /tienda/pdp/consola-fija-xbox-one-series-x-de-1-tb-edici%C3%B3n-digital-microsoft/1163093606?skuid=1163093606
+                - figure [ref=e1486]:
+                  - img "Consola fija xbox one series x de 1 tb edición digital Microsoft" [ref=e1489]
+                  - generic [ref=e1491]:
+                    - article [ref=e1492]:
+                      - heading "MICROSOFT" [level=3] [ref=e1493]
+                      - heading "Consola fija xbox one series x de 1 tb edición digital" [level=3] [ref=e1494]
+                    - generic [ref=e1496]:
+                      - paragraph [ref=e1498]:
+                        - text: $13,999
+                        - superscript [ref=e1499]: "00"
+                      - list [ref=e1501]:
+                        - listitem [ref=e1502]:
+                          - generic "Blanco" [ref=e1503]
+                      - list [ref=e1505]:
+                        - listitem [ref=e1506]:
+                          - generic [ref=e1507]: 
+                        - listitem [ref=e1508]:
+                          - generic [ref=e1509]: 
+                        - listitem [ref=e1510]:
+                          - generic [ref=e1511]: 
+                        - listitem [ref=e1512]:
+                          - generic [ref=e1513]: 
+                        - listitem [ref=e1514]:
+                          - generic [ref=e1515]: 
+                        - listitem [ref=e1516]: (48)
+            - listitem [ref=e1517]:
+              - link [ref=e1518] [cursor=pointer]:
+                - /url: /tienda/pdp/consola-fija-xbox-one-series-x-de-1-tb-edici%C3%B3n-digital-microsoft-reacondicionado/1171815483?skuid=1171815483
+                - figure [ref=e1520]:
+                  - img "Consola fija xbox one series x de 1 tb edición digital Microsoft reacondicionado" [ref=e1523]
+                  - generic [ref=e1524]:
+                    - generic [ref=e1526]: Reacondicionado
+                    - generic [ref=e1527]:
+                      - article [ref=e1528]:
+                        - heading "MICROSOFT" [level=3] [ref=e1529]
+                        - heading "Consola fija xbox one series x de 1 tb edición digital reacondicionado" [level=3] [ref=e1530]
+                      - generic [ref=e1532]:
+                        - generic [ref=e1533]:
+                          - paragraph [ref=e1534]:
+                            - text: $22,011
+                            - superscript [ref=e1535]: "00"
+                          - paragraph [ref=e1536]:
+                            - text: $14,307
+                            - superscript [ref=e1537]: "00"
+                        - list [ref=e1539]:
+                          - listitem [ref=e1540]:
+                            - generic "Blanco" [ref=e1541]
+                        - list [ref=e1543]:
+                          - listitem [ref=e1544]:
+                            - generic [ref=e1545]: 
+                          - listitem [ref=e1546]:
+                            - generic [ref=e1547]: 
+                          - listitem [ref=e1548]:
+                            - generic [ref=e1549]: 
+                          - listitem [ref=e1550]:
+                            - generic [ref=e1551]: 
+                          - listitem [ref=e1552]:
+                            - generic [ref=e1553]: 
+                          - listitem [ref=e1554]: (2)
+            - listitem [ref=e1555]:
+              - link [ref=e1556] [cursor=pointer]:
+                - /url: /tienda/pdp/consola-microsoft-xbox-one-s-1tb-ultra-hd-4k-jedi-fallen/1099923683?skuid=1099923683
+                - figure [ref=e1558]:
+                  - img "Consola Microsoft Xbox One S 1TB Ultra HD 4K Jedi Fallen" [ref=e1561]
+                  - generic [ref=e1563]:
+                    - article [ref=e1564]:
+                      - heading "MICROSOFT" [level=3] [ref=e1565]
+                      - heading "Consola Microsoft Xbox One S 1TB Ultra HD 4K Jedi Fallen" [level=3] [ref=e1566]: Consola Microsoft Xbox One S 1TB Ultra HD 4K Jedi Fallen
+                    - generic [ref=e1568]:
+                      - paragraph [ref=e1570]:
+                        - text: $21,656
+                        - superscript [ref=e1571]: "00"
+                      - list [ref=e1573]:
+                        - listitem [ref=e1574]:
+                          - generic "Blanco" [ref=e1575]
+        - text: 
+    - contentinfo [ref=e1577]:
+      - generic [ref=e1578]:
+        - generic [ref=e1579]:
+          - navigation [ref=e1582]:
+            - generic [ref=e1584]:
+              - generic [ref=e1586]:
+                - generic:
+                  - heading "Soporte al cliente" [level=3]
+                  - text: 
+                - generic "Soporte al cliente" [ref=e1587]:
+                  - list [ref=e1589]:
+                    - listitem [ref=e1590]:
+                      - link "Facturación" [ref=e1591] [cursor=pointer]:
+                        - /url: https://facturacionclientes.liverpool.com.mx/inicio/&uid=liverpool
+                    - listitem [ref=e1592]:
+                      - link "Ayuda" [ref=e1593] [cursor=pointer]:
+                        - /url: https://www.liverpool.com.mx/ayuda/index.html#/
+                    - listitem [ref=e1594]:
+                      - link "Mis Compras" [ref=e1595] [cursor=pointer]:
+                        - /url: /tienda/users/miscompras
+                    - listitem [ref=e1596]:
+                      - link "Garantía Liverpool" [ref=e1597] [cursor=pointer]:
+                        - /url: /tienda/paginas/garantia
+              - generic [ref=e1599]:
+                - generic:
+                  - heading "Servicios Liverpool" [level=3]
+                  - text: 
+                - generic "Servicios Liverpool" [ref=e1600]:
+                  - list [ref=e1602]:
+                    - listitem [ref=e1603]:
+                      - link "Crédito" [ref=e1604] [cursor=pointer]:
+                        - /url: https://micredito.liverpool.com.mx/app
+                    - listitem [ref=e1605]:
+                      - link "Tiempo aire" [ref=e1606] [cursor=pointer]:
+                        - /url: "#"
+                    - listitem [ref=e1607]:
+                      - link "Concursos y promociones" [ref=e1608] [cursor=pointer]:
+                        - /url: /tienda/promotions
+                    - listitem [ref=e1609]:
+                      - link "Diseño de Interiores" [ref=e1610] [cursor=pointer]:
+                        - /url: /tienda/paginas/diseno-interiores
+                    - listitem [ref=e1611]:
+                      - link "Ventas Corporativas" [ref=e1612] [cursor=pointer]:
+                        - /url: https://www.liverpool.com.mx/tienda/paginas/ventas-corporativas
+              - generic [ref=e1614]:
+                - generic:
+                  - heading "Acerca de Liverpool" [level=3]
+                  - text: 
+                - generic "Acerca de Liverpool" [ref=e1615]:
+                  - list [ref=e1617]:
+                    - listitem [ref=e1618]:
+                      - link "Portal de carrera" [ref=e1619] [cursor=pointer]:
+                        - /url: https://pcarrera.liverpool.com.mx
+                    - listitem [ref=e1620]:
+                      - link "¿Quiénes somos?" [ref=e1621] [cursor=pointer]:
+                        - /url: https://www.elpuertodeliverpool.mx/perfil.html
+                    - listitem [ref=e1622]:
+                      - link "Relación con inversionistas" [ref=e1623] [cursor=pointer]:
+                        - /url: https://www.elpuertodeliverpool.mx/
+                    - listitem [ref=e1624]:
+                      - link "Sostenibilidad" [ref=e1625] [cursor=pointer]:
+                        - /url: /tienda/paginas/sostenibilidad
+              - generic [ref=e1627]:
+                - generic:
+                  - heading "Promociones" [level=3]
+                  - text: 
+                - generic "Promociones" [ref=e1628]:
+                  - list [ref=e1630]:
+                    - listitem [ref=e1631]:
+                      - link "Venta Nocturna" [ref=e1632] [cursor=pointer]:
+                        - /url: https://www.liverpool.com.mx/tienda/paginas/venta-nocturna
+                    - listitem [ref=e1633]:
+                      - link "Hot Sale" [ref=e1634] [cursor=pointer]:
+                        - /url: https://www.liverpool.com.mx/tienda/hot-sale/catst52375715
+                    - listitem [ref=e1635]:
+                      - link "Buen Fin" [ref=e1636] [cursor=pointer]:
+                        - /url: https://www.liverpool.com.mx/tienda/buen-fin/catst44480398
+                    - listitem [ref=e1637]:
+                      - link "Bolo Fest" [ref=e1638] [cursor=pointer]:
+                        - /url: https://www.liverpool.com.mx/tienda/paginas/bolofest
+          - generic [ref=e1642]:
+            - paragraph [ref=e1643]
+            - paragraph [ref=e1644]: Ventas por teléfono 555262-9999
+            - paragraph [ref=e1645]: Desde tu celular *7171
+            - paragraph [ref=e1646]:
+              - text: Contáctanos vía
+              - link "WhatsApp" [ref=e1647] [cursor=pointer]:
+                - /url: https://wa.me/525552629999
+              - text: o por Teléfono al 5552629999
+          - separator [ref=e1649]
+        - generic [ref=e1650]:
+          - generic [ref=e1651]:
+            - generic [ref=e1652]: "Comentarios y Sugerencias:"
+            - generic [ref=e1653]: atencion@liverpool.com.mx
+          - generic [ref=e1654]:
+            - link "Términos y condiciones" [ref=e1655] [cursor=pointer]:
+              - /url: https://www.liverpool.com.mx/ayuda/index.html#/sec/terminos-y-condiciones/informacion
+            - text: /
+            - link "Aviso de privacidad" [ref=e1656] [cursor=pointer]:
+              - /url: https://www.liverpool.com.mx/ayuda/index.html#/sec/terminos-y-condiciones/proteccion-de-datos/aviso-clientes
+            - text: /
+            - link "Mapa del sitio" [ref=e1657] [cursor=pointer]:
+              - /url: /tienda/sitemap
+          - generic [ref=e1658]:
+            - link "icon" [ref=e1659] [cursor=pointer]:
+              - /url: https://www.facebook.com/liverpoolmexico
+              - img "icon" [ref=e1660]
+            - link "icon" [ref=e1661] [cursor=pointer]:
+              - /url: https://twitter.com/LiverpoolMexico
+              - img "icon" [ref=e1662]
+            - link "icon" [ref=e1663] [cursor=pointer]:
+              - /url: https://www.instagram.com/liverpool_mexico/
+              - img "icon" [ref=e1664]
+      - generic [ref=e1666]:
+        - paragraph [ref=e1667]: Precio en rojo aplica el descuento más alto, las promociones pueden diferir de las publicadas en tienda
+        - paragraph [ref=e1668]: 2025 Liverpool / Todos los derechos reservados D.R. ®
+  - alert [ref=e1669]: Xbox series x
+```
+
+# Test source
+
+```ts
+  5   | import { logger } from "../utils/logger.js";
+  6   | import { Product } from "../models/Product.js";
+  7   | import { formatter } from "../utils/formatter.js";
+  8   | import searchData from "../data/liverpool-search-data.json" with { type: "json" };
+  9   | 
+  10  | for (const { term, expectedMatches } of searchData) {
+  11  |   test(`Search, filter, validate and run a11y scan for: ${term}`, async ({
+  12  |     page,
+  13  |   }) => {
+  14  |     const homePage = new HomePage(page);
+  15  |     const searchResultsPage = new SearchResultsPage(page);
+  16  |     let apiResults: Product[] = [];
+  17  |     let resultsUi: Product[] = [];
+  18  | 
+  19  |     // ========================================================
+  20  |     // 1: Navigation & Search
+  21  |     // ========================================================
+  22  |     await test.step(`Maps and search for "${term}"`, async () => {
+  23  |       await homePage.navigate();
+  24  |       await homePage.searchFor(term);
+  25  |     });
+  26  | 
+  27  |     // ========================================================
+  28  |     // 2: Filter, Sort & Intercept API
+  29  |     // ========================================================
+  30  |     await test.step("Filter by color, sort by price, and intercept API", async () => {
+  31  |       await searchResultsPage.filterByColorBlanco();
+  32  | 
+  33  |       // Generate a PromiseAll to force the retrieval of all info. without waiting time
+  34  |       const [response] = await Promise.all([
+  35  |         page.waitForResponse(
+  36  |           (res) =>
+  37  |             res.url().includes("getPlpFilter") &&
+  38  |             res.url().includes("sortPrice") &&
+  39  |             res.ok(),
+  40  |         ),
+  41  |         searchResultsPage.sortByLowestPrice(),
+  42  |       ]);
+  43  | 
+  44  |       const json = await response.json();
+  45  |       const apiRecords = json.mainContent.records;
+  46  | 
+  47  |       // Parse the JSON into Product entity
+  48  |       apiResults = apiRecords.map((record: any) => {
+  49  |         const rawBrand = record.allMeta.brand;
+  50  |         const rawName = record._t;
+  51  |         let frontendRenderedName = rawName;
+  52  |         // Regex to delete the brand from the frontend. The logic in front-end removes the brand from the description.
+  53  |         /*
+  54  |         const brandRegex = new RegExp(rawBrand, "gi");
+  55  |         frontendRenderedName = rawName
+  56  |           .replace(brandRegex, "")
+  57  |           .replace(/\s+/g, " ")
+  58  |           .trim();
+  59  |           */
+  60  |         const prices = record.allMeta.variants[0].prices;
+  61  |         return {
+  62  |           brand: formatter.normalizeText(rawBrand),
+  63  |           name: formatter.normalizeText(frontendRenderedName),
+  64  |           price: parseFloat(prices.listPrice || prices.salePrice),
+  65  |           discounted: parseFloat(prices.salePrice || prices.listPrice),
+  66  |         };
+  67  |       });
+  68  |     });
+  69  | 
+  70  |     // ========================================================
+  71  |     // STEP 3: UI Extraction & Cross-Validation
+  72  |     // ========================================================
+  73  |     await test.step("Extract UI cards and cross-validate with API data", async () => {
+  74  |       resultsUi = await searchResultsPage.getTop5ResultsFromUI();
+  75  |       let matches = 0;
+  76  | 
+  77  |       resultsUi.forEach((uiItem) => {
+  78  |         const match = apiResults.find(
+  79  |           (apiItem) =>
+  80  |             apiItem.brand === uiItem.brand &&
+  81  |             apiItem.name.includes(uiItem.name),
+  82  |         );
+  83  | 
+  84  |         if (match) {
+  85  |           const isRegularPriceMatch =
+  86  |             uiItem.price.toFixed(2) === match.price.toFixed(2);
+  87  |           const isDiscountPriceMatch =
+  88  |             uiItem.discounted?.toFixed(2) === match.discounted?.toFixed(2);
+  89  | 
+  90  |           if (isRegularPriceMatch && isDiscountPriceMatch) {
+  91  |             matches++;
+  92  |           } else {
+  93  |             logger.warn(
+  94  |               `🚨\t${term}: Price mismatch for "${uiItem.name}": UI=$${uiItem.price} | API=$${match.price}`,
+  95  |             );
+  96  |           }
+  97  |         } else {
+  98  |           logger.warn(
+  99  |             `⚠️\t${term}: Discrepancy: Item "${uiItem.name}" from UI not found in API.`,
+  100 |           );
+  101 |         }
+  102 |       });
+  103 | 
+  104 |       logger.info(`Validation matches: ${matches}/5`);
+> 105 |       expect(matches).toBeGreaterThanOrEqual(expectedMatches);
+      |                       ^ Error: expect(received).toBeGreaterThanOrEqual(expected)
+  106 |     });
+  107 | 
+  108 |     // ========================================================
+  109 |     // STEP 4: Accessibility Scan
+  110 |     // ========================================================
+  111 |     await test.step("Run Axe-core Accessibility Scan", async () => {
+  112 |       test.setTimeout(test.info().timeout + 30000);
+  113 |       logger.debug("Running accessibility scan...");
+  114 |       const accessibilityResults = await new AxeBuilder({ page })
+  115 |         .disableRules([
+  116 |           "aria-required-children",
+  117 |           "aria-valid-attr-value",
+  118 |           "button-name",
+  119 |           "label",
+  120 |         ])
+  121 |         .analyze();
+  122 | 
+  123 |       if (accessibilityResults.violations.length > 0) {
+  124 |         logger.warn(
+  125 |           `Accessibility violations found: ${accessibilityResults.violations.length}`,
+  126 |         );
+  127 |       }
+  128 | 
+  129 |       const criticalViolations = accessibilityResults.violations.filter(
+  130 |         (v) => v.impact === "critical",
+  131 |       );
+  132 |       expect(criticalViolations).toEqual([]);
+  133 |     });
+  134 |   });
+  135 | }
+  136 | 
+```
