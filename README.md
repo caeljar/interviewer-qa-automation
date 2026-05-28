@@ -1,47 +1,81 @@
-# Liverpool QA Automation Assessment
+# Liverpool E-commerce QA Automation
 
-This repository contains a production-grade Playwright automation framework designed to validate the search, filter, and sort flow on `liverpool.com.mx`.
+Technical assessment for a QA Automation position. This framework automates the search, filter, and validation flow on `liverpool.com.mx` using Playwright and TypeScript.
 
 ## Features
-- **Page Object Model (POM)** for clean, maintainable code.
-- **Service Interception** to validate UI data against backend API responses.
-- **Accessibility Testing** using `@axe-core/playwright`.
-- **GitHub Actions Integration** for automated CI/CD.
 
-## Getting Started
+- **Page Object Model (POM):** Clean and maintainable design.
+- **Cross-Validation:** UI results are validated against the **intercepted** backend JSON response.
+- **Accessibility Testing:** Integrated `@axe-core/playwright` for automated A11y scans.
+- **Logging:** Structured logging using `pino`.
+- **CI/CD:** GitHub Actions workflow for automated execution.
 
-### Prerequisites
-- [Node.js](https://nodejs.org/) (v18 or higher)
-- npm (installed with Node.js)
+## 🛠 Installation for Local Execution
 
-### Installation
-1. Clone the repository.
-2. Install dependencies and Playwright browsers:
+1. **Clone the repository:**
+
    ```bash
-   npm install
-   npx playwright install chromium --with-deps
+   git clone <repository-url>
    ```
 
-### Running Tests
+2. **Install dependencies:**
 
-#### Headless Mode (Standard)
+   ```bash
+   npm install
+   ```
+
+3. **Install Playwright browsers:**
+   ```bash
+   npx playwright install --with-deps
+   ```
+
+## 🚀 Running Tests
+
+### Headless Mode (Default)
+
+Recommended for CI and fast local execution.
+
 ```bash
 npx playwright test
 ```
 
-#### Headed Mode (Visual execution)
+### Headed Mode
+
+Useful for debugging and seeing the automation in action.
+
 ```bash
-npx playwright test --headed
+HEADLESS=false npx playwright test
 ```
 
-#### View HTML Report
-After running the tests, you can view the detailed HTML report:
+### UI Mode
+
+Interactive test runner with time-travel debugging.
+
+```bash
+npx playwright test --ui
+```
+
+## 📊 Reports
+
+After running the tests, an HTML report is generated automatically. To view it:
+
 ```bash
 npx playwright show-report
 ```
 
-## Project Structure
-- `pages/`: Page Object Models for navigation and interaction.
-- `tests/`: Test specifications and data-driven scenarios.
-- `.github/workflows/`: CI configuration for GitHub Actions.
-- `TEST_STRATEGY.md`: Architectural decisions and risk mitigation.
+## 📂 Project Structure
+
+- `tests/`: Test specifications (Data-driven approach).
+- `pages/`: Page Object Models (Encapsulated logic).
+- `models/`: TypeScript interfaces (Product schemas).
+- `utils/`: Helper functions (Formatter, Logger).
+- `data/`: Test data (JSON search terms).
+- `.github/workflows/`: CI/CD configuration (GitHub Actions).
+
+## 📋 Data-Driven JSON
+
+To add, modify, or extend test scenarios without changing the execution code, update the external JSON parameter file located at data/liverpool-search-data.json.
+
+## 📝 Strategy & Decisions
+
+For detailed information about the test strategy, CAPTCHA handling, and mitigation of flakiness, refer to [TEST_STRATEGY.md](./TEST_STRATEGY.md).
