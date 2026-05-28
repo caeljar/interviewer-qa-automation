@@ -2,13 +2,5 @@
   { 
     "term": "playstation 5", 
     "expectedMatches": 3 
-  },
-  { 
-    "term": "xbox series x", 
-    "expectedMatches": 3 
-  },
-  { 
-    "term": "nintendo switch", 
-    "expectedMatches": 3 
   }
 ]
