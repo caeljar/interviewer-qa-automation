@@ -1,5 +1,9 @@
 import { defineConfig, devices } from "@playwright/test";
+import dotenv from "dotenv";
 
+// Load environment variables from .env file
+dotenv.config();
+const isHeadless = process.env.HEADLESS !== "false";
 /**
  * See https://playwright.dev/docs/test-configuration.
  */
@@ -32,7 +36,11 @@ export default defineConfig({
     /* Collect trace when retrying the failed test. See https://playwright.dev/docs/trace-viewer */
     trace: "on-first-retry",
     screenshot: "only-on-failure",
-    headless: false,
+    headless: isHeadless,
+    channel: "chrome",
+    launchOptions: {
+      args: isHeadless ? ["--headless=new"] : [],
+    },
   },
 
   /* Configure projects for major browsers */

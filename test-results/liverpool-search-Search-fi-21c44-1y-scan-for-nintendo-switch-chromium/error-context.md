@@ -807,1489 +807,1488 @@ Received:    2
               - generic [ref=e796] [cursor=pointer]: "1"
               - generic [ref=e797] [cursor=pointer]: Shooter
               - generic [ref=e798] [cursor=pointer]: Regalo con compra
-              - generic [ref=e799] [cursor=pointer]: Cerámica
-              - generic [ref=e800] [cursor=pointer]: Liso
-            - generic [ref=e802]:
-              - heading "Nintendo switch" [level=1] [ref=e803]
-              - generic [ref=e804]:
-                - link "Menor precio " [ref=e808] [cursor=pointer]:
+              - generic [ref=e799] [cursor=pointer]: Unisex
+            - generic [ref=e801]:
+              - heading "Nintendo switch" [level=1] [ref=e802]
+              - generic [ref=e803]:
+                - link "Menor precio " [ref=e807] [cursor=pointer]:
                   - /url: /tienda/N-hgcLI2abDrxHMRMHRY%2BNcxgGU5UwgEshy4hRAfc%2B%2BKU%3D?s=nintendo%20switch&st=sortPrice|0#!
                   - text: Menor precio
                   - generic: 
-                - generic [ref=e809]:
-                  - link "" [ref=e810] [cursor=pointer]:
+                - generic [ref=e808]:
+                  - link "" [ref=e809] [cursor=pointer]:
                     - /url: /tienda/N-hgcLI2abDrxHMRMHRY%2BNcxgGU5UwgEshy4hRAfc%2B%2BKU%3D?s=nintendo%20switch&st=sortPrice|0#!
-                    - generic [ref=e811]: 
-                  - link "" [ref=e812] [cursor=pointer]:
+                    - generic [ref=e810]: 
+                  - link "" [ref=e811] [cursor=pointer]:
                     - /url: /tienda/N-hgcLI2abDrxHMRMHRY%2BNcxgGU5UwgEshy4hRAfc%2B%2BKU%3D?s=nintendo%20switch&st=sortPrice|0#!
-                    - generic [ref=e813]: 
-                  - paragraph [ref=e814]: 55 Productos
-          - list [ref=e818]:
-            - listitem [ref=e819]:
-              - link [ref=e820] [cursor=pointer]:
+                    - generic [ref=e812]: 
+                  - paragraph [ref=e813]: 55 Productos
+          - list [ref=e817]:
+            - listitem [ref=e818]:
+              - link [ref=e819] [cursor=pointer]:
                 - /url: /tienda/pdp/aretes-largos-de-flor-map-con-acabado-liso/1188373590?skuid=1188373590
-                - figure [ref=e822]:
-                  - img "Aretes largos de flor Map con acabado liso" [ref=e825]
-                  - generic [ref=e827]:
-                    - article [ref=e828]:
-                      - heading "MAP" [level=3] [ref=e829]
-                      - heading "Aretes largos de flor con acabado liso" [level=3] [ref=e830]
-                    - generic [ref=e832]:
-                      - generic [ref=e833]:
-                        - paragraph [ref=e834]:
+                - figure [ref=e821]:
+                  - img "Aretes largos de flor Map con acabado liso" [ref=e824]
+                  - generic [ref=e826]:
+                    - article [ref=e827]:
+                      - heading "MAP" [level=3] [ref=e828]
+                      - heading "Aretes largos de flor con acabado liso" [level=3] [ref=e829]
+                    - generic [ref=e831]:
+                      - generic [ref=e832]:
+                        - paragraph [ref=e833]:
                           - text: $229
-                          - superscript [ref=e835]: "00"
-                        - paragraph [ref=e836]:
+                          - superscript [ref=e834]: "00"
+                        - paragraph [ref=e835]:
                           - text: $137
-                          - superscript [ref=e837]: "40"
-                      - list [ref=e839]:
-                        - listitem [ref=e840]:
-                          - generic "Blanco" [ref=e841]
-            - listitem [ref=e842]:
-              - link [ref=e843] [cursor=pointer]:
+                          - superscript [ref=e836]: "40"
+                      - list [ref=e838]:
+                        - listitem [ref=e839]:
+                          - generic "Blanco" [ref=e840]
+            - listitem [ref=e841]:
+              - link [ref=e842] [cursor=pointer]:
                 - /url: /tienda/pdp/soporte-para-aud%C3%ADfonos-gamer-gen-brand/1162162922?skuid=1162162922
-                - figure [ref=e845]:
-                  - img "Soporte para audífonos gamer Gen Brand" [ref=e848]
-                  - generic [ref=e850]:
-                    - article [ref=e851]:
-                      - heading "GEN BRAND" [level=3] [ref=e852]
-                      - heading "Soporte para audífonos gamer" [level=3] [ref=e853]
-                    - generic [ref=e855]:
-                      - generic [ref=e856]:
-                        - paragraph [ref=e857]:
+                - figure [ref=e844]:
+                  - img "Soporte para audífonos gamer Gen Brand" [ref=e847]
+                  - generic [ref=e849]:
+                    - article [ref=e850]:
+                      - heading "GEN BRAND" [level=3] [ref=e851]
+                      - heading "Soporte para audífonos gamer" [level=3] [ref=e852]
+                    - generic [ref=e854]:
+                      - generic [ref=e855]:
+                        - paragraph [ref=e856]:
                           - text: $299
-                          - superscript [ref=e858]: "00"
-                        - paragraph [ref=e859]:
+                          - superscript [ref=e857]: "00"
+                        - paragraph [ref=e858]:
                           - text: $229
-                          - superscript [ref=e860]: "00"
-                      - list [ref=e862]:
-                        - listitem [ref=e863]:
-                          - generic "Blanco" [ref=e864]
-            - listitem [ref=e865]:
-              - link [ref=e866] [cursor=pointer]:
+                          - superscript [ref=e859]: "00"
+                      - list [ref=e861]:
+                        - listitem [ref=e862]:
+                          - generic "Blanco" [ref=e863]
+            - listitem [ref=e864]:
+              - link [ref=e865] [cursor=pointer]:
                 - /url: /tienda/pdp/taza-infantil-nintendo/1180777632?skuid=1180777632
-                - figure [ref=e868]:
-                  - img "Taza infantil Nintendo" [ref=e871]
-                  - generic [ref=e873]:
-                    - article [ref=e874]:
-                      - heading "NINTENDO" [level=3] [ref=e875]
-                      - heading "Taza infantil" [level=3] [ref=e876]
-                    - generic [ref=e878]:
-                      - generic [ref=e879]:
-                        - paragraph [ref=e880]:
+                - figure [ref=e867]:
+                  - img "Taza infantil Nintendo" [ref=e870]
+                  - generic [ref=e872]:
+                    - article [ref=e873]:
+                      - heading "NINTENDO" [level=3] [ref=e874]
+                      - heading "Taza infantil" [level=3] [ref=e875]
+                    - generic [ref=e877]:
+                      - generic [ref=e878]:
+                        - paragraph [ref=e879]:
                           - text: $299
-                          - superscript [ref=e881]: "00"
-                        - paragraph [ref=e882]:
+                          - superscript [ref=e880]: "00"
+                        - paragraph [ref=e881]:
                           - text: $239
-                          - superscript [ref=e883]: "20"
-                      - list [ref=e885]:
-                        - listitem [ref=e886]:
-                          - generic "Blanco" [ref=e887]
-                      - list [ref=e889]:
-                        - listitem [ref=e890]:
-                          - generic [ref=e891]: 
-                        - listitem [ref=e892]:
-                          - generic [ref=e893]: 
-                        - listitem [ref=e894]:
-                          - generic [ref=e895]: 
-                        - listitem [ref=e896]:
-                          - generic [ref=e897]: 
-                        - listitem [ref=e898]:
-                          - generic [ref=e899]: 
-                        - listitem [ref=e900]: (1)
-            - listitem [ref=e901]:
-              - link [ref=e902] [cursor=pointer]:
+                          - superscript [ref=e882]: "20"
+                      - list [ref=e884]:
+                        - listitem [ref=e885]:
+                          - generic "Blanco" [ref=e886]
+                      - list [ref=e888]:
+                        - listitem [ref=e889]:
+                          - generic [ref=e890]: 
+                        - listitem [ref=e891]:
+                          - generic [ref=e892]: 
+                        - listitem [ref=e893]:
+                          - generic [ref=e894]: 
+                        - listitem [ref=e895]:
+                          - generic [ref=e896]: 
+                        - listitem [ref=e897]:
+                          - generic [ref=e898]: 
+                        - listitem [ref=e899]: (1)
+            - listitem [ref=e900]:
+              - link [ref=e901] [cursor=pointer]:
                 - /url: /tienda/pdp/estuche-para-consola-nintendo-switch-power-a-de-fire-mario/1123928373?skuid=1123928373
-                - figure [ref=e904]:
-                  - img "Estuche para consola Nintendo Switch Power A de Fire Mario" [ref=e907]
-                  - generic [ref=e909]:
-                    - article [ref=e910]:
-                      - heading "POWER A" [level=3] [ref=e911]
-                      - heading "Estuche para consola Nintendo Switch de Fire Mario" [level=3] [ref=e912]
-                    - generic [ref=e914]:
-                      - generic [ref=e915]:
-                        - paragraph [ref=e916]:
+                - figure [ref=e903]:
+                  - img "Estuche para consola Nintendo Switch Power A de Fire Mario" [ref=e906]
+                  - generic [ref=e908]:
+                    - article [ref=e909]:
+                      - heading "POWER A" [level=3] [ref=e910]
+                      - heading "Estuche para consola Nintendo Switch de Fire Mario" [level=3] [ref=e911]
+                    - generic [ref=e913]:
+                      - generic [ref=e914]:
+                        - paragraph [ref=e915]:
                           - text: $449
-                          - superscript [ref=e917]: "00"
-                        - paragraph [ref=e918]:
+                          - superscript [ref=e916]: "00"
+                        - paragraph [ref=e917]:
                           - text: $359
-                          - superscript [ref=e919]: "20"
-                      - list [ref=e921]:
-                        - listitem [ref=e922]:
-                          - generic "Blanco" [ref=e923]
-                      - list [ref=e925]:
-                        - listitem [ref=e926]:
-                          - generic [ref=e927]: 
-                        - listitem [ref=e928]:
-                          - generic [ref=e929]: 
-                        - listitem [ref=e930]:
-                          - generic [ref=e931]: 
-                        - listitem [ref=e932]:
-                          - generic [ref=e933]: 
-                        - listitem [ref=e934]:
-                          - generic [ref=e935]: 
-                        - listitem [ref=e936]: (7)
-            - listitem [ref=e937]:
-              - link [ref=e938] [cursor=pointer]:
+                          - superscript [ref=e918]: "20"
+                      - list [ref=e920]:
+                        - listitem [ref=e921]:
+                          - generic "Blanco" [ref=e922]
+                      - list [ref=e924]:
+                        - listitem [ref=e925]:
+                          - generic [ref=e926]: 
+                        - listitem [ref=e927]:
+                          - generic [ref=e928]: 
+                        - listitem [ref=e929]:
+                          - generic [ref=e930]: 
+                        - listitem [ref=e931]:
+                          - generic [ref=e932]: 
+                        - listitem [ref=e933]:
+                          - generic [ref=e934]: 
+                        - listitem [ref=e935]: (7)
+            - listitem [ref=e936]:
+              - link [ref=e937] [cursor=pointer]:
                 - /url: /tienda/pdp/funda-control-de-consola-ecoshopmaster-para-nintendo-switch-2/99989035871?skuid=1183803863
-                - figure [ref=e940]:
-                  - img "Funda control de consola Ecoshopmaster para Nintendo Switch 2" [ref=e943]
-                  - generic [ref=e945]:
-                    - article [ref=e946]:
-                      - heading "ECOSHOPMASTER" [level=3] [ref=e947]
-                      - heading "Funda control de consola para Nintendo Switch 2" [level=3] [ref=e948]
-                    - generic [ref=e950]:
-                      - generic [ref=e951]:
-                        - paragraph [ref=e952]:
+                - figure [ref=e939]:
+                  - img "Funda control de consola Ecoshopmaster para Nintendo Switch 2" [ref=e942]
+                  - generic [ref=e944]:
+                    - article [ref=e945]:
+                      - heading "ECOSHOPMASTER" [level=3] [ref=e946]
+                      - heading "Funda control de consola para Nintendo Switch 2" [level=3] [ref=e947]
+                    - generic [ref=e949]:
+                      - generic [ref=e950]:
+                        - paragraph [ref=e951]:
                           - text: $500
-                          - superscript [ref=e953]: "00"
-                        - paragraph [ref=e954]:
+                          - superscript [ref=e952]: "00"
+                        - paragraph [ref=e953]:
                           - text: $366
-                          - superscript [ref=e955]: "00"
-                      - list [ref=e957]:
-                        - listitem [ref=e958]:
-                          - generic "Verde azulado" [ref=e959]
-                        - listitem [ref=e960]:
-                          - generic "Azul" [ref=e961]
-                        - listitem [ref=e962]:
-                          - generic "Blanco" [ref=e963]
-                        - listitem [ref=e964]:
-                          - generic "Azul claro" [ref=e965]
-                        - listitem [ref=e966]:
-                          - generic "Negro" [ref=e967]
-                        - listitem [ref=e968]:
-                          - generic "Rojo claro" [ref=e969]
-                        - listitem [ref=e970]:
-                          - generic [ref=e971]: 
-            - listitem [ref=e972]:
-              - link [ref=e973] [cursor=pointer]:
+                          - superscript [ref=e954]: "00"
+                      - list [ref=e956]:
+                        - listitem [ref=e957]:
+                          - generic "Verde azulado" [ref=e958]
+                        - listitem [ref=e959]:
+                          - generic "Azul" [ref=e960]
+                        - listitem [ref=e961]:
+                          - generic "Blanco" [ref=e962]
+                        - listitem [ref=e963]:
+                          - generic "Azul claro" [ref=e964]
+                        - listitem [ref=e965]:
+                          - generic "Negro" [ref=e966]
+                        - listitem [ref=e967]:
+                          - generic "Rojo claro" [ref=e968]
+                        - listitem [ref=e969]:
+                          - generic [ref=e970]: 
+            - listitem [ref=e971]:
+              - link [ref=e972] [cursor=pointer]:
                 - /url: /tienda/pdp/playera-super-mario-mario-kart-cuello-redondo-para-hombre/9993759696?skuid=1199477770
-                - figure [ref=e975]:
-                  - img "Playera super mario mario kart cuello redondo para hombre" [ref=e978]
-                  - generic [ref=e980]:
-                    - article [ref=e981]:
-                      - heading "SUPER MARIO" [level=3] [ref=e982]
-                      - heading "Playera mario kart cuello redondo para hombre" [level=3] [ref=e983]
-                    - generic [ref=e985]:
-                      - generic [ref=e986]:
-                        - paragraph [ref=e987]:
+                - figure [ref=e974]:
+                  - img "Playera super mario mario kart cuello redondo para hombre" [ref=e977]
+                  - generic [ref=e979]:
+                    - article [ref=e980]:
+                      - heading "SUPER MARIO" [level=3] [ref=e981]
+                      - heading "Playera mario kart cuello redondo para hombre" [level=3] [ref=e982]
+                    - generic [ref=e984]:
+                      - generic [ref=e985]:
+                        - paragraph [ref=e986]:
                           - text: $399
-                          - superscript [ref=e988]: "00"
-                        - paragraph [ref=e989]:
+                          - superscript [ref=e987]: "00"
+                        - paragraph [ref=e988]:
                           - text: $379
-                          - superscript [ref=e990]: "05"
-                      - list [ref=e992]:
-                        - listitem [ref=e993]:
-                          - generic "Blanco" [ref=e994]
-            - listitem [ref=e995]:
-              - link [ref=e996] [cursor=pointer]:
+                          - superscript [ref=e989]: "05"
+                      - list [ref=e991]:
+                        - listitem [ref=e992]:
+                          - generic "Blanco" [ref=e993]
+            - listitem [ref=e994]:
+              - link [ref=e995] [cursor=pointer]:
                 - /url: /tienda/pdp/playera-manga-corta-nintendo-cuello-redondo-para-mujer/99982727463?skuid=1173332391
-                - figure [ref=e998]:
-                  - img "Playera manga corta Nintendo cuello redondo para mujer" [ref=e1001]
-                  - generic [ref=e1003]:
-                    - article [ref=e1004]:
-                      - heading "NINTENDO" [level=3] [ref=e1005]
-                      - heading "Playera manga corta cuello redondo para mujer" [level=3] [ref=e1006]
-                    - generic [ref=e1008]:
-                      - generic [ref=e1009]:
-                        - paragraph [ref=e1010]:
+                - figure [ref=e997]:
+                  - img "Playera manga corta Nintendo cuello redondo para mujer" [ref=e1000]
+                  - generic [ref=e1002]:
+                    - article [ref=e1003]:
+                      - heading "NINTENDO" [level=3] [ref=e1004]
+                      - heading "Playera manga corta cuello redondo para mujer" [level=3] [ref=e1005]
+                    - generic [ref=e1007]:
+                      - generic [ref=e1008]:
+                        - paragraph [ref=e1009]:
                           - text: $399
-                          - superscript [ref=e1011]: "00"
-                        - paragraph [ref=e1012]:
+                          - superscript [ref=e1010]: "00"
+                        - paragraph [ref=e1011]:
                           - text: $379
-                          - superscript [ref=e1013]: "05"
-                      - list [ref=e1015]:
-                        - listitem [ref=e1016]:
-                          - generic "Blanco" [ref=e1017]
-                      - list [ref=e1019]:
-                        - listitem [ref=e1020]:
-                          - generic [ref=e1021]: 
-                        - listitem [ref=e1022]:
-                          - generic [ref=e1023]: 
-                        - listitem [ref=e1024]:
-                          - generic [ref=e1025]: 
-                        - listitem [ref=e1026]:
-                          - generic [ref=e1027]: 
-                        - listitem [ref=e1028]:
-                          - generic [ref=e1029]: 
-                        - listitem [ref=e1030]: (1)
-            - listitem [ref=e1031]:
-              - link [ref=e1032] [cursor=pointer]:
+                          - superscript [ref=e1012]: "05"
+                      - list [ref=e1014]:
+                        - listitem [ref=e1015]:
+                          - generic "Blanco" [ref=e1016]
+                      - list [ref=e1018]:
+                        - listitem [ref=e1019]:
+                          - generic [ref=e1020]: 
+                        - listitem [ref=e1021]:
+                          - generic [ref=e1022]: 
+                        - listitem [ref=e1023]:
+                          - generic [ref=e1024]: 
+                        - listitem [ref=e1025]:
+                          - generic [ref=e1026]: 
+                        - listitem [ref=e1027]:
+                          - generic [ref=e1028]: 
+                        - listitem [ref=e1029]: (1)
+            - listitem [ref=e1030]:
+              - link [ref=e1031] [cursor=pointer]:
                 - /url: /tienda/pdp/playera-manga-corta-nintendo-cuello-redondo-para-mujer/99982727280?skuid=1173341136
-                - figure [ref=e1034]:
-                  - img "Playera manga corta Nintendo cuello redondo para mujer" [ref=e1037]
-                  - generic [ref=e1039]:
-                    - article [ref=e1040]:
-                      - heading "NINTENDO" [level=3] [ref=e1041]
-                      - heading "Playera manga corta cuello redondo para mujer" [level=3] [ref=e1042]
-                    - generic [ref=e1044]:
-                      - generic [ref=e1045]:
-                        - paragraph [ref=e1046]:
+                - figure [ref=e1033]:
+                  - img "Playera manga corta Nintendo cuello redondo para mujer" [ref=e1036]
+                  - generic [ref=e1038]:
+                    - article [ref=e1039]:
+                      - heading "NINTENDO" [level=3] [ref=e1040]
+                      - heading "Playera manga corta cuello redondo para mujer" [level=3] [ref=e1041]
+                    - generic [ref=e1043]:
+                      - generic [ref=e1044]:
+                        - paragraph [ref=e1045]:
                           - text: $399
-                          - superscript [ref=e1047]: "00"
-                        - paragraph [ref=e1048]:
+                          - superscript [ref=e1046]: "00"
+                        - paragraph [ref=e1047]:
                           - text: $379
-                          - superscript [ref=e1049]: "05"
-                      - list [ref=e1051]:
-                        - listitem [ref=e1052]:
-                          - generic "Blanco" [ref=e1053]
-            - listitem [ref=e1054]:
-              - link [ref=e1055] [cursor=pointer]:
+                          - superscript [ref=e1048]: "05"
+                      - list [ref=e1050]:
+                        - listitem [ref=e1051]:
+                          - generic "Blanco" [ref=e1052]
+            - listitem [ref=e1053]:
+              - link [ref=e1054] [cursor=pointer]:
                 - /url: /tienda/pdp/grips-para-control-da-gamers/99987142036?skuid=1181251332
-                - figure [ref=e1057]:
-                  - img "Grips para control Da Gamers" [ref=e1060]
-                  - generic [ref=e1062]:
-                    - article [ref=e1063]:
-                      - heading "DA GAMERS" [level=3] [ref=e1064]
-                      - heading "Grips para control" [level=3] [ref=e1065]
-                    - generic [ref=e1067]:
-                      - generic [ref=e1068]:
-                        - paragraph [ref=e1069]:
+                - figure [ref=e1056]:
+                  - img "Grips para control Da Gamers" [ref=e1059]
+                  - generic [ref=e1061]:
+                    - article [ref=e1062]:
+                      - heading "DA GAMERS" [level=3] [ref=e1063]
+                      - heading "Grips para control" [level=3] [ref=e1064]
+                    - generic [ref=e1066]:
+                      - generic [ref=e1067]:
+                        - paragraph [ref=e1068]:
                           - text: $599
-                          - superscript [ref=e1070]: "00"
-                        - paragraph [ref=e1071]:
+                          - superscript [ref=e1069]: "00"
+                        - paragraph [ref=e1070]:
                           - text: $389
-                          - superscript [ref=e1072]: "35"
-                      - list [ref=e1074]:
-                        - listitem [ref=e1075]:
-                          - generic "Negro" [ref=e1076]
-                        - listitem [ref=e1077]:
-                          - generic "Blanco" [ref=e1078]
-                        - listitem [ref=e1079]:
-                          - generic "Multicolor" [ref=e1080]
-            - listitem [ref=e1081]:
-              - link [ref=e1082] [cursor=pointer]:
+                          - superscript [ref=e1071]: "35"
+                      - list [ref=e1073]:
+                        - listitem [ref=e1074]:
+                          - generic "Negro" [ref=e1075]
+                        - listitem [ref=e1076]:
+                          - generic "Blanco" [ref=e1077]
+                        - listitem [ref=e1078]:
+                          - generic "Multicolor" [ref=e1079]
+            - listitem [ref=e1080]:
+              - link [ref=e1081] [cursor=pointer]:
                 - /url: /tienda/pdp/aud%C3%ADfonos-kikkerland-us96-al%C3%A1mbricos-con-cancelaci%C3%B3n-de-ruido/1140099968?skuid=1140099968
-                - figure [ref=e1084]:
-                  - img "Audífonos Kikkerland Us96 alámbricos con cancelación de ruido" [ref=e1087]
-                  - generic [ref=e1089]:
-                    - article [ref=e1090]:
-                      - heading "KIKKERLAND" [level=3] [ref=e1091]
-                      - heading "Audífonos Us96 alámbricos con cancelación de ruido" [level=3] [ref=e1092]
-                    - generic [ref=e1094]:
-                      - generic [ref=e1095]:
-                        - paragraph [ref=e1096]:
+                - figure [ref=e1083]:
+                  - img "Audífonos Kikkerland Us96 alámbricos con cancelación de ruido" [ref=e1086]
+                  - generic [ref=e1088]:
+                    - article [ref=e1089]:
+                      - heading "KIKKERLAND" [level=3] [ref=e1090]
+                      - heading "Audífonos Us96 alámbricos con cancelación de ruido" [level=3] [ref=e1091]
+                    - generic [ref=e1093]:
+                      - generic [ref=e1094]:
+                        - paragraph [ref=e1095]:
                           - text: $439
-                          - superscript [ref=e1097]: "00"
-                        - paragraph [ref=e1098]:
+                          - superscript [ref=e1096]: "00"
+                        - paragraph [ref=e1097]:
                           - text: $399
-                          - superscript [ref=e1099]: "00"
-                      - list [ref=e1101]:
-                        - listitem [ref=e1102]:
-                          - generic "Blanco" [ref=e1103]
-            - listitem [ref=e1104]:
-              - link [ref=e1105] [cursor=pointer]:
+                          - superscript [ref=e1098]: "00"
+                      - list [ref=e1100]:
+                        - listitem [ref=e1101]:
+                          - generic "Blanco" [ref=e1102]
+            - listitem [ref=e1103]:
+              - link [ref=e1104] [cursor=pointer]:
                 - /url: /tienda/pdp/peluche-de-toad-nintendo-de-35-cm/1101437805?skuid=1101437805
-                - figure [ref=e1107]:
-                  - img "Peluche de Toad Nintendo de 35 cm" [ref=e1110]
-                  - generic [ref=e1112]:
-                    - article [ref=e1113]:
-                      - heading "NINTENDO" [level=3] [ref=e1114]
-                      - heading "Peluche de Toad de 35 cm" [level=3] [ref=e1115]
-                    - generic [ref=e1117]:
-                      - generic [ref=e1118]:
-                        - paragraph [ref=e1119]:
+                - figure [ref=e1106]:
+                  - img "Peluche de Toad Nintendo de 35 cm" [ref=e1109]
+                  - generic [ref=e1111]:
+                    - article [ref=e1112]:
+                      - heading "NINTENDO" [level=3] [ref=e1113]
+                      - heading "Peluche de Toad de 35 cm" [level=3] [ref=e1114]
+                    - generic [ref=e1116]:
+                      - generic [ref=e1117]:
+                        - paragraph [ref=e1118]:
                           - text: $549
-                          - superscript [ref=e1120]: "00"
-                        - paragraph [ref=e1121]:
+                          - superscript [ref=e1119]: "00"
+                        - paragraph [ref=e1120]:
                           - text: $439
-                          - superscript [ref=e1122]: "20"
-                      - list [ref=e1124]:
-                        - listitem [ref=e1125]:
-                          - generic "Blanco" [ref=e1126]
-                      - list [ref=e1128]:
-                        - listitem [ref=e1129]:
-                          - generic [ref=e1130]: 
-                        - listitem [ref=e1131]:
-                          - generic [ref=e1132]: 
-                        - listitem [ref=e1133]:
-                          - generic [ref=e1134]: 
-                        - listitem [ref=e1135]:
-                          - generic [ref=e1136]: 
-                        - listitem [ref=e1137]:
-                          - generic [ref=e1138]: 
-                        - listitem [ref=e1139]: (11)
-            - listitem [ref=e1140]:
-              - link [ref=e1141] [cursor=pointer]:
+                          - superscript [ref=e1121]: "20"
+                      - list [ref=e1123]:
+                        - listitem [ref=e1124]:
+                          - generic "Blanco" [ref=e1125]
+                      - list [ref=e1127]:
+                        - listitem [ref=e1128]:
+                          - generic [ref=e1129]: 
+                        - listitem [ref=e1130]:
+                          - generic [ref=e1131]: 
+                        - listitem [ref=e1132]:
+                          - generic [ref=e1133]: 
+                        - listitem [ref=e1134]:
+                          - generic [ref=e1135]: 
+                        - listitem [ref=e1136]:
+                          - generic [ref=e1137]: 
+                        - listitem [ref=e1138]: (11)
+            - listitem [ref=e1139]:
+              - link [ref=e1140] [cursor=pointer]:
                 - /url: /tienda/pdp/playera-manga-larga-hollister-cuello-cuadrado-para-mujer/1187288834?skuid=1187288840
-                - figure [ref=e1143]:
-                  - img "Playera manga larga Hollister cuello cuadrado para mujer" [ref=e1146]
-                  - generic [ref=e1148]:
-                    - article [ref=e1149]:
-                      - heading "HOLLISTER" [level=3] [ref=e1150]
-                      - heading "Playera manga larga cuello cuadrado para mujer" [level=3] [ref=e1151]
-                    - generic [ref=e1153]:
-                      - generic [ref=e1154]:
-                        - paragraph [ref=e1155]:
+                - figure [ref=e1142]:
+                  - img "Playera manga larga Hollister cuello cuadrado para mujer" [ref=e1145]
+                  - generic [ref=e1147]:
+                    - article [ref=e1148]:
+                      - heading "HOLLISTER" [level=3] [ref=e1149]
+                      - heading "Playera manga larga cuello cuadrado para mujer" [level=3] [ref=e1150]
+                    - generic [ref=e1152]:
+                      - generic [ref=e1153]:
+                        - paragraph [ref=e1154]:
                           - text: $590
-                          - superscript [ref=e1156]: "00"
-                        - paragraph [ref=e1157]:
+                          - superscript [ref=e1155]: "00"
+                        - paragraph [ref=e1156]:
                           - text: $442
-                          - superscript [ref=e1158]: "50"
-                      - list [ref=e1160]:
-                        - listitem [ref=e1161]:
-                          - generic "Blanco" [ref=e1162]
-            - listitem [ref=e1163]:
-              - link [ref=e1164] [cursor=pointer]:
+                          - superscript [ref=e1157]: "50"
+                      - list [ref=e1159]:
+                        - listitem [ref=e1160]:
+                          - generic "Blanco" [ref=e1161]
+            - listitem [ref=e1162]:
+              - link [ref=e1163] [cursor=pointer]:
                 - /url: /tienda/pdp/mochila-casual-animal-crossing-nintendo/1194850642?skuid=1194850642
-                - figure [ref=e1166]:
-                  - img "Mochila casual Animal Crossing Nintendo" [ref=e1169]
-                  - generic [ref=e1171]:
-                    - article [ref=e1172]:
-                      - heading "NINTENDO" [level=3] [ref=e1173]
-                      - heading "Mochila casual Animal Crossing" [level=3] [ref=e1174]
-                    - generic [ref=e1176]:
-                      - generic [ref=e1177]:
-                        - paragraph [ref=e1178]:
+                - figure [ref=e1165]:
+                  - img "Mochila casual Animal Crossing Nintendo" [ref=e1168]
+                  - generic [ref=e1170]:
+                    - article [ref=e1171]:
+                      - heading "NINTENDO" [level=3] [ref=e1172]
+                      - heading "Mochila casual Animal Crossing" [level=3] [ref=e1173]
+                    - generic [ref=e1175]:
+                      - generic [ref=e1176]:
+                        - paragraph [ref=e1177]:
                           - text: $599
-                          - superscript [ref=e1179]: "00"
-                        - paragraph [ref=e1180]:
+                          - superscript [ref=e1178]: "00"
+                        - paragraph [ref=e1179]:
                           - text: $449
-                          - superscript [ref=e1181]: "25"
-                      - list [ref=e1183]:
-                        - listitem [ref=e1184]:
-                          - generic "Blanco" [ref=e1185]
-            - listitem [ref=e1186]:
-              - link [ref=e1187] [cursor=pointer]:
+                          - superscript [ref=e1180]: "25"
+                      - list [ref=e1182]:
+                        - listitem [ref=e1183]:
+                          - generic "Blanco" [ref=e1184]
+            - listitem [ref=e1185]:
+              - link [ref=e1186] [cursor=pointer]:
                 - /url: /tienda/pdp/playera-tommy-jeans-sailing-cuello-redondo-para-hombre/1199084427?skuid=1199084433
-                - figure [ref=e1189]:
-                  - img "Playera Tommy Jeans Sailing Cuello Redondo Para Hombre" [ref=e1192]
-                  - generic [ref=e1194]:
-                    - article [ref=e1195]:
-                      - heading "TOMMY JEANS" [level=3] [ref=e1196]
-                      - heading "Playera Sailing Cuello Redondo Para Hombre" [level=3] [ref=e1197]
-                    - generic [ref=e1199]:
-                      - generic [ref=e1200]:
-                        - paragraph [ref=e1201]:
+                - figure [ref=e1188]:
+                  - img "Playera Tommy Jeans Sailing Cuello Redondo Para Hombre" [ref=e1191]
+                  - generic [ref=e1193]:
+                    - article [ref=e1194]:
+                      - heading "TOMMY JEANS" [level=3] [ref=e1195]
+                      - heading "Playera Sailing Cuello Redondo Para Hombre" [level=3] [ref=e1196]
+                    - generic [ref=e1198]:
+                      - generic [ref=e1199]:
+                        - paragraph [ref=e1200]:
                           - text: $799
-                          - superscript [ref=e1202]: "00"
-                        - paragraph [ref=e1203]:
+                          - superscript [ref=e1201]: "00"
+                        - paragraph [ref=e1202]:
                           - text: $479
-                          - superscript [ref=e1204]: "40"
-                      - list [ref=e1206]:
-                        - listitem [ref=e1207]:
-                          - generic "Blanco" [ref=e1208]
-            - listitem [ref=e1209]:
-              - link [ref=e1210] [cursor=pointer]:
+                          - superscript [ref=e1203]: "40"
+                      - list [ref=e1205]:
+                        - listitem [ref=e1206]:
+                          - generic "Blanco" [ref=e1207]
+            - listitem [ref=e1208]:
+              - link [ref=e1209] [cursor=pointer]:
                 - /url: /tienda/pdp/control-balam-rush-inal%C3%A1mbrico/1142023276?skuid=1142023276
-                - figure [ref=e1212]:
-                  - img "Control Balam Rush inalámbrico" [ref=e1215]
-                  - generic [ref=e1217]:
-                    - article [ref=e1218]:
-                      - heading "BALAM RUSH" [level=3] [ref=e1219]
-                      - heading "Control inalámbrico" [level=3] [ref=e1220]
-                    - generic [ref=e1222]:
-                      - generic [ref=e1223]:
-                        - paragraph [ref=e1224]:
+                - figure [ref=e1211]:
+                  - img "Control Balam Rush inalámbrico" [ref=e1214]
+                  - generic [ref=e1216]:
+                    - article [ref=e1217]:
+                      - heading "BALAM RUSH" [level=3] [ref=e1218]
+                      - heading "Control inalámbrico" [level=3] [ref=e1219]
+                    - generic [ref=e1221]:
+                      - generic [ref=e1222]:
+                        - paragraph [ref=e1223]:
                           - text: $800
-                          - superscript [ref=e1225]: "00"
-                        - paragraph [ref=e1226]:
+                          - superscript [ref=e1224]: "00"
+                        - paragraph [ref=e1225]:
                           - text: $498
-                          - superscript [ref=e1227]: "00"
-                      - list [ref=e1229]:
-                        - listitem [ref=e1230]:
-                          - generic "Blanco" [ref=e1231]
-                      - list [ref=e1233]:
-                        - listitem [ref=e1234]:
-                          - generic [ref=e1235]: 
-                        - listitem [ref=e1236]:
-                          - generic [ref=e1237]: 
-                        - listitem [ref=e1238]:
-                          - generic [ref=e1239]: 
-                        - listitem [ref=e1240]:
-                          - generic [ref=e1241]: 
-                        - listitem [ref=e1242]:
-                          - generic [ref=e1243]: 
-                        - listitem [ref=e1244]: (6)
-            - listitem [ref=e1245]:
-              - link [ref=e1246] [cursor=pointer]:
+                          - superscript [ref=e1226]: "00"
+                      - list [ref=e1228]:
+                        - listitem [ref=e1229]:
+                          - generic "Blanco" [ref=e1230]
+                      - list [ref=e1232]:
+                        - listitem [ref=e1233]:
+                          - generic [ref=e1234]: 
+                        - listitem [ref=e1235]:
+                          - generic [ref=e1236]: 
+                        - listitem [ref=e1237]:
+                          - generic [ref=e1238]: 
+                        - listitem [ref=e1239]:
+                          - generic [ref=e1240]: 
+                        - listitem [ref=e1241]:
+                          - generic [ref=e1242]: 
+                        - listitem [ref=e1243]: (6)
+            - listitem [ref=e1244]:
+              - link [ref=e1245] [cursor=pointer]:
                 - /url: /tienda/pdp/set-fundas-para-controles-de-nintendo-switch-alomia-joy/1131564763?skuid=1131564763
-                - figure [ref=e1248]:
-                  - img "Set fundas para controles de Nintendo Switch Alomia Joy" [ref=e1251]
-                  - generic [ref=e1253]:
-                    - article [ref=e1254]:
-                      - heading "ALOMIA" [level=3] [ref=e1255]
-                      - heading "Set fundas para controles de Nintendo Switch Joy" [level=3] [ref=e1256]
-                    - generic [ref=e1258]:
-                      - generic [ref=e1259]:
-                        - paragraph [ref=e1260]:
+                - figure [ref=e1247]:
+                  - img "Set fundas para controles de Nintendo Switch Alomia Joy" [ref=e1250]
+                  - generic [ref=e1252]:
+                    - article [ref=e1253]:
+                      - heading "ALOMIA" [level=3] [ref=e1254]
+                      - heading "Set fundas para controles de Nintendo Switch Joy" [level=3] [ref=e1255]
+                    - generic [ref=e1257]:
+                      - generic [ref=e1258]:
+                        - paragraph [ref=e1259]:
                           - text: $619
-                          - superscript [ref=e1261]: "00"
-                        - paragraph [ref=e1262]:
+                          - superscript [ref=e1260]: "00"
+                        - paragraph [ref=e1261]:
                           - text: $549
-                          - superscript [ref=e1263]: "00"
-                      - list [ref=e1265]:
-                        - listitem [ref=e1266]:
-                          - generic "Blanco" [ref=e1267]
-            - listitem [ref=e1268]:
-              - link [ref=e1269] [cursor=pointer]:
+                          - superscript [ref=e1262]: "00"
+                      - list [ref=e1264]:
+                        - listitem [ref=e1265]:
+                          - generic "Blanco" [ref=e1266]
+            - listitem [ref=e1267]:
+              - link [ref=e1268] [cursor=pointer]:
                 - /url: /tienda/pdp/bowl-villeroy-&-boch-modem-grace-de-porcelana/1011851319?skuid=1011851319
-                - figure [ref=e1271]:
-                  - generic [ref=e1272]:
+                - figure [ref=e1270]:
+                  - generic [ref=e1271]:
                     - generic:
                       - img "Bowl Villeroy & Boch Modem Grace de porcelana"
-                  - generic [ref=e1274]:
-                    - article [ref=e1275]:
-                      - heading "VILLEROY & BOCH" [level=3] [ref=e1276]
-                      - heading "Bowl Modem Grace de porcelana" [level=3] [ref=e1277]
-                    - generic [ref=e1279]:
-                      - generic [ref=e1280]:
-                        - paragraph [ref=e1281]:
+                  - generic [ref=e1273]:
+                    - article [ref=e1274]:
+                      - heading "VILLEROY & BOCH" [level=3] [ref=e1275]
+                      - heading "Bowl Modem Grace de porcelana" [level=3] [ref=e1276]
+                    - generic [ref=e1278]:
+                      - generic [ref=e1279]:
+                        - paragraph [ref=e1280]:
                           - text: $759
-                          - superscript [ref=e1282]: "00"
-                        - paragraph [ref=e1283]:
+                          - superscript [ref=e1281]: "00"
+                        - paragraph [ref=e1282]:
                           - text: $645
-                          - superscript [ref=e1284]: "15"
-                      - list [ref=e1286]:
-                        - listitem [ref=e1287]:
-                          - generic "Blanco" [ref=e1288]
-            - listitem [ref=e1289]:
-              - link [ref=e1290] [cursor=pointer]:
+                          - superscript [ref=e1283]: "15"
+                      - list [ref=e1285]:
+                        - listitem [ref=e1286]:
+                          - generic "Blanco" [ref=e1287]
+            - listitem [ref=e1288]:
+              - link [ref=e1289] [cursor=pointer]:
                 - /url: /tienda/pdp/playera-super-mario-bros-manga-al-codo-unisex/1189657365?skuid=1189657371
-                - figure [ref=e1292]:
-                  - generic [ref=e1293]:
+                - figure [ref=e1291]:
+                  - generic [ref=e1292]:
                     - generic:
                       - img "Playera Super Mario Bros manga al codo unisex"
-                  - generic [ref=e1295]:
-                    - article [ref=e1296]:
-                      - heading "GAP" [level=3] [ref=e1297]
-                      - heading "Playera Super Mario Bros manga al codo unisex" [level=3] [ref=e1298]
-                    - generic [ref=e1300]:
-                      - generic [ref=e1301]:
-                        - paragraph [ref=e1302]:
+                  - generic [ref=e1294]:
+                    - article [ref=e1295]:
+                      - heading "GAP" [level=3] [ref=e1296]
+                      - heading "Playera Super Mario Bros manga al codo unisex" [level=3] [ref=e1297]
+                    - generic [ref=e1299]:
+                      - generic [ref=e1300]:
+                        - paragraph [ref=e1301]:
                           - text: $899
-                          - superscript [ref=e1303]: "00"
-                        - paragraph [ref=e1304]:
+                          - superscript [ref=e1302]: "00"
+                        - paragraph [ref=e1303]:
                           - text: $674
-                          - superscript [ref=e1305]: "25"
-                      - list [ref=e1307]:
-                        - listitem [ref=e1308]:
-                          - generic "Blanco" [ref=e1309]
-                        - listitem [ref=e1310]:
-                          - generic "Azul marino" [ref=e1311]
-                        - listitem [ref=e1312]:
-                          - generic "Rosa" [ref=e1313]
-            - listitem [ref=e1314]:
-              - link [ref=e1315] [cursor=pointer]:
+                          - superscript [ref=e1304]: "25"
+                      - list [ref=e1306]:
+                        - listitem [ref=e1307]:
+                          - generic "Blanco" [ref=e1308]
+                        - listitem [ref=e1309]:
+                          - generic "Azul marino" [ref=e1310]
+                        - listitem [ref=e1311]:
+                          - generic "Rosa" [ref=e1312]
+            - listitem [ref=e1313]:
+              - link [ref=e1314] [cursor=pointer]:
                 - /url: /tienda/pdp/termo-owala-de-acero-inoxidable-con-tapa-rosca/1159714227?skuid=1159714230
-                - figure [ref=e1317]:
-                  - img "Termo Owala de acero inoxidable con tapa rosca" [ref=e1320]
-                  - generic [ref=e1322]:
-                    - article [ref=e1323]:
-                      - heading "OWALA" [level=3] [ref=e1324]
-                      - heading "Termo de acero inoxidable con tapa rosca" [level=3] [ref=e1325]
-                    - generic [ref=e1327]:
-                      - generic [ref=e1328]:
-                        - paragraph [ref=e1329]:
+                - figure [ref=e1316]:
+                  - img "Termo Owala de acero inoxidable con tapa rosca" [ref=e1319]
+                  - generic [ref=e1321]:
+                    - article [ref=e1322]:
+                      - heading "OWALA" [level=3] [ref=e1323]
+                      - heading "Termo de acero inoxidable con tapa rosca" [level=3] [ref=e1324]
+                    - generic [ref=e1326]:
+                      - generic [ref=e1327]:
+                        - paragraph [ref=e1328]:
                           - text: $1,099
-                          - superscript [ref=e1330]: "00"
-                        - paragraph [ref=e1331]:
+                          - superscript [ref=e1329]: "00"
+                        - paragraph [ref=e1330]:
                           - text: $714
-                          - superscript [ref=e1332]: "35"
-                      - list [ref=e1334]:
-                        - listitem [ref=e1335]:
-                          - generic "Blanco" [ref=e1336]
-                        - listitem [ref=e1337]:
-                          - generic "Verde obscuro" [ref=e1338]
-                        - listitem [ref=e1339]:
-                          - generic "Verde" [ref=e1340]
-                        - listitem [ref=e1341]:
-                          - generic "Azul" [ref=e1342]
-                      - list [ref=e1344]:
-                        - listitem [ref=e1345]:
-                          - generic [ref=e1346]: 
-                        - listitem [ref=e1347]:
-                          - generic [ref=e1348]: 
-                        - listitem [ref=e1349]:
-                          - generic [ref=e1350]: 
-                        - listitem [ref=e1351]:
-                          - generic [ref=e1352]: 
-                        - listitem [ref=e1353]:
-                          - generic [ref=e1354]: 
-                        - listitem [ref=e1355]: (28)
-            - listitem [ref=e1356]:
-              - link [ref=e1357] [cursor=pointer]:
+                          - superscript [ref=e1331]: "35"
+                      - list [ref=e1333]:
+                        - listitem [ref=e1334]:
+                          - generic "Blanco" [ref=e1335]
+                        - listitem [ref=e1336]:
+                          - generic "Verde obscuro" [ref=e1337]
+                        - listitem [ref=e1338]:
+                          - generic "Verde" [ref=e1339]
+                        - listitem [ref=e1340]:
+                          - generic "Azul" [ref=e1341]
+                      - list [ref=e1343]:
+                        - listitem [ref=e1344]:
+                          - generic [ref=e1345]: 
+                        - listitem [ref=e1346]:
+                          - generic [ref=e1347]: 
+                        - listitem [ref=e1348]:
+                          - generic [ref=e1349]: 
+                        - listitem [ref=e1350]:
+                          - generic [ref=e1351]: 
+                        - listitem [ref=e1352]:
+                          - generic [ref=e1353]: 
+                        - listitem [ref=e1354]: (28)
+            - listitem [ref=e1355]:
+              - link [ref=e1356] [cursor=pointer]:
                 - /url: /tienda/pdp/control-virtual-zone-inal%C3%A1mbricos-para-nintendo-switch-edici%C3%B3n-especial/1167880459?skuid=1167880459
-                - figure [ref=e1359]:
-                  - generic [ref=e1360]:
+                - figure [ref=e1358]:
+                  - generic [ref=e1359]:
                     - generic:
                       - img "Control Virtual Zone inalámbricos para nintendo switch edición especial"
-                  - generic [ref=e1362]:
-                    - article [ref=e1363]:
-                      - heading "VIRTUAL ZONE" [level=3] [ref=e1364]
-                      - heading "Control inalámbricos para nintendo switch edición especial" [level=3] [ref=e1365]
-                    - generic [ref=e1367]:
-                      - generic [ref=e1368]:
-                        - paragraph [ref=e1369]:
+                  - generic [ref=e1361]:
+                    - article [ref=e1362]:
+                      - heading "VIRTUAL ZONE" [level=3] [ref=e1363]
+                      - heading "Control inalámbricos para nintendo switch edición especial" [level=3] [ref=e1364]
+                    - generic [ref=e1366]:
+                      - generic [ref=e1367]:
+                        - paragraph [ref=e1368]:
                           - text: $1,299
-                          - superscript [ref=e1370]: "00"
-                        - paragraph [ref=e1371]:
+                          - superscript [ref=e1369]: "00"
+                        - paragraph [ref=e1370]:
                           - text: $799
-                          - superscript [ref=e1372]: "00"
-                      - list [ref=e1374]:
-                        - listitem [ref=e1375]:
-                          - generic "Blanco" [ref=e1376]
-                      - list [ref=e1378]:
-                        - listitem [ref=e1379]:
-                          - generic [ref=e1380]: 
-                        - listitem [ref=e1381]:
-                          - generic [ref=e1382]: 
-                        - listitem [ref=e1383]:
-                          - generic [ref=e1384]: 
-                        - listitem [ref=e1385]:
-                          - generic [ref=e1386]: 
-                        - listitem [ref=e1387]:
-                          - generic [ref=e1388]: 
-                        - listitem [ref=e1389]: (1)
-            - listitem [ref=e1390]:
-              - link [ref=e1391] [cursor=pointer]:
+                          - superscript [ref=e1371]: "00"
+                      - list [ref=e1373]:
+                        - listitem [ref=e1374]:
+                          - generic "Blanco" [ref=e1375]
+                      - list [ref=e1377]:
+                        - listitem [ref=e1378]:
+                          - generic [ref=e1379]: 
+                        - listitem [ref=e1380]:
+                          - generic [ref=e1381]: 
+                        - listitem [ref=e1382]:
+                          - generic [ref=e1383]: 
+                        - listitem [ref=e1384]:
+                          - generic [ref=e1385]: 
+                        - listitem [ref=e1386]:
+                          - generic [ref=e1387]: 
+                        - listitem [ref=e1388]: (1)
+            - listitem [ref=e1389]:
+              - link [ref=e1390] [cursor=pointer]:
                 - /url: /tienda/pdp/grips-para-control-gadgets-&-fun/99969993730?skuid=1153613709
-                - figure [ref=e1393]:
-                  - generic [ref=e1394]:
+                - figure [ref=e1392]:
+                  - generic [ref=e1393]:
                     - generic:
                       - img "Grips para Control Gadgets & Fun"
-                  - generic [ref=e1396]:
-                    - article [ref=e1397]:
-                      - heading "GADGETS & FUN" [level=3] [ref=e1398]
-                      - heading "Grips para Control" [level=3] [ref=e1399]
-                    - generic [ref=e1401]:
-                      - generic [ref=e1402]:
-                        - paragraph [ref=e1403]:
+                  - generic [ref=e1395]:
+                    - article [ref=e1396]:
+                      - heading "GADGETS & FUN" [level=3] [ref=e1397]
+                      - heading "Grips para Control" [level=3] [ref=e1398]
+                    - generic [ref=e1400]:
+                      - generic [ref=e1401]:
+                        - paragraph [ref=e1402]:
                           - text: $999
-                          - superscript [ref=e1404]: "00"
-                        - paragraph [ref=e1405]:
+                          - superscript [ref=e1403]: "00"
+                        - paragraph [ref=e1404]:
                           - text: $799
-                          - superscript [ref=e1406]: "00"
-                      - list [ref=e1408]:
-                        - listitem [ref=e1409]:
-                          - generic "Blanco" [ref=e1410]
-                        - listitem [ref=e1411]:
-                          - generic "Negro" [ref=e1412]
-            - listitem [ref=e1413]:
-              - link [ref=e1414] [cursor=pointer]:
+                          - superscript [ref=e1405]: "00"
+                      - list [ref=e1407]:
+                        - listitem [ref=e1408]:
+                          - generic "Blanco" [ref=e1409]
+                        - listitem [ref=e1410]:
+                          - generic "Negro" [ref=e1411]
+            - listitem [ref=e1412]:
+              - link [ref=e1413] [cursor=pointer]:
                 - /url: /tienda/pdp/set-cosmetiquera-multiusos-g%C3%BCish-3-piezas-para-mujer/1181568751?skuid=1181568751
-                - figure [ref=e1416]:
-                  - generic [ref=e1417]:
+                - figure [ref=e1415]:
+                  - generic [ref=e1416]:
                     - generic:
                       - img "Set cosmetiquera multiusos Güish 3 piezas para mujer"
-                  - generic [ref=e1419]:
-                    - article [ref=e1420]:
-                      - heading "GENERICA" [level=3] [ref=e1421]
-                      - heading "Set cosmetiquera multiusos 3 piezas para mujer" [level=3] [ref=e1422]
-                    - generic [ref=e1424]:
-                      - generic [ref=e1425]:
-                        - paragraph [ref=e1426]:
+                  - generic [ref=e1418]:
+                    - article [ref=e1419]:
+                      - heading "GENERICA" [level=3] [ref=e1420]
+                      - heading "Set cosmetiquera multiusos 3 piezas para mujer" [level=3] [ref=e1421]
+                    - generic [ref=e1423]:
+                      - generic [ref=e1424]:
+                        - paragraph [ref=e1425]:
                           - text: $1,314
-                          - superscript [ref=e1427]: "00"
-                        - paragraph [ref=e1428]:
+                          - superscript [ref=e1426]: "00"
+                        - paragraph [ref=e1427]:
                           - text: $814
-                          - superscript [ref=e1429]: "00"
-                      - list [ref=e1431]:
-                        - listitem [ref=e1432]:
-                          - generic "Crema claro" [ref=e1433]
-            - listitem [ref=e1434]:
-              - link [ref=e1435] [cursor=pointer]:
+                          - superscript [ref=e1428]: "00"
+                      - list [ref=e1430]:
+                        - listitem [ref=e1431]:
+                          - generic "Crema claro" [ref=e1432]
+            - listitem [ref=e1433]:
+              - link [ref=e1434] [cursor=pointer]:
                 - /url: /tienda/pdp/pantal%C3%B3n-chino-slim-calvin-klein-de-algod%C3%B3n-para-hombre/1183003703?skuid=1183003751
-                - figure [ref=e1437]:
-                  - generic [ref=e1438]:
+                - figure [ref=e1436]:
+                  - generic [ref=e1437]:
                     - generic:
                       - img "Pantalón chino slim Calvin Klein de algodón para hombre"
-                  - generic [ref=e1440]:
-                    - article [ref=e1441]:
-                      - heading "CALVIN KLEIN" [level=3] [ref=e1442]
-                      - heading "Pantalón chino slim de algodón para hombre" [level=3] [ref=e1443]
-                    - generic [ref=e1445]:
-                      - generic [ref=e1446]:
-                        - paragraph [ref=e1447]:
+                  - generic [ref=e1439]:
+                    - article [ref=e1440]:
+                      - heading "CALVIN KLEIN" [level=3] [ref=e1441]
+                      - heading "Pantalón chino slim de algodón para hombre" [level=3] [ref=e1442]
+                    - generic [ref=e1444]:
+                      - generic [ref=e1445]:
+                        - paragraph [ref=e1446]:
                           - text: $1,629
-                          - superscript [ref=e1448]: "00"
-                        - paragraph [ref=e1449]:
+                          - superscript [ref=e1447]: "00"
+                        - paragraph [ref=e1448]:
                           - text: $814
-                          - superscript [ref=e1450]: "50"
-                      - list [ref=e1452]:
-                        - listitem [ref=e1453]:
-                          - generic "Blanco" [ref=e1454]
-                      - list [ref=e1456]:
-                        - listitem [ref=e1457]:
-                          - generic [ref=e1458]: 
-                        - listitem [ref=e1459]:
-                          - generic [ref=e1460]: 
-                        - listitem [ref=e1461]:
-                          - generic [ref=e1462]: 
-                        - listitem [ref=e1463]:
-                          - generic [ref=e1464]: 
-                        - listitem [ref=e1465]:
-                          - generic [ref=e1466]: 
-                        - listitem [ref=e1467]: (1)
-            - listitem [ref=e1468]:
-              - link [ref=e1469] [cursor=pointer]:
+                          - superscript [ref=e1449]: "50"
+                      - list [ref=e1451]:
+                        - listitem [ref=e1452]:
+                          - generic "Blanco" [ref=e1453]
+                      - list [ref=e1455]:
+                        - listitem [ref=e1456]:
+                          - generic [ref=e1457]: 
+                        - listitem [ref=e1458]:
+                          - generic [ref=e1459]: 
+                        - listitem [ref=e1460]:
+                          - generic [ref=e1461]: 
+                        - listitem [ref=e1462]:
+                          - generic [ref=e1463]: 
+                        - listitem [ref=e1464]:
+                          - generic [ref=e1465]: 
+                        - listitem [ref=e1466]: (1)
+            - listitem [ref=e1467]:
+              - link [ref=e1468] [cursor=pointer]:
                 - /url: /tienda/pdp/control-joy-con-virtual-zone-inal%C3%A1mbricos-para-nintendo-switch-edici%C3%B3n-especial/1166885350?skuid=1166885350
-                - figure [ref=e1471]:
-                  - img "Control Joy-Con Virtual Zone inalámbricos para nintendo switch edición especial" [ref=e1474]
-                  - generic [ref=e1476]:
-                    - article [ref=e1477]:
-                      - heading "VIRTUAL ZONE" [level=3] [ref=e1478]
-                      - heading "Control Joy-Con inalámbricos para nintendo switch edición especial" [level=3] [ref=e1479]
-                    - generic [ref=e1481]:
-                      - generic [ref=e1482]:
-                        - paragraph [ref=e1483]:
+                - figure [ref=e1470]:
+                  - img "Control Joy-Con Virtual Zone inalámbricos para nintendo switch edición especial" [ref=e1473]
+                  - generic [ref=e1475]:
+                    - article [ref=e1476]:
+                      - heading "VIRTUAL ZONE" [level=3] [ref=e1477]
+                      - heading "Control Joy-Con inalámbricos para nintendo switch edición especial" [level=3] [ref=e1478]
+                    - generic [ref=e1480]:
+                      - generic [ref=e1481]:
+                        - paragraph [ref=e1482]:
                           - text: $1,099
-                          - superscript [ref=e1484]: "00"
-                        - paragraph [ref=e1485]:
+                          - superscript [ref=e1483]: "00"
+                        - paragraph [ref=e1484]:
                           - text: $899
-                          - superscript [ref=e1486]: "00"
-                      - list [ref=e1488]:
-                        - listitem [ref=e1489]:
-                          - generic "Blanco" [ref=e1490]
-                      - list [ref=e1492]:
-                        - listitem [ref=e1493]:
-                          - generic [ref=e1494]: 
-                        - listitem [ref=e1495]:
-                          - generic [ref=e1496]: 
-                        - listitem [ref=e1497]:
-                          - generic [ref=e1498]: 
-                        - listitem [ref=e1499]:
-                          - generic [ref=e1500]: 
-                        - listitem [ref=e1501]:
-                          - generic [ref=e1502]: 
-                        - listitem [ref=e1503]: (14)
-            - listitem [ref=e1504]:
-              - link [ref=e1505] [cursor=pointer]:
+                          - superscript [ref=e1485]: "00"
+                      - list [ref=e1487]:
+                        - listitem [ref=e1488]:
+                          - generic "Blanco" [ref=e1489]
+                      - list [ref=e1491]:
+                        - listitem [ref=e1492]:
+                          - generic [ref=e1493]: 
+                        - listitem [ref=e1494]:
+                          - generic [ref=e1495]: 
+                        - listitem [ref=e1496]:
+                          - generic [ref=e1497]: 
+                        - listitem [ref=e1498]:
+                          - generic [ref=e1499]: 
+                        - listitem [ref=e1500]:
+                          - generic [ref=e1501]: 
+                        - listitem [ref=e1502]: (14)
+            - listitem [ref=e1503]:
+              - link [ref=e1504] [cursor=pointer]:
                 - /url: /tienda/pdp/set-de-camiseta-hugo-cuello-redondo-para-hombre/1125753447?skuid=1125753465
-                - figure [ref=e1507]:
-                  - generic [ref=e1508]:
+                - figure [ref=e1506]:
+                  - generic [ref=e1507]:
                     - generic:
                       - img "Set de camiseta Hugo cuello redondo para hombre"
-                  - generic [ref=e1510]:
-                    - article [ref=e1511]:
-                      - heading "HUGO" [level=3] [ref=e1512]
-                      - heading "Set de camiseta cuello redondo para hombre" [level=3] [ref=e1513]
-                    - generic [ref=e1515]:
-                      - generic [ref=e1516]:
-                        - paragraph [ref=e1517]:
+                  - generic [ref=e1509]:
+                    - article [ref=e1510]:
+                      - heading "HUGO" [level=3] [ref=e1511]
+                      - heading "Set de camiseta cuello redondo para hombre" [level=3] [ref=e1512]
+                    - generic [ref=e1514]:
+                      - generic [ref=e1515]:
+                        - paragraph [ref=e1516]:
                           - text: $1,199
-                          - superscript [ref=e1518]: "00"
-                        - paragraph [ref=e1519]:
+                          - superscript [ref=e1517]: "00"
+                        - paragraph [ref=e1518]:
                           - text: $959
-                          - superscript [ref=e1520]: "20"
-                      - list [ref=e1522]:
-                        - listitem [ref=e1523]:
-                          - generic "Blanco" [ref=e1524]
-            - listitem [ref=e1525]:
-              - link [ref=e1526] [cursor=pointer]:
+                          - superscript [ref=e1519]: "20"
+                      - list [ref=e1521]:
+                        - listitem [ref=e1522]:
+                          - generic "Blanco" [ref=e1523]
+            - listitem [ref=e1524]:
+              - link [ref=e1525] [cursor=pointer]:
                 - /url: /tienda/pdp/playera-polo-ralph-lauren-cuello-redondo-para-hombre/1068655383?skuid=1068655397
-                - figure [ref=e1528]:
-                  - generic [ref=e1529]:
+                - figure [ref=e1527]:
+                  - generic [ref=e1528]:
                     - generic:
                       - img "Playera Polo Ralph Lauren cuello redondo para hombre"
-                  - generic [ref=e1531]:
-                    - article [ref=e1532]:
-                      - heading "POLO RALPH LAUREN" [level=3] [ref=e1533]
-                      - heading "Playera cuello redondo para hombre" [level=3] [ref=e1534]
-                    - generic [ref=e1536]:
-                      - generic [ref=e1537]:
-                        - paragraph [ref=e1538]:
+                  - generic [ref=e1530]:
+                    - article [ref=e1531]:
+                      - heading "POLO RALPH LAUREN" [level=3] [ref=e1532]
+                      - heading "Playera cuello redondo para hombre" [level=3] [ref=e1533]
+                    - generic [ref=e1535]:
+                      - generic [ref=e1536]:
+                        - paragraph [ref=e1537]:
                           - text: $1,290
-                          - superscript [ref=e1539]: "00"
-                        - paragraph [ref=e1540]:
+                          - superscript [ref=e1538]: "00"
+                        - paragraph [ref=e1539]:
                           - text: $967
-                          - superscript [ref=e1541]: "50"
-                      - list [ref=e1543]:
-                        - listitem [ref=e1544]:
-                          - generic "Rojo" [ref=e1545]
-                        - listitem [ref=e1546]:
-                          - generic "Blanco" [ref=e1547]
-                        - listitem [ref=e1548]:
-                          - generic "Negro" [ref=e1549]
-                        - listitem [ref=e1550]:
-                          - generic "Gris" [ref=e1551]
-                        - listitem [ref=e1552]:
-                          - generic "Azul" [ref=e1553]
-                      - list [ref=e1555]:
-                        - listitem [ref=e1556]:
-                          - generic [ref=e1557]: 
-                        - listitem [ref=e1558]:
-                          - generic [ref=e1559]: 
-                        - listitem [ref=e1560]:
-                          - generic [ref=e1561]: 
-                        - listitem [ref=e1562]:
-                          - generic [ref=e1563]: 
-                        - listitem [ref=e1564]:
-                          - generic [ref=e1565]: 
-                        - listitem [ref=e1566]: (93)
-            - listitem [ref=e1567]:
-              - link [ref=e1568] [cursor=pointer]:
+                          - superscript [ref=e1540]: "50"
+                      - list [ref=e1542]:
+                        - listitem [ref=e1543]:
+                          - generic "Rojo" [ref=e1544]
+                        - listitem [ref=e1545]:
+                          - generic "Blanco" [ref=e1546]
+                        - listitem [ref=e1547]:
+                          - generic "Negro" [ref=e1548]
+                        - listitem [ref=e1549]:
+                          - generic "Gris" [ref=e1550]
+                        - listitem [ref=e1551]:
+                          - generic "Azul" [ref=e1552]
+                      - list [ref=e1554]:
+                        - listitem [ref=e1555]:
+                          - generic [ref=e1556]: 
+                        - listitem [ref=e1557]:
+                          - generic [ref=e1558]: 
+                        - listitem [ref=e1559]:
+                          - generic [ref=e1560]: 
+                        - listitem [ref=e1561]:
+                          - generic [ref=e1562]: 
+                        - listitem [ref=e1563]:
+                          - generic [ref=e1564]: 
+                        - listitem [ref=e1565]: (93)
+            - listitem [ref=e1566]:
+              - link [ref=e1567] [cursor=pointer]:
                 - /url: /tienda/pdp/control-gamepad-para-celular-primus-gaming-compatible-con-android,-ios,-windows,-nintendo-switch,-ps4/1194262376?skuid=1194262376
-                - figure [ref=e1570]:
-                  - generic [ref=e1571]:
+                - figure [ref=e1569]:
+                  - generic [ref=e1570]:
                     - generic:
                       - img "Control gamepad para celular Primus Gaming compatible con Android, iOS, Windows, Nintendo Switch, PS4"
-                  - generic [ref=e1573]:
-                    - article [ref=e1574]:
-                      - heading "PRIMUS GAMING" [level=3] [ref=e1575]
-                      - heading "Control gamepad para celular compatible con Android, iOS, Windows, Nintendo Switch, PS4" [level=3] [ref=e1576]
-                    - generic [ref=e1578]:
-                      - generic [ref=e1579]:
-                        - paragraph [ref=e1580]:
+                  - generic [ref=e1572]:
+                    - article [ref=e1573]:
+                      - heading "PRIMUS GAMING" [level=3] [ref=e1574]
+                      - heading "Control gamepad para celular compatible con Android, iOS, Windows, Nintendo Switch, PS4" [level=3] [ref=e1575]
+                    - generic [ref=e1577]:
+                      - generic [ref=e1578]:
+                        - paragraph [ref=e1579]:
                           - text: $1,199
-                          - superscript [ref=e1581]: "00"
-                        - paragraph [ref=e1582]:
+                          - superscript [ref=e1580]: "00"
+                        - paragraph [ref=e1581]:
                           - text: $999
-                          - superscript [ref=e1583]: "00"
-                      - list [ref=e1585]:
-                        - listitem [ref=e1586]:
-                          - generic "Blanco" [ref=e1587]
-            - listitem [ref=e1588]:
-              - link [ref=e1589] [cursor=pointer]:
+                          - superscript [ref=e1582]: "00"
+                      - list [ref=e1584]:
+                        - listitem [ref=e1585]:
+                          - generic "Blanco" [ref=e1586]
+            - listitem [ref=e1587]:
+              - link [ref=e1588] [cursor=pointer]:
                 - /url: /tienda/pdp/control-turtle-beach-rematch-boo-hoo-inal%C3%A1mbrico-para-nintendo-switch-2/1186023940?skuid=1186023940
-                - figure [ref=e1591]:
-                  - img "Control Turtle Beach rematch boo-hoo inalámbrico para nintendo switch 2" [ref=e1594]
-                  - generic [ref=e1596]:
-                    - article [ref=e1597]:
-                      - heading "TURTLE BEACH" [level=3] [ref=e1598]
-                      - heading "Control rematch boo-hoo inalámbrico para nintendo switch 2" [level=3] [ref=e1599]
-                    - generic [ref=e1601]:
-                      - generic [ref=e1602]:
-                        - paragraph [ref=e1603]:
+                - figure [ref=e1590]:
+                  - img "Control Turtle Beach rematch boo-hoo inalámbrico para nintendo switch 2" [ref=e1593]
+                  - generic [ref=e1595]:
+                    - article [ref=e1596]:
+                      - heading "TURTLE BEACH" [level=3] [ref=e1597]
+                      - heading "Control rematch boo-hoo inalámbrico para nintendo switch 2" [level=3] [ref=e1598]
+                    - generic [ref=e1600]:
+                      - generic [ref=e1601]:
+                        - paragraph [ref=e1602]:
                           - text: $1,499
-                          - superscript [ref=e1604]: "00"
-                        - paragraph [ref=e1605]:
+                          - superscript [ref=e1603]: "00"
+                        - paragraph [ref=e1604]:
                           - text: $1,049
-                          - superscript [ref=e1606]: "30"
-                      - list [ref=e1608]:
-                        - listitem [ref=e1609]:
-                          - generic "Blanco" [ref=e1610]
-                      - list [ref=e1612]:
-                        - listitem [ref=e1613]:
-                          - generic [ref=e1614]: 
-                        - listitem [ref=e1615]:
-                          - generic [ref=e1616]: 
-                        - listitem [ref=e1617]:
-                          - generic [ref=e1618]: 
-                        - listitem [ref=e1619]:
-                          - generic [ref=e1620]: 
-                        - listitem [ref=e1621]:
-                          - generic [ref=e1622]: 
-                        - listitem [ref=e1623]: (8)
-            - listitem [ref=e1624]:
-              - link [ref=e1625] [cursor=pointer]:
+                          - superscript [ref=e1605]: "30"
+                      - list [ref=e1607]:
+                        - listitem [ref=e1608]:
+                          - generic "Blanco" [ref=e1609]
+                      - list [ref=e1611]:
+                        - listitem [ref=e1612]:
+                          - generic [ref=e1613]: 
+                        - listitem [ref=e1614]:
+                          - generic [ref=e1615]: 
+                        - listitem [ref=e1616]:
+                          - generic [ref=e1617]: 
+                        - listitem [ref=e1618]:
+                          - generic [ref=e1619]: 
+                        - listitem [ref=e1620]:
+                          - generic [ref=e1621]: 
+                        - listitem [ref=e1622]: (8)
+            - listitem [ref=e1623]:
+              - link [ref=e1624] [cursor=pointer]:
                 - /url: /tienda/pdp/control-turtle-beach-afterglow-wave-inal%C3%A1mbrico-para-nintendo-switch-2/1194107389?skuid=1194107389
-                - figure [ref=e1627]:
-                  - img "Control Turtle Beach Afterglow Wave inalámbrico para Nintendo Switch 2" [ref=e1630]
-                  - generic [ref=e1632]:
-                    - article [ref=e1633]:
-                      - heading "TURTLE BEACH" [level=3] [ref=e1634]
-                      - heading "Control Afterglow Wave inalámbrico para Nintendo Switch 2" [level=3] [ref=e1635]
-                    - generic [ref=e1637]:
-                      - generic [ref=e1638]:
-                        - paragraph [ref=e1639]:
+                - figure [ref=e1626]:
+                  - img "Control Turtle Beach Afterglow Wave inalámbrico para Nintendo Switch 2" [ref=e1629]
+                  - generic [ref=e1631]:
+                    - article [ref=e1632]:
+                      - heading "TURTLE BEACH" [level=3] [ref=e1633]
+                      - heading "Control Afterglow Wave inalámbrico para Nintendo Switch 2" [level=3] [ref=e1634]
+                    - generic [ref=e1636]:
+                      - generic [ref=e1637]:
+                        - paragraph [ref=e1638]:
                           - text: $1,499
-                          - superscript [ref=e1640]: "00"
-                        - paragraph [ref=e1641]:
+                          - superscript [ref=e1639]: "00"
+                        - paragraph [ref=e1640]:
                           - text: $1,049
-                          - superscript [ref=e1642]: "30"
-                      - list [ref=e1644]:
-                        - listitem [ref=e1645]:
-                          - generic "Blanco" [ref=e1646]
-            - listitem [ref=e1647]:
-              - link [ref=e1648] [cursor=pointer]:
+                          - superscript [ref=e1641]: "30"
+                      - list [ref=e1643]:
+                        - listitem [ref=e1644]:
+                          - generic "Blanco" [ref=e1645]
+            - listitem [ref=e1646]:
+              - link [ref=e1647] [cursor=pointer]:
                 - /url: /tienda/pdp/camisa-casual-de-lino-manga-corta-para-hombre/1189351983?skuid=1189351999
-                - figure [ref=e1650]:
-                  - generic [ref=e1651]:
+                - figure [ref=e1649]:
+                  - generic [ref=e1650]:
                     - generic:
                       - img "Camisa casual de lino manga corta para hombre"
-                  - generic [ref=e1653]:
-                    - article [ref=e1654]:
-                      - heading "GAP" [level=3] [ref=e1655]
-                      - heading "Camisa casual de lino manga corta para hombre" [level=3] [ref=e1656]
-                    - generic [ref=e1658]:
-                      - generic [ref=e1659]:
-                        - paragraph [ref=e1660]:
+                  - generic [ref=e1652]:
+                    - article [ref=e1653]:
+                      - heading "GAP" [level=3] [ref=e1654]
+                      - heading "Camisa casual de lino manga corta para hombre" [level=3] [ref=e1655]
+                    - generic [ref=e1657]:
+                      - generic [ref=e1658]:
+                        - paragraph [ref=e1659]:
                           - text: $1,799
-                          - superscript [ref=e1661]: "00"
-                        - paragraph [ref=e1662]:
+                          - superscript [ref=e1660]: "00"
+                        - paragraph [ref=e1661]:
                           - text: $1,079
-                          - superscript [ref=e1663]: "40"
-                      - list [ref=e1665]:
-                        - listitem [ref=e1666]:
-                          - generic "Blanco" [ref=e1667]
-            - listitem [ref=e1668]:
-              - link [ref=e1669] [cursor=pointer]:
+                          - superscript [ref=e1662]: "40"
+                      - list [ref=e1664]:
+                        - listitem [ref=e1665]:
+                          - generic "Blanco" [ref=e1666]
+            - listitem [ref=e1667]:
+              - link [ref=e1668] [cursor=pointer]:
                 - /url: /tienda/pdp/into-the-dead-2-switch-est%C3%A1ndar-para-nintendo-switch/1091551311?skuid=1091551311
-                - figure [ref=e1671]:
-                  - generic [ref=e1672]:
+                - figure [ref=e1670]:
+                  - generic [ref=e1671]:
                     - generic:
                       - img "Into The Dead 2 Switch estándar para Nintendo Switch"
-                  - generic [ref=e1674]:
-                    - article [ref=e1675]:
-                      - heading "SWITCH" [level=3] [ref=e1676]
-                      - heading "Into The Dead 2 estándar para Nintendo Switch" [level=3] [ref=e1677]
-                    - generic [ref=e1679]:
-                      - generic [ref=e1680]:
-                        - paragraph [ref=e1681]:
+                  - generic [ref=e1673]:
+                    - article [ref=e1674]:
+                      - heading "SWITCH" [level=3] [ref=e1675]
+                      - heading "Into The Dead 2 estándar para Nintendo Switch" [level=3] [ref=e1676]
+                    - generic [ref=e1678]:
+                      - generic [ref=e1679]:
+                        - paragraph [ref=e1680]:
                           - text: $1,319
-                          - superscript [ref=e1682]: "00"
-                        - paragraph [ref=e1683]:
+                          - superscript [ref=e1681]: "00"
+                        - paragraph [ref=e1682]:
                           - text: $1,119
-                          - superscript [ref=e1684]: "00"
-                      - list [ref=e1686]:
-                        - listitem [ref=e1687]:
-                          - generic "Sin color" [ref=e1688]
-            - listitem [ref=e1689]:
-              - link [ref=e1690] [cursor=pointer]:
+                          - superscript [ref=e1683]: "00"
+                      - list [ref=e1685]:
+                        - listitem [ref=e1686]:
+                          - generic "Sin color" [ref=e1687]
+            - listitem [ref=e1688]:
+              - link [ref=e1689] [cursor=pointer]:
                 - /url: /tienda/pdp/tenis-nike-court-vision-lo-v2-nb-de-hombre/1186510096?skuid=1186510107
-                - figure [ref=e1692]:
-                  - img "Tenis Nike Court Vision Lo V2 Nb de hombre" [ref=e1695]
-                  - generic [ref=e1697]:
-                    - article [ref=e1698]:
-                      - heading "NIKE" [level=3] [ref=e1699]
-                      - heading "Tenis Court Vision Lo V2 Nb de hombre" [level=3] [ref=e1700]
-                    - generic [ref=e1702]:
-                      - generic [ref=e1703]:
-                        - paragraph [ref=e1704]:
+                - figure [ref=e1691]:
+                  - img "Tenis Nike Court Vision Lo V2 Nb de hombre" [ref=e1694]
+                  - generic [ref=e1696]:
+                    - article [ref=e1697]:
+                      - heading "NIKE" [level=3] [ref=e1698]
+                      - heading "Tenis Court Vision Lo V2 Nb de hombre" [level=3] [ref=e1699]
+                    - generic [ref=e1701]:
+                      - generic [ref=e1702]:
+                        - paragraph [ref=e1703]:
                           - text: $1,799
-                          - superscript [ref=e1705]: "00"
-                        - paragraph [ref=e1706]:
+                          - superscript [ref=e1704]: "00"
+                        - paragraph [ref=e1705]:
                           - text: $1,259
-                          - superscript [ref=e1707]: "30"
-                      - list [ref=e1709]:
-                        - listitem [ref=e1710]:
-                          - generic "Blanco" [ref=e1711]
-            - listitem [ref=e1712]:
-              - link [ref=e1713] [cursor=pointer]:
+                          - superscript [ref=e1706]: "30"
+                      - list [ref=e1708]:
+                        - listitem [ref=e1709]:
+                          - generic "Blanco" [ref=e1710]
+            - listitem [ref=e1711]:
+              - link [ref=e1712] [cursor=pointer]:
                 - /url: /tienda/pdp/soldam:-drop,-connect,-erase-nintendo-est%C3%A1ndar-para-nintendo-switch/1085820377?skuid=1085820377
-                - figure [ref=e1715]:
-                  - generic [ref=e1716]:
+                - figure [ref=e1714]:
+                  - generic [ref=e1715]:
                     - generic:
                       - 'img "Soldam: Drop, Connect, Erase Nintendo estándar para Nintendo Switch"'
-                  - generic [ref=e1718]:
-                    - article [ref=e1719]:
-                      - heading "NINTENDO" [level=3] [ref=e1720]
-                      - 'heading "Soldam: Drop, Connect, Erase estándar para Nintendo Switch" [level=3] [ref=e1721]'
-                    - generic [ref=e1723]:
-                      - generic [ref=e1724]:
-                        - paragraph [ref=e1725]:
+                  - generic [ref=e1717]:
+                    - article [ref=e1718]:
+                      - heading "NINTENDO" [level=3] [ref=e1719]
+                      - 'heading "Soldam: Drop, Connect, Erase estándar para Nintendo Switch" [level=3] [ref=e1720]'
+                    - generic [ref=e1722]:
+                      - generic [ref=e1723]:
+                        - paragraph [ref=e1724]:
                           - text: $1,640
-                          - superscript [ref=e1726]: "60"
-                        - paragraph [ref=e1727]:
+                          - superscript [ref=e1725]: "60"
+                        - paragraph [ref=e1726]:
                           - text: $1,262
-                          - superscript [ref=e1728]: "00"
-                      - list [ref=e1730]:
-                        - listitem [ref=e1731]:
-                          - generic "Sin color" [ref=e1732]
-            - listitem [ref=e1733]:
-              - link [ref=e1734] [cursor=pointer]:
+                          - superscript [ref=e1727]: "00"
+                      - list [ref=e1729]:
+                        - listitem [ref=e1730]:
+                          - generic "Sin color" [ref=e1731]
+            - listitem [ref=e1732]:
+              - link [ref=e1733] [cursor=pointer]:
                 - /url: /tienda/pdp/top-abercrombie-&-fitch-cuello-abierto-escote-regular/1188082857?skuid=1188082862
-                - figure [ref=e1736]:
-                  - generic [ref=e1737]:
+                - figure [ref=e1735]:
+                  - generic [ref=e1736]:
                     - generic:
                       - img "Top Abercrombie & Fitch cuello abierto escote regular"
-                  - generic [ref=e1739]:
-                    - article [ref=e1740]:
-                      - heading "ABERCROMBIE & FITCH" [level=3] [ref=e1741]
-                      - heading "Top cuello abierto escote regular" [level=3] [ref=e1742]
-                    - generic [ref=e1744]:
-                      - generic [ref=e1745]:
-                        - paragraph [ref=e1746]:
+                  - generic [ref=e1738]:
+                    - article [ref=e1739]:
+                      - heading "ABERCROMBIE & FITCH" [level=3] [ref=e1740]
+                      - heading "Top cuello abierto escote regular" [level=3] [ref=e1741]
+                    - generic [ref=e1743]:
+                      - generic [ref=e1744]:
+                        - paragraph [ref=e1745]:
                           - text: $1,790
-                          - superscript [ref=e1747]: "00"
-                        - paragraph [ref=e1748]:
+                          - superscript [ref=e1746]: "00"
+                        - paragraph [ref=e1747]:
                           - text: $1,342
-                          - superscript [ref=e1749]: "50"
-                      - list [ref=e1751]:
-                        - listitem [ref=e1752]:
-                          - generic "Crema" [ref=e1753]
-                      - list [ref=e1755]:
-                        - listitem [ref=e1756]:
-                          - generic [ref=e1757]: 
-                        - listitem [ref=e1758]:
-                          - generic [ref=e1759]: 
-                        - listitem [ref=e1760]:
-                          - generic [ref=e1761]: 
-                        - listitem [ref=e1762]:
-                          - generic [ref=e1763]: 
-                        - listitem [ref=e1764]:
-                          - generic [ref=e1765]: 
-                        - listitem [ref=e1766]: (1)
-            - listitem [ref=e1767]:
-              - link [ref=e1768] [cursor=pointer]:
+                          - superscript [ref=e1748]: "50"
+                      - list [ref=e1750]:
+                        - listitem [ref=e1751]:
+                          - generic "Crema" [ref=e1752]
+                      - list [ref=e1754]:
+                        - listitem [ref=e1755]:
+                          - generic [ref=e1756]: 
+                        - listitem [ref=e1757]:
+                          - generic [ref=e1758]: 
+                        - listitem [ref=e1759]:
+                          - generic [ref=e1760]: 
+                        - listitem [ref=e1761]:
+                          - generic [ref=e1762]: 
+                        - listitem [ref=e1763]:
+                          - generic [ref=e1764]: 
+                        - listitem [ref=e1765]: (1)
+            - listitem [ref=e1766]:
+              - link [ref=e1767] [cursor=pointer]:
                 - /url: /tienda/pdp/set-eau-de-parfum-marc-jacobs-para-mujer/1196405174?skuid=1196405174
-                - figure [ref=e1770]:
-                  - generic [ref=e1771]:
+                - figure [ref=e1769]:
+                  - generic [ref=e1770]:
                     - generic:
-                      - generic [ref=e1773]: Regalo con compra
+                      - generic [ref=e1772]: Regalo con compra
                       - img "Set eau de parfum marc jacobs para mujer"
-                  - generic [ref=e1775]:
-                    - article [ref=e1776]:
-                      - heading "MARC JACOBS (3419)" [level=3] [ref=e1777]
-                      - heading "Set eau de parfum para mujer" [level=3] [ref=e1778]
-                    - generic [ref=e1780]:
-                      - paragraph [ref=e1782]:
+                  - generic [ref=e1774]:
+                    - article [ref=e1775]:
+                      - heading "MARC JACOBS (3419)" [level=3] [ref=e1776]
+                      - heading "Set eau de parfum para mujer" [level=3] [ref=e1777]
+                    - generic [ref=e1779]:
+                      - paragraph [ref=e1781]:
                         - text: $1,500
-                        - superscript [ref=e1783]: "00"
-                      - list [ref=e1785]:
-                        - listitem [ref=e1786]:
-                          - generic "Sin color" [ref=e1787]
-            - listitem [ref=e1788]:
-              - link [ref=e1789] [cursor=pointer]:
+                        - superscript [ref=e1782]: "00"
+                      - list [ref=e1784]:
+                        - listitem [ref=e1785]:
+                          - generic "Sin color" [ref=e1786]
+            - listitem [ref=e1787]:
+              - link [ref=e1788] [cursor=pointer]:
                 - /url: /tienda/pdp/teclado-gamer-redragon-horus-k622-tkl-red-switch/9958316581?skuid=1136388998
-                - figure [ref=e1791]:
-                  - generic [ref=e1792]:
+                - figure [ref=e1790]:
+                  - generic [ref=e1791]:
                     - generic:
                       - img "Teclado gamer Redragon HORUS K622-TKL Red Switch"
-                  - generic [ref=e1794]:
-                    - article [ref=e1795]:
-                      - heading "REDRAGON" [level=3] [ref=e1796]
-                      - heading "Teclado gamer HORUS K622-TKL Red Switch" [level=3] [ref=e1797]
-                    - generic [ref=e1799]:
-                      - paragraph [ref=e1801]:
+                  - generic [ref=e1793]:
+                    - article [ref=e1794]:
+                      - heading "REDRAGON" [level=3] [ref=e1795]
+                      - heading "Teclado gamer HORUS K622-TKL Red Switch" [level=3] [ref=e1796]
+                    - generic [ref=e1798]:
+                      - paragraph [ref=e1800]:
                         - text: $1,549
-                        - superscript [ref=e1802]: "00"
-                      - list [ref=e1804]:
-                        - listitem [ref=e1805]:
-                          - generic "Negro" [ref=e1806]
-                        - listitem [ref=e1807]:
-                          - generic "Blanco" [ref=e1808]
-            - listitem [ref=e1809]:
-              - link [ref=e1810] [cursor=pointer]:
+                        - superscript [ref=e1801]: "00"
+                      - list [ref=e1803]:
+                        - listitem [ref=e1804]:
+                          - generic "Negro" [ref=e1805]
+                        - listitem [ref=e1806]:
+                          - generic "Blanco" [ref=e1807]
+            - listitem [ref=e1808]:
+              - link [ref=e1809] [cursor=pointer]:
                 - /url: /tienda/pdp/playera-manga-corta-tommy-hilfiger-cuello-v-para-mujer/9994216368?skuid=1200344371
-                - figure [ref=e1812]:
-                  - generic [ref=e1813]:
+                - figure [ref=e1811]:
+                  - generic [ref=e1812]:
                     - generic:
                       - img "Playera manga corta Tommy Hilfiger cuello V para mujer"
-                  - generic [ref=e1815]:
-                    - article [ref=e1816]:
-                      - heading "TOMMY HILFIGER" [level=3] [ref=e1817]
-                      - heading "Playera manga corta cuello V para mujer" [level=3] [ref=e1818]
-                    - generic [ref=e1820]:
-                      - generic [ref=e1821]:
-                        - paragraph [ref=e1822]:
+                  - generic [ref=e1814]:
+                    - article [ref=e1815]:
+                      - heading "TOMMY HILFIGER" [level=3] [ref=e1816]
+                      - heading "Playera manga corta cuello V para mujer" [level=3] [ref=e1817]
+                    - generic [ref=e1819]:
+                      - generic [ref=e1820]:
+                        - paragraph [ref=e1821]:
                           - text: $1,969
-                          - superscript [ref=e1823]: "00"
-                        - paragraph [ref=e1824]:
+                          - superscript [ref=e1822]: "00"
+                        - paragraph [ref=e1823]:
                           - text: $1,579
-                          - superscript [ref=e1825]: "00"
-                      - list [ref=e1827]:
-                        - listitem [ref=e1828]:
-                          - generic "Blanco" [ref=e1829]
-            - listitem [ref=e1830]:
-              - link [ref=e1831] [cursor=pointer]:
+                          - superscript [ref=e1824]: "00"
+                      - list [ref=e1826]:
+                        - listitem [ref=e1827]:
+                          - generic "Blanco" [ref=e1828]
+            - listitem [ref=e1829]:
+              - link [ref=e1830] [cursor=pointer]:
                 - /url: /tienda/pdp/bota-arriba-del-tobillo-walki-shoes-para-mujer/99965392059?skuid=1145474872
-                - figure [ref=e1833]:
-                  - generic [ref=e1834]:
+                - figure [ref=e1832]:
+                  - generic [ref=e1833]:
                     - generic:
                       - img "Bota arriba del tobillo Walki Shoes para mujer"
-                  - generic [ref=e1836]:
-                    - article [ref=e1837]:
-                      - heading "WALKI SHOES" [level=3] [ref=e1838]
-                      - heading "Bota arriba del tobillo para mujer" [level=3] [ref=e1839]
-                    - generic [ref=e1841]:
-                      - paragraph [ref=e1843]:
+                  - generic [ref=e1835]:
+                    - article [ref=e1836]:
+                      - heading "WALKI SHOES" [level=3] [ref=e1837]
+                      - heading "Bota arriba del tobillo para mujer" [level=3] [ref=e1838]
+                    - generic [ref=e1840]:
+                      - paragraph [ref=e1842]:
                         - text: $1,799
-                        - superscript [ref=e1844]: "00"
-                      - list [ref=e1846]:
-                        - listitem [ref=e1847]:
-                          - generic "Blanco" [ref=e1848]
-                      - list [ref=e1850]:
-                        - listitem [ref=e1851]:
-                          - generic [ref=e1852]: 
-                        - listitem [ref=e1853]:
-                          - generic [ref=e1854]: 
-                        - listitem [ref=e1855]:
-                          - generic [ref=e1856]: 
-                        - listitem [ref=e1857]:
-                          - generic [ref=e1858]: 
-                        - listitem [ref=e1859]:
-                          - generic [ref=e1860]: 
-                        - listitem [ref=e1861]: (1)
-            - listitem [ref=e1862]:
-              - link [ref=e1863] [cursor=pointer]:
+                        - superscript [ref=e1843]: "00"
+                      - list [ref=e1845]:
+                        - listitem [ref=e1846]:
+                          - generic "Blanco" [ref=e1847]
+                      - list [ref=e1849]:
+                        - listitem [ref=e1850]:
+                          - generic [ref=e1851]: 
+                        - listitem [ref=e1852]:
+                          - generic [ref=e1853]: 
+                        - listitem [ref=e1854]:
+                          - generic [ref=e1855]: 
+                        - listitem [ref=e1856]:
+                          - generic [ref=e1857]: 
+                        - listitem [ref=e1858]:
+                          - generic [ref=e1859]: 
+                        - listitem [ref=e1860]: (1)
+            - listitem [ref=e1861]:
+              - link [ref=e1862] [cursor=pointer]:
                 - /url: /tienda/pdp/tenis-reebok-club-c-revenge-unisex-para-entrenamiento/99987495883?skuid=1181836284
-                - figure [ref=e1865]:
-                  - generic [ref=e1866]:
+                - figure [ref=e1864]:
+                  - generic [ref=e1865]:
                     - generic:
                       - img "Tenis Reebok Club C Revenge unisex para entrenamiento"
-                  - generic [ref=e1868]:
-                    - article [ref=e1869]:
-                      - heading "REEBOK" [level=3] [ref=e1870]
-                      - heading "Tenis Club C Revenge unisex para entrenamiento" [level=3] [ref=e1871]
-                    - generic [ref=e1873]:
-                      - paragraph [ref=e1875]:
+                  - generic [ref=e1867]:
+                    - article [ref=e1868]:
+                      - heading "REEBOK" [level=3] [ref=e1869]
+                      - heading "Tenis Club C Revenge unisex para entrenamiento" [level=3] [ref=e1870]
+                    - generic [ref=e1872]:
+                      - paragraph [ref=e1874]:
                         - text: $1,999
-                        - superscript [ref=e1876]: "00"
-                      - list [ref=e1878]:
-                        - listitem [ref=e1879]:
-                          - generic "Blanco" [ref=e1880]
-            - listitem [ref=e1881]:
-              - link [ref=e1882] [cursor=pointer]:
+                        - superscript [ref=e1875]: "00"
+                      - list [ref=e1877]:
+                        - listitem [ref=e1878]:
+                          - generic "Blanco" [ref=e1879]
+            - listitem [ref=e1880]:
+              - link [ref=e1881] [cursor=pointer]:
                 - /url: /tienda/pdp/figura-de-mujer-universal-ventdepot-de-porcelana/1167668999?skuid=1167668999
-                - figure [ref=e1884]:
-                  - generic [ref=e1885]:
+                - figure [ref=e1883]:
+                  - generic [ref=e1884]:
                     - generic:
                       - img "Figura de mujer Universal Ventdepot de porcelana"
-                  - generic [ref=e1887]:
-                    - article [ref=e1888]:
-                      - heading "VENTDEPOT" [level=3] [ref=e1889]
-                      - heading "Figura de mujer Universal de porcelana" [level=3] [ref=e1890]
-                    - generic [ref=e1892]:
-                      - paragraph [ref=e1894]:
+                  - generic [ref=e1886]:
+                    - article [ref=e1887]:
+                      - heading "VENTDEPOT" [level=3] [ref=e1888]
+                      - heading "Figura de mujer Universal de porcelana" [level=3] [ref=e1889]
+                    - generic [ref=e1891]:
+                      - paragraph [ref=e1893]:
                         - text: $2,036
-                        - superscript [ref=e1895]: "00"
-                      - list [ref=e1897]:
-                        - listitem [ref=e1898]:
-                          - generic "Blanco" [ref=e1899]
-            - listitem [ref=e1900]:
-              - link [ref=e1901] [cursor=pointer]:
+                        - superscript [ref=e1894]: "00"
+                      - list [ref=e1896]:
+                        - listitem [ref=e1897]:
+                          - generic "Blanco" [ref=e1898]
+            - listitem [ref=e1899]:
+              - link [ref=e1900] [cursor=pointer]:
                 - /url: /tienda/pdp/tenis-para-correr-hoka-rincon-4-para-hombre/1169949370?skuid=1169949391
-                - figure [ref=e1903]:
-                  - generic [ref=e1904]:
+                - figure [ref=e1902]:
+                  - generic [ref=e1903]:
                     - generic:
                       - img "Tenis para correr Hoka Rincon 4 para hombre"
-                  - generic [ref=e1906]:
-                    - article [ref=e1907]:
-                      - heading "HOKA" [level=3] [ref=e1908]
-                      - heading "Tenis para correr Rincon 4 para hombre" [level=3] [ref=e1909]
-                    - generic [ref=e1911]:
-                      - generic [ref=e1912]:
-                        - paragraph [ref=e1913]:
+                  - generic [ref=e1905]:
+                    - article [ref=e1906]:
+                      - heading "HOKA" [level=3] [ref=e1907]
+                      - heading "Tenis para correr Rincon 4 para hombre" [level=3] [ref=e1908]
+                    - generic [ref=e1910]:
+                      - generic [ref=e1911]:
+                        - paragraph [ref=e1912]:
                           - text: $3,099
-                          - superscript [ref=e1914]: "00"
+                          - superscript [ref=e1913]: "00"
                           - text: "- $3,999"
-                          - superscript [ref=e1915]: "00"
-                        - paragraph [ref=e1916]:
+                          - superscript [ref=e1914]: "00"
+                        - paragraph [ref=e1915]:
                           - text: $2,324
-                          - superscript [ref=e1917]: "25"
+                          - superscript [ref=e1916]: "25"
                           - text: "- $3,069"
-                          - superscript [ref=e1918]: "00"
-                      - list [ref=e1920]:
-                        - listitem [ref=e1921]:
-                          - generic "Crema" [ref=e1922]
-                      - list [ref=e1924]:
-                        - listitem [ref=e1925]:
-                          - generic [ref=e1926]: 
-                        - listitem [ref=e1927]:
-                          - generic [ref=e1928]: 
-                        - listitem [ref=e1929]:
-                          - generic [ref=e1930]: 
-                        - listitem [ref=e1931]:
-                          - generic [ref=e1932]: 
-                        - listitem [ref=e1933]:
-                          - generic [ref=e1934]: 
-                        - listitem [ref=e1935]: (12)
-            - listitem [ref=e1936]:
-              - link [ref=e1937] [cursor=pointer]:
+                          - superscript [ref=e1917]: "00"
+                      - list [ref=e1919]:
+                        - listitem [ref=e1920]:
+                          - generic "Crema" [ref=e1921]
+                      - list [ref=e1923]:
+                        - listitem [ref=e1924]:
+                          - generic [ref=e1925]: 
+                        - listitem [ref=e1926]:
+                          - generic [ref=e1927]: 
+                        - listitem [ref=e1928]:
+                          - generic [ref=e1929]: 
+                        - listitem [ref=e1930]:
+                          - generic [ref=e1931]: 
+                        - listitem [ref=e1932]:
+                          - generic [ref=e1933]: 
+                        - listitem [ref=e1934]: (12)
+            - listitem [ref=e1935]:
+              - link [ref=e1936] [cursor=pointer]:
                 - /url: /tienda/pdp/tenis-glycerin-max-2-para-correr-brooks-de-hombre/1191021159?skuid=1191021165
-                - figure [ref=e1939]:
-                  - generic [ref=e1940]:
+                - figure [ref=e1938]:
+                  - generic [ref=e1939]:
                     - generic:
                       - img "Tenis Glycerin Max 2 para correr Brooks de hombre"
-                  - generic [ref=e1942]:
-                    - article [ref=e1943]:
-                      - heading "BROOKS" [level=3] [ref=e1944]
-                      - heading "Tenis Glycerin Max 2 para correr de hombre" [level=3] [ref=e1945]
-                    - generic [ref=e1947]:
-                      - generic [ref=e1948]:
-                        - paragraph [ref=e1949]:
+                  - generic [ref=e1941]:
+                    - article [ref=e1942]:
+                      - heading "BROOKS" [level=3] [ref=e1943]
+                      - heading "Tenis Glycerin Max 2 para correr de hombre" [level=3] [ref=e1944]
+                    - generic [ref=e1946]:
+                      - generic [ref=e1947]:
+                        - paragraph [ref=e1948]:
                           - text: $4,689
-                          - superscript [ref=e1950]: "00"
-                        - paragraph [ref=e1951]:
+                          - superscript [ref=e1949]: "00"
+                        - paragraph [ref=e1950]:
                           - text: $3,282
-                          - superscript [ref=e1952]: "30"
-                      - list [ref=e1954]:
-                        - listitem [ref=e1955]:
-                          - generic "Blanco" [ref=e1956]
-            - listitem [ref=e1957]:
-              - link [ref=e1958] [cursor=pointer]:
+                          - superscript [ref=e1951]: "30"
+                      - list [ref=e1953]:
+                        - listitem [ref=e1954]:
+                          - generic "Blanco" [ref=e1955]
+            - listitem [ref=e1956]:
+              - link [ref=e1957] [cursor=pointer]:
                 - /url: /tienda/pdp/dead-or-alive-xtreme-3-scarlet-switch-est%C3%A1ndar-para-nintendo-switch/1094828658?skuid=1094828658
-                - figure [ref=e1960]:
-                  - img "Dead Or Alive Xtreme 3 Scarlet Switch estándar para Nintendo Switch" [ref=e1963]
-                  - generic [ref=e1965]:
-                    - article [ref=e1966]:
-                      - heading "SWITCH" [level=3] [ref=e1967]
-                      - heading "Dead Or Alive Xtreme 3 Scarlet estándar para Nintendo Switch" [level=3] [ref=e1968]
-                    - generic [ref=e1970]:
-                      - generic [ref=e1971]:
-                        - paragraph [ref=e1972]:
+                - figure [ref=e1959]:
+                  - img "Dead Or Alive Xtreme 3 Scarlet Switch estándar para Nintendo Switch" [ref=e1962]
+                  - generic [ref=e1964]:
+                    - article [ref=e1965]:
+                      - heading "SWITCH" [level=3] [ref=e1966]
+                      - heading "Dead Or Alive Xtreme 3 Scarlet estándar para Nintendo Switch" [level=3] [ref=e1967]
+                    - generic [ref=e1969]:
+                      - generic [ref=e1970]:
+                        - paragraph [ref=e1971]:
                           - text: $4,327
-                          - superscript [ref=e1973]: "70"
-                        - paragraph [ref=e1974]:
+                          - superscript [ref=e1972]: "70"
+                        - paragraph [ref=e1973]:
                           - text: $3,329
-                          - superscript [ref=e1975]: "00"
-                      - list [ref=e1977]:
-                        - listitem [ref=e1978]:
-                          - generic "Blanco" [ref=e1979]
-                      - list [ref=e1981]:
-                        - listitem [ref=e1982]:
-                          - generic [ref=e1983]: 
-                        - listitem [ref=e1984]:
-                          - generic [ref=e1985]: 
-                        - listitem [ref=e1986]:
-                          - generic [ref=e1987]: 
-                        - listitem [ref=e1988]:
-                          - generic [ref=e1989]: 
-                        - listitem [ref=e1990]:
-                          - generic [ref=e1991]: 
-                        - listitem [ref=e1992]: (3)
-            - listitem [ref=e1993]:
-              - link [ref=e1994] [cursor=pointer]:
+                          - superscript [ref=e1974]: "00"
+                      - list [ref=e1976]:
+                        - listitem [ref=e1977]:
+                          - generic "Blanco" [ref=e1978]
+                      - list [ref=e1980]:
+                        - listitem [ref=e1981]:
+                          - generic [ref=e1982]: 
+                        - listitem [ref=e1983]:
+                          - generic [ref=e1984]: 
+                        - listitem [ref=e1985]:
+                          - generic [ref=e1986]: 
+                        - listitem [ref=e1987]:
+                          - generic [ref=e1988]: 
+                        - listitem [ref=e1989]:
+                          - generic [ref=e1990]: 
+                        - listitem [ref=e1991]: (3)
+            - listitem [ref=e1992]:
+              - link [ref=e1993] [cursor=pointer]:
                 - /url: /tienda/pdp/reloj-citizen-ladies-sport-casual-para-mujer-62069/1197157557?skuid=1197157557
-                - figure [ref=e1996]:
-                  - generic [ref=e1997]:
+                - figure [ref=e1995]:
+                  - generic [ref=e1996]:
                     - generic:
                       - img "Reloj Citizen Ladies Sport casual para mujer 62069"
-                  - generic [ref=e1999]:
-                    - article [ref=e2000]:
-                      - heading "CITIZEN" [level=3] [ref=e2001]
-                      - heading "Reloj Ladies Sport casual para mujer 62069" [level=3] [ref=e2002]
-                    - generic [ref=e2004]:
-                      - generic [ref=e2005]:
-                        - paragraph [ref=e2006]:
+                  - generic [ref=e1998]:
+                    - article [ref=e1999]:
+                      - heading "CITIZEN" [level=3] [ref=e2000]
+                      - heading "Reloj Ladies Sport casual para mujer 62069" [level=3] [ref=e2001]
+                    - generic [ref=e2003]:
+                      - generic [ref=e2004]:
+                        - paragraph [ref=e2005]:
                           - text: $5,989
-                          - superscript [ref=e2007]: "00"
-                        - paragraph [ref=e2008]:
+                          - superscript [ref=e2006]: "00"
+                        - paragraph [ref=e2007]:
                           - text: $4,192
-                          - superscript [ref=e2009]: "30"
-                      - list [ref=e2011]:
-                        - listitem [ref=e2012]:
-                          - generic "Blanco" [ref=e2013]
-            - listitem [ref=e2014]:
-              - link [ref=e2015] [cursor=pointer]:
+                          - superscript [ref=e2008]: "30"
+                      - list [ref=e2010]:
+                        - listitem [ref=e2011]:
+                          - generic "Blanco" [ref=e2012]
+            - listitem [ref=e2013]:
+              - link [ref=e2014] [cursor=pointer]:
                 - /url: /tienda/pdp/lentes-de-sol-versace-medusa-essence-0ve2273-para-mujer/1167185785?skuid=1167185785
-                - figure [ref=e2017]:
-                  - generic [ref=e2018]:
+                - figure [ref=e2016]:
+                  - generic [ref=e2017]:
                     - generic:
                       - img "Lentes de sol Versace Medusa Essence 0VE2273 para mujer"
-                  - generic [ref=e2020]:
-                    - article [ref=e2021]:
-                      - heading "VERSACE" [level=3] [ref=e2022]
-                      - heading "Lentes de sol Medusa Essence 0VE2273 para mujer" [level=3] [ref=e2023]
-                    - generic [ref=e2025]:
-                      - generic [ref=e2026]:
-                        - paragraph [ref=e2027]:
+                  - generic [ref=e2019]:
+                    - article [ref=e2020]:
+                      - heading "VERSACE" [level=3] [ref=e2021]
+                      - heading "Lentes de sol Medusa Essence 0VE2273 para mujer" [level=3] [ref=e2022]
+                    - generic [ref=e2024]:
+                      - generic [ref=e2025]:
+                        - paragraph [ref=e2026]:
                           - text: $7,229
-                          - superscript [ref=e2028]: "00"
-                        - paragraph [ref=e2029]:
+                          - superscript [ref=e2027]: "00"
+                        - paragraph [ref=e2028]:
                           - text: $5,060
-                          - superscript [ref=e2030]: "30"
-                      - list [ref=e2032]:
-                        - listitem [ref=e2033]:
-                          - generic "Blanco" [ref=e2034]
-            - listitem [ref=e2035]:
-              - link [ref=e2036] [cursor=pointer]:
+                          - superscript [ref=e2029]: "30"
+                      - list [ref=e2031]:
+                        - listitem [ref=e2032]:
+                          - generic "Blanco" [ref=e2033]
+            - listitem [ref=e2034]:
+              - link [ref=e2035] [cursor=pointer]:
                 - /url: /tienda/pdp/lentes-de-sol-versace-luxury-junior-elliot-unisex/1153112459?skuid=1153112459
-                - figure [ref=e2038]:
-                  - generic [ref=e2039]:
+                - figure [ref=e2037]:
+                  - generic [ref=e2038]:
                     - generic:
                       - img "Lentes de sol Versace Luxury Junior Elliot unisex"
-                  - generic [ref=e2041]:
-                    - article [ref=e2042]:
-                      - heading "VERSACE" [level=3] [ref=e2043]
-                      - heading "Lentes de sol Luxury Junior Elliot unisex" [level=3] [ref=e2044]
-                    - generic [ref=e2046]:
-                      - generic [ref=e2047]:
-                        - paragraph [ref=e2048]:
+                  - generic [ref=e2040]:
+                    - article [ref=e2041]:
+                      - heading "VERSACE" [level=3] [ref=e2042]
+                      - heading "Lentes de sol Luxury Junior Elliot unisex" [level=3] [ref=e2043]
+                    - generic [ref=e2045]:
+                      - generic [ref=e2046]:
+                        - paragraph [ref=e2047]:
                           - text: $9,829
-                          - superscript [ref=e2049]: "00"
-                        - paragraph [ref=e2050]:
+                          - superscript [ref=e2048]: "00"
+                        - paragraph [ref=e2049]:
                           - text: $6,880
-                          - superscript [ref=e2051]: "30"
-                      - list [ref=e2053]:
-                        - listitem [ref=e2054]:
-                          - generic "Blanco" [ref=e2055]
-            - listitem [ref=e2056]:
-              - link [ref=e2057] [cursor=pointer]:
+                          - superscript [ref=e2050]: "30"
+                      - list [ref=e2052]:
+                        - listitem [ref=e2053]:
+                          - generic "Blanco" [ref=e2054]
+            - listitem [ref=e2055]:
+              - link [ref=e2056] [cursor=pointer]:
                 - /url: /tienda/pdp/consola-fija/port%C3%A1til-nintendo-switch-de-64-gb-nintendo-switch/99969435188?skuid=1152818633
-                - figure [ref=e2059]:
-                  - img "Consola fija/portátil nintendo switch de 64 gb Nintendo Switch" [ref=e2062]
-                  - generic [ref=e2064]:
-                    - article [ref=e2065]:
-                      - heading "NINTENDO SWITCH" [level=3] [ref=e2066]
-                      - heading "Consola fija/portátil nintendo switch de 64 gb" [level=3] [ref=e2067]
-                    - generic [ref=e2069]:
-                      - generic [ref=e2070]:
-                        - paragraph [ref=e2071]:
+                - figure [ref=e2058]:
+                  - img "Consola fija/portátil nintendo switch de 64 gb Nintendo Switch" [ref=e2061]
+                  - generic [ref=e2063]:
+                    - article [ref=e2064]:
+                      - heading "NINTENDO SWITCH" [level=3] [ref=e2065]
+                      - heading "Consola fija/portátil nintendo switch de 64 gb" [level=3] [ref=e2066]
+                    - generic [ref=e2068]:
+                      - generic [ref=e2069]:
+                        - paragraph [ref=e2070]:
                           - text: $7,999
-                          - superscript [ref=e2072]: "00"
-                        - paragraph [ref=e2073]:
+                          - superscript [ref=e2071]: "00"
+                        - paragraph [ref=e2072]:
                           - text: $7,499
-                          - superscript [ref=e2074]: "00"
-                      - list [ref=e2076]:
-                        - listitem [ref=e2077]:
-                          - generic "Blanco" [ref=e2078]
-            - listitem [ref=e2079]:
-              - link [ref=e2080] [cursor=pointer]:
+                          - superscript [ref=e2073]: "00"
+                      - list [ref=e2075]:
+                        - listitem [ref=e2076]:
+                          - generic "Blanco" [ref=e2077]
+            - listitem [ref=e2078]:
+              - link [ref=e2079] [cursor=pointer]:
                 - /url: /tienda/pdp/impresora-profesional-hp-3003dw-de-t%C3%B3ner-al%C3%A1mbrica-monocrom%C3%A1tica/1173563881?skuid=1173563881
-                - figure [ref=e2082]:
-                  - generic [ref=e2083]:
+                - figure [ref=e2081]:
+                  - generic [ref=e2082]:
                     - generic:
                       - img "Impresora profesional Hp 3003Dw de tóner alámbrica monocromática"
-                  - generic [ref=e2085]:
-                    - article [ref=e2086]:
-                      - heading "HP" [level=3] [ref=e2087]
-                      - heading "Impresora profesional 3003Dw de tóner alámbrica monocromática" [level=3] [ref=e2088]
-                    - generic [ref=e2090]:
-                      - paragraph [ref=e2092]:
+                  - generic [ref=e2084]:
+                    - article [ref=e2085]:
+                      - heading "HP" [level=3] [ref=e2086]
+                      - heading "Impresora profesional 3003Dw de tóner alámbrica monocromática" [level=3] [ref=e2087]
+                    - generic [ref=e2089]:
+                      - paragraph [ref=e2091]:
                         - text: $8,008
-                        - superscript [ref=e2093]: "00"
-                      - list [ref=e2095]:
-                        - listitem [ref=e2096]:
-                          - generic "Blanco" [ref=e2097]
-            - listitem [ref=e2098]:
-              - link [ref=e2099] [cursor=pointer]:
+                        - superscript [ref=e2092]: "00"
+                      - list [ref=e2094]:
+                        - listitem [ref=e2095]:
+                          - generic "Blanco" [ref=e2096]
+            - listitem [ref=e2097]:
+              - link [ref=e2098] [cursor=pointer]:
                 - /url: /tienda/pdp/pintura-siluetas-t%C3%A9cnica-acr%C3%ADlico-lune-art-gallery-abstractos/1160476822?skuid=1160476822
-                - figure [ref=e2101]:
-                  - generic [ref=e2102]:
+                - figure [ref=e2100]:
+                  - generic [ref=e2101]:
                     - generic:
                       - img "Pintura Siluetas técnica acrílico Lune Art Gallery Abstractos"
-                  - generic [ref=e2104]:
-                    - article [ref=e2105]:
-                      - heading "LUNE ART GALLERY" [level=3] [ref=e2106]
-                      - heading "Pintura Siluetas técnica acrílico Abstractos" [level=3] [ref=e2107]
-                    - generic [ref=e2109]:
-                      - generic [ref=e2110]:
-                        - paragraph [ref=e2111]:
+                  - generic [ref=e2103]:
+                    - article [ref=e2104]:
+                      - heading "LUNE ART GALLERY" [level=3] [ref=e2105]
+                      - heading "Pintura Siluetas técnica acrílico Abstractos" [level=3] [ref=e2106]
+                    - generic [ref=e2108]:
+                      - generic [ref=e2109]:
+                        - paragraph [ref=e2110]:
                           - text: $13,148
-                          - superscript [ref=e2112]: "12"
-                        - paragraph [ref=e2113]:
+                          - superscript [ref=e2111]: "12"
+                        - paragraph [ref=e2112]:
                           - text: $8,594
-                          - superscript [ref=e2114]: "04"
-                      - list [ref=e2116]:
-                        - listitem [ref=e2117]:
-                          - generic "Gris claro" [ref=e2118]
-            - listitem [ref=e2119]:
-              - link [ref=e2120] [cursor=pointer]:
+                          - superscript [ref=e2113]: "04"
+                      - list [ref=e2115]:
+                        - listitem [ref=e2116]:
+                          - generic "Gris claro" [ref=e2117]
+            - listitem [ref=e2118]:
+              - link [ref=e2119] [cursor=pointer]:
                 - /url: /tienda/pdp/aire-acondicionado-mini-split-midea-fr%C3%ADo-mas12c2asr-220-v/1097630476?skuid=1097630476
-                - figure [ref=e2122]:
-                  - generic [ref=e2123]:
+                - figure [ref=e2121]:
+                  - generic [ref=e2122]:
                     - generic:
                       - img "Aire acondicionado mini split Midea frío MAS12C2ASR 220 V"
-                  - generic [ref=e2125]:
-                    - article [ref=e2126]:
-                      - heading "MIDEA" [level=3] [ref=e2127]
-                      - heading "Aire acondicionado mini split frío MAS12C2ASR 220 V" [level=3] [ref=e2128]
-                    - generic [ref=e2130]:
-                      - paragraph [ref=e2132]:
+                  - generic [ref=e2124]:
+                    - article [ref=e2125]:
+                      - heading "MIDEA" [level=3] [ref=e2126]
+                      - heading "Aire acondicionado mini split frío MAS12C2ASR 220 V" [level=3] [ref=e2127]
+                    - generic [ref=e2129]:
+                      - paragraph [ref=e2131]:
                         - text: $13,443
-                        - superscript [ref=e2133]: "00"
-                      - list [ref=e2135]:
-                        - listitem [ref=e2136]:
-                          - generic "Blanco" [ref=e2137]
-            - listitem [ref=e2138]:
-              - link [ref=e2139] [cursor=pointer]:
+                        - superscript [ref=e2132]: "00"
+                      - list [ref=e2134]:
+                        - listitem [ref=e2135]:
+                          - generic "Blanco" [ref=e2136]
+            - listitem [ref=e2137]:
+              - link [ref=e2138] [cursor=pointer]:
                 - /url: /tienda/pdp/aretes,-collar-y-pulsera-effy-14-k-perla/1181355154?skuid=1181355154
-                - figure [ref=e2141]:
-                  - generic [ref=e2142]:
+                - figure [ref=e2140]:
+                  - generic [ref=e2141]:
                     - generic:
                       - img "Aretes, collar y pulsera Effy 14 K perla"
-                  - generic [ref=e2144]:
-                    - article [ref=e2145]:
-                      - heading "EFFY" [level=3] [ref=e2146]
-                      - heading "Aretes, collar y pulsera 14 K perla" [level=3] [ref=e2147]
-                    - generic [ref=e2149]:
-                      - generic [ref=e2150]:
-                        - paragraph [ref=e2151]:
+                  - generic [ref=e2143]:
+                    - article [ref=e2144]:
+                      - heading "EFFY" [level=3] [ref=e2145]
+                      - heading "Aretes, collar y pulsera 14 K perla" [level=3] [ref=e2146]
+                    - generic [ref=e2148]:
+                      - generic [ref=e2149]:
+                        - paragraph [ref=e2150]:
                           - text: $19,329
-                          - superscript [ref=e2152]: "00"
-                        - paragraph [ref=e2153]:
+                          - superscript [ref=e2151]: "00"
+                        - paragraph [ref=e2152]:
                           - text: $14,496
-                          - superscript [ref=e2154]: "75"
-                      - list [ref=e2156]:
-                        - listitem [ref=e2157]:
-                          - generic "Blanco" [ref=e2158]
-            - listitem [ref=e2159]:
-              - link [ref=e2160] [cursor=pointer]:
+                          - superscript [ref=e2153]: "75"
+                      - list [ref=e2155]:
+                        - listitem [ref=e2156]:
+                          - generic "Blanco" [ref=e2157]
+            - listitem [ref=e2158]:
+              - link [ref=e2159] [cursor=pointer]:
                 - /url: /tienda/pdp/consola-fija/port%C3%A1til-nintendo-switch-de-64-gb-edici%C3%B3n-limitada-nintendo-mario-bros/1166241495?skuid=1166241495
-                - figure [ref=e2162]:
-                  - img "Consola fija/portátil nintendo switch de 64 gb edición limitada Nintendo mario bros" [ref=e2165]
-                  - generic [ref=e2167]:
-                    - article [ref=e2168]:
-                      - heading "NINTENDO" [level=3] [ref=e2169]
-                      - heading "Consola fija/portátil nintendo switch de 64 gb edición limitada mario bros" [level=3] [ref=e2170]
-                    - generic [ref=e2172]:
-                      - paragraph [ref=e2174]:
+                - figure [ref=e2161]:
+                  - img "Consola fija/portátil nintendo switch de 64 gb edición limitada Nintendo mario bros" [ref=e2164]
+                  - generic [ref=e2166]:
+                    - article [ref=e2167]:
+                      - heading "NINTENDO" [level=3] [ref=e2168]
+                      - heading "Consola fija/portátil nintendo switch de 64 gb edición limitada mario bros" [level=3] [ref=e2169]
+                    - generic [ref=e2171]:
+                      - paragraph [ref=e2173]:
                         - text: $15,389
-                        - superscript [ref=e2175]: "00"
-                      - list [ref=e2177]:
-                        - listitem [ref=e2178]:
-                          - generic "Blanco" [ref=e2179]
-                      - list [ref=e2181]:
-                        - listitem [ref=e2182]:
-                          - generic [ref=e2183]: 
-                        - listitem [ref=e2184]:
-                          - generic [ref=e2185]: 
-                        - listitem [ref=e2186]:
-                          - generic [ref=e2187]: 
-                        - listitem [ref=e2188]:
-                          - generic [ref=e2189]: 
-                        - listitem [ref=e2190]:
-                          - generic [ref=e2191]: 
-                        - listitem [ref=e2192]: (50)
-            - listitem [ref=e2193]:
-              - link [ref=e2194] [cursor=pointer]:
+                        - superscript [ref=e2174]: "00"
+                      - list [ref=e2176]:
+                        - listitem [ref=e2177]:
+                          - generic "Blanco" [ref=e2178]
+                      - list [ref=e2180]:
+                        - listitem [ref=e2181]:
+                          - generic [ref=e2182]: 
+                        - listitem [ref=e2183]:
+                          - generic [ref=e2184]: 
+                        - listitem [ref=e2185]:
+                          - generic [ref=e2186]: 
+                        - listitem [ref=e2187]:
+                          - generic [ref=e2188]: 
+                        - listitem [ref=e2189]:
+                          - generic [ref=e2190]: 
+                        - listitem [ref=e2191]: (50)
+            - listitem [ref=e2192]:
+              - link [ref=e2193] [cursor=pointer]:
                 - /url: /tienda/pdp/bicicleta-de-monta%C3%B1a-gravel-rodada-29-vinson-pro-unisex/99990845564?skuid=1187085221
-                - figure [ref=e2196]:
-                  - generic [ref=e2197]:
+                - figure [ref=e2195]:
+                  - generic [ref=e2196]:
                     - generic:
                       - img "Bicicleta de montaña Gravel rodada 29 Vinson Pro unisex"
-                  - generic [ref=e2199]:
-                    - article [ref=e2200]:
-                      - heading "GRAVEL" [level=3] [ref=e2201]
-                      - heading "Bicicleta de montaña rodada 29 Vinson Pro unisex" [level=3] [ref=e2202]
-                    - generic [ref=e2204]:
-                      - generic [ref=e2205]:
-                        - paragraph [ref=e2206]:
+                  - generic [ref=e2198]:
+                    - article [ref=e2199]:
+                      - heading "GRAVEL" [level=3] [ref=e2200]
+                      - heading "Bicicleta de montaña rodada 29 Vinson Pro unisex" [level=3] [ref=e2201]
+                    - generic [ref=e2203]:
+                      - generic [ref=e2204]:
+                        - paragraph [ref=e2205]:
                           - text: $28,411
-                          - superscript [ref=e2207]: "00"
-                        - paragraph [ref=e2208]:
+                          - superscript [ref=e2206]: "00"
+                        - paragraph [ref=e2207]:
                           - text: $24,149
-                          - superscript [ref=e2209]: "00"
-                      - list [ref=e2211]:
-                        - listitem [ref=e2212]:
-                          - generic "Blanco" [ref=e2213]
-                        - listitem [ref=e2214]:
-                          - generic "Beige" [ref=e2215]
-                        - listitem [ref=e2216]:
-                          - generic "Amarillo" [ref=e2217]
-            - listitem [ref=e2218]:
-              - link [ref=e2219] [cursor=pointer]:
+                          - superscript [ref=e2208]: "00"
+                      - list [ref=e2210]:
+                        - listitem [ref=e2211]:
+                          - generic "Blanco" [ref=e2212]
+                        - listitem [ref=e2213]:
+                          - generic "Beige" [ref=e2214]
+                        - listitem [ref=e2215]:
+                          - generic "Amarillo" [ref=e2216]
+            - listitem [ref=e2217]:
+              - link [ref=e2218] [cursor=pointer]:
                 - /url: /tienda/pdp/subwoofer-svs-sb-1000-pro-piano-gloss-white/1134936327?skuid=1134936327
-                - figure [ref=e2221]:
-                  - generic [ref=e2222]:
+                - figure [ref=e2220]:
+                  - generic [ref=e2221]:
                     - generic:
                       - img "Subwoofer SVS SB-1000 Pro Piano Gloss White"
-                  - generic [ref=e2224]:
-                    - article [ref=e2225]:
-                      - heading "SVS" [level=3] [ref=e2226]
-                      - heading "Subwoofer SVS SB-1000 Pro Piano Gloss White" [level=3] [ref=e2227]: Subwoofer SVS SB-1000 Pro Piano Gloss White
-                    - generic [ref=e2229]:
-                      - generic [ref=e2230]:
-                        - paragraph [ref=e2231]:
+                  - generic [ref=e2223]:
+                    - article [ref=e2224]:
+                      - heading "SVS" [level=3] [ref=e2225]
+                      - heading "Subwoofer SVS SB-1000 Pro Piano Gloss White" [level=3] [ref=e2226]: Subwoofer SVS SB-1000 Pro Piano Gloss White
+                    - generic [ref=e2228]:
+                      - generic [ref=e2229]:
+                        - paragraph [ref=e2230]:
                           - text: $34,261
-                          - superscript [ref=e2232]: "50"
-                        - paragraph [ref=e2233]:
+                          - superscript [ref=e2231]: "50"
+                        - paragraph [ref=e2232]:
                           - text: $26,355
-                          - superscript [ref=e2234]: "00"
-                      - list [ref=e2236]:
-                        - listitem [ref=e2237]:
-                          - generic "Blanco" [ref=e2238]
+                          - superscript [ref=e2233]: "00"
+                      - list [ref=e2235]:
+                        - listitem [ref=e2236]:
+                          - generic "Blanco" [ref=e2237]
         - text: 
-    - contentinfo [ref=e2240]:
-      - generic [ref=e2241]:
-        - generic [ref=e2242]:
-          - navigation [ref=e2245]:
-            - generic [ref=e2247]:
-              - generic [ref=e2249]:
+    - contentinfo [ref=e2239]:
+      - generic [ref=e2240]:
+        - generic [ref=e2241]:
+          - navigation [ref=e2244]:
+            - generic [ref=e2246]:
+              - generic [ref=e2248]:
                 - generic:
                   - heading "Soporte al cliente" [level=3]
                   - text: 
-                - generic "Soporte al cliente" [ref=e2250]:
-                  - list [ref=e2252]:
-                    - listitem [ref=e2253]:
-                      - link "Facturación" [ref=e2254] [cursor=pointer]:
+                - generic "Soporte al cliente" [ref=e2249]:
+                  - list [ref=e2251]:
+                    - listitem [ref=e2252]:
+                      - link "Facturación" [ref=e2253] [cursor=pointer]:
                         - /url: https://facturacionclientes.liverpool.com.mx/inicio/&uid=liverpool
-                    - listitem [ref=e2255]:
-                      - link "Ayuda" [ref=e2256] [cursor=pointer]:
+                    - listitem [ref=e2254]:
+                      - link "Ayuda" [ref=e2255] [cursor=pointer]:
                         - /url: https://www.liverpool.com.mx/ayuda/index.html#/
-                    - listitem [ref=e2257]:
-                      - link "Mis Compras" [ref=e2258] [cursor=pointer]:
+                    - listitem [ref=e2256]:
+                      - link "Mis Compras" [ref=e2257] [cursor=pointer]:
                         - /url: /tienda/users/miscompras
-                    - listitem [ref=e2259]:
-                      - link "Garantía Liverpool" [ref=e2260] [cursor=pointer]:
+                    - listitem [ref=e2258]:
+                      - link "Garantía Liverpool" [ref=e2259] [cursor=pointer]:
                         - /url: /tienda/paginas/garantia
-              - generic [ref=e2262]:
+              - generic [ref=e2261]:
                 - generic:
                   - heading "Servicios Liverpool" [level=3]
                   - text: 
-                - generic "Servicios Liverpool" [ref=e2263]:
-                  - list [ref=e2265]:
-                    - listitem [ref=e2266]:
-                      - link "Crédito" [ref=e2267] [cursor=pointer]:
+                - generic "Servicios Liverpool" [ref=e2262]:
+                  - list [ref=e2264]:
+                    - listitem [ref=e2265]:
+                      - link "Crédito" [ref=e2266] [cursor=pointer]:
                         - /url: https://micredito.liverpool.com.mx/app
-                    - listitem [ref=e2268]:
-                      - link "Tiempo aire" [ref=e2269] [cursor=pointer]:
+                    - listitem [ref=e2267]:
+                      - link "Tiempo aire" [ref=e2268] [cursor=pointer]:
                         - /url: "#"
-                    - listitem [ref=e2270]:
-                      - link "Concursos y promociones" [ref=e2271] [cursor=pointer]:
+                    - listitem [ref=e2269]:
+                      - link "Concursos y promociones" [ref=e2270] [cursor=pointer]:
                         - /url: /tienda/promotions
-                    - listitem [ref=e2272]:
-                      - link "Diseño de Interiores" [ref=e2273] [cursor=pointer]:
+                    - listitem [ref=e2271]:
+                      - link "Diseño de Interiores" [ref=e2272] [cursor=pointer]:
                         - /url: /tienda/paginas/diseno-interiores
-                    - listitem [ref=e2274]:
-                      - link "Ventas Corporativas" [ref=e2275] [cursor=pointer]:
+                    - listitem [ref=e2273]:
+                      - link "Ventas Corporativas" [ref=e2274] [cursor=pointer]:
                         - /url: https://www.liverpool.com.mx/tienda/paginas/ventas-corporativas
-              - generic [ref=e2277]:
+              - generic [ref=e2276]:
                 - generic:
                   - heading "Acerca de Liverpool" [level=3]
                   - text: 
-                - generic "Acerca de Liverpool" [ref=e2278]:
-                  - list [ref=e2280]:
-                    - listitem [ref=e2281]:
-                      - link "Portal de carrera" [ref=e2282] [cursor=pointer]:
+                - generic "Acerca de Liverpool" [ref=e2277]:
+                  - list [ref=e2279]:
+                    - listitem [ref=e2280]:
+                      - link "Portal de carrera" [ref=e2281] [cursor=pointer]:
                         - /url: https://pcarrera.liverpool.com.mx
-                    - listitem [ref=e2283]:
-                      - link "¿Quiénes somos?" [ref=e2284] [cursor=pointer]:
+                    - listitem [ref=e2282]:
+                      - link "¿Quiénes somos?" [ref=e2283] [cursor=pointer]:
                         - /url: https://www.elpuertodeliverpool.mx/perfil.html
-                    - listitem [ref=e2285]:
-                      - link "Relación con inversionistas" [ref=e2286] [cursor=pointer]:
+                    - listitem [ref=e2284]:
+                      - link "Relación con inversionistas" [ref=e2285] [cursor=pointer]:
                         - /url: https://www.elpuertodeliverpool.mx/
-                    - listitem [ref=e2287]:
-                      - link "Sostenibilidad" [ref=e2288] [cursor=pointer]:
+                    - listitem [ref=e2286]:
+                      - link "Sostenibilidad" [ref=e2287] [cursor=pointer]:
                         - /url: /tienda/paginas/sostenibilidad
-              - generic [ref=e2290]:
+              - generic [ref=e2289]:
                 - generic:
                   - heading "Promociones" [level=3]
                   - text: 
-                - generic "Promociones" [ref=e2291]:
-                  - list [ref=e2293]:
-                    - listitem [ref=e2294]:
-                      - link "Venta Nocturna" [ref=e2295] [cursor=pointer]:
+                - generic "Promociones" [ref=e2290]:
+                  - list [ref=e2292]:
+                    - listitem [ref=e2293]:
+                      - link "Venta Nocturna" [ref=e2294] [cursor=pointer]:
                         - /url: https://www.liverpool.com.mx/tienda/paginas/venta-nocturna
-                    - listitem [ref=e2296]:
-                      - link "Hot Sale" [ref=e2297] [cursor=pointer]:
+                    - listitem [ref=e2295]:
+                      - link "Hot Sale" [ref=e2296] [cursor=pointer]:
                         - /url: https://www.liverpool.com.mx/tienda/hot-sale/catst52375715
-                    - listitem [ref=e2298]:
-                      - link "Buen Fin" [ref=e2299] [cursor=pointer]:
+                    - listitem [ref=e2297]:
+                      - link "Buen Fin" [ref=e2298] [cursor=pointer]:
                         - /url: https://www.liverpool.com.mx/tienda/buen-fin/catst44480398
-                    - listitem [ref=e2300]:
-                      - link "Bolo Fest" [ref=e2301] [cursor=pointer]:
+                    - listitem [ref=e2299]:
+                      - link "Bolo Fest" [ref=e2300] [cursor=pointer]:
                         - /url: https://www.liverpool.com.mx/tienda/paginas/bolofest
-          - generic [ref=e2305]:
-            - paragraph [ref=e2306]
-            - paragraph [ref=e2307]: Ventas por teléfono 555262-9999
-            - paragraph [ref=e2308]: Desde tu celular *7171
-            - paragraph [ref=e2309]:
+          - generic [ref=e2304]:
+            - paragraph [ref=e2305]
+            - paragraph [ref=e2306]: Ventas por teléfono 555262-9999
+            - paragraph [ref=e2307]: Desde tu celular *7171
+            - paragraph [ref=e2308]:
               - text: Contáctanos vía
-              - link "WhatsApp" [ref=e2310] [cursor=pointer]:
+              - link "WhatsApp" [ref=e2309] [cursor=pointer]:
                 - /url: https://wa.me/525552629999
               - text: o por Teléfono al 5552629999
-          - separator [ref=e2312]
-        - generic [ref=e2313]:
-          - generic [ref=e2314]:
-            - generic [ref=e2315]: "Comentarios y Sugerencias:"
-            - generic [ref=e2316]: atencion@liverpool.com.mx
-          - generic [ref=e2317]:
-            - link "Términos y condiciones" [ref=e2318] [cursor=pointer]:
+          - separator [ref=e2311]
+        - generic [ref=e2312]:
+          - generic [ref=e2313]:
+            - generic [ref=e2314]: "Comentarios y Sugerencias:"
+            - generic [ref=e2315]: atencion@liverpool.com.mx
+          - generic [ref=e2316]:
+            - link "Términos y condiciones" [ref=e2317] [cursor=pointer]:
               - /url: https://www.liverpool.com.mx/ayuda/index.html#/sec/terminos-y-condiciones/informacion
             - text: /
-            - link "Aviso de privacidad" [ref=e2319] [cursor=pointer]:
+            - link "Aviso de privacidad" [ref=e2318] [cursor=pointer]:
               - /url: https://www.liverpool.com.mx/ayuda/index.html#/sec/terminos-y-condiciones/proteccion-de-datos/aviso-clientes
             - text: /
-            - link "Mapa del sitio" [ref=e2320] [cursor=pointer]:
+            - link "Mapa del sitio" [ref=e2319] [cursor=pointer]:
               - /url: /tienda/sitemap
-          - generic [ref=e2321]:
-            - link "icon" [ref=e2322] [cursor=pointer]:
+          - generic [ref=e2320]:
+            - link "icon" [ref=e2321] [cursor=pointer]:
               - /url: https://www.facebook.com/liverpoolmexico
-              - img "icon" [ref=e2323]
-            - link "icon" [ref=e2324] [cursor=pointer]:
+              - img "icon" [ref=e2322]
+            - link "icon" [ref=e2323] [cursor=pointer]:
               - /url: https://twitter.com/LiverpoolMexico
-              - img "icon" [ref=e2325]
-            - link "icon" [ref=e2326] [cursor=pointer]:
+              - img "icon" [ref=e2324]
+            - link "icon" [ref=e2325] [cursor=pointer]:
               - /url: https://www.instagram.com/liverpool_mexico/
-              - img "icon" [ref=e2327]
-      - generic [ref=e2329]:
-        - paragraph [ref=e2330]: Precio en rojo aplica el descuento más alto, las promociones pueden diferir de las publicadas en tienda
-        - paragraph [ref=e2331]: 2025 Liverpool / Todos los derechos reservados D.R. ®
-  - alert [ref=e2332]: Nintendo switch
+              - img "icon" [ref=e2326]
+      - generic [ref=e2328]:
+        - paragraph [ref=e2329]: Precio en rojo aplica el descuento más alto, las promociones pueden diferir de las publicadas en tienda
+        - paragraph [ref=e2330]: 2025 Liverpool / Todos los derechos reservados D.R. ®
+  - alert [ref=e2331]: Nintendo switch
 ```
 
 # Test source

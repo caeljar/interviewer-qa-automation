@@ -170,9 +170,9 @@ Received:    2
       - generic [ref=e83]:
         - complementary [ref=e84]:
           - generic [ref=e86]:
-            - heading "\"xbox series x\" (34 resultados)" [level=5] [ref=e87]:
+            - heading "\"xbox series x\" (35 resultados)" [level=5] [ref=e87]:
               - text: "\"xbox series x\""
-              - generic [ref=e88]: (34 resultados)
+              - generic [ref=e88]: (35 resultados)
             - generic [ref=e90]:
               - generic [ref=e91]:
                 - paragraph [ref=e92]: Filtros seleccionados (1)
@@ -210,7 +210,7 @@ Received:    2
                   - generic [ref=e139] [cursor=pointer]: 20.0 % o más (17)
                 - generic [ref=e140]:
                   - radio [ref=e142] [cursor=pointer]
-                  - generic [ref=e145] [cursor=pointer]: 10.0 % o más (23)
+                  - generic [ref=e145] [cursor=pointer]: 10.0 % o más (24)
             - generic [ref=e146]:
               - button "Marcas " [ref=e148] [cursor=pointer]:
                 - heading "Marcas " [level=5] [ref=e149]:
@@ -316,7 +316,7 @@ Received:    2
                     - generic [ref=e269] [cursor=pointer]: $2000.0 -$5000.0 (5)
                   - generic [ref=e270]:
                     - radio [ref=e272] [cursor=pointer]
-                    - generic [ref=e275] [cursor=pointer]: $5000.0 -$10000.0 (5)
+                    - generic [ref=e275] [cursor=pointer]: $5000.0 -$10000.0 (6)
                   - generic [ref=e276]:
                     - radio [ref=e278] [cursor=pointer]
                     - generic [ref=e281] [cursor=pointer]: Mas de $10000.0 (5)
@@ -383,19 +383,19 @@ Received:    2
                       - checkbox [ref=e355]
                       - generic:
                         - img
-                    - generic [ref=e356] [cursor=pointer]: iMports77 (5)
+                    - generic [ref=e356] [cursor=pointer]: doto (5)
                   - generic [ref=e358]:
                     - generic [ref=e359] [cursor=pointer]:
                       - checkbox [ref=e360]
                       - generic:
                         - img
-                    - generic [ref=e361] [cursor=pointer]: doto (4)
+                    - generic [ref=e361] [cursor=pointer]: iMports77 (5)
                   - generic [ref=e363]:
                     - generic [ref=e364] [cursor=pointer]:
                       - checkbox [ref=e365]
                       - generic:
                         - img
-                    - generic [ref=e366] [cursor=pointer]: commerweb (3)
+                    - generic [ref=e366] [cursor=pointer]: commerweb (4)
                 - link "Ver más" [ref=e367] [cursor=pointer]:
                   - /url: /tienda/N-hgcLI2abDrxHMRMHRY%2BNcxgGU5UwgEshy4hRAfc%2B%2BKU%3D?s=xbox%20series%20x&st=sortPrice|0#!
             - generic [ref=e368]:
@@ -474,7 +474,7 @@ Received:    2
                     - checkbox [ref=e448]
                     - generic:
                       - img
-                  - generic [ref=e449] [cursor=pointer]: 512 GB (5)
+                  - generic [ref=e449] [cursor=pointer]: 512 GB (6)
                 - generic [ref=e451]:
                   - generic [ref=e452] [cursor=pointer]:
                     - checkbox [ref=e453]
@@ -617,7 +617,7 @@ Received:    2
                   - link "" [ref=e611] [cursor=pointer]:
                     - /url: /tienda/N-hgcLI2abDrxHMRMHRY%2BNcxgGU5UwgEshy4hRAfc%2B%2BKU%3D?s=xbox%20series%20x&st=sortPrice|0#!
                     - generic [ref=e612]: 
-                  - paragraph [ref=e613]: 34 Productos
+                  - paragraph [ref=e613]: 35 Productos
           - list [ref=e617]:
             - listitem [ref=e618]:
               - link [ref=e619] [cursor=pointer]:
@@ -1209,115 +1209,115 @@ Received:    2
                           - generic "Blanco" [ref=e1277]
             - listitem [ref=e1278]:
               - link [ref=e1279] [cursor=pointer]:
-                - /url: /tienda/pdp/consola-fija-xbox-series-s-de-512-gb-microsoft/1100132300?skuid=1100132300
+                - /url: /tienda/pdp/consola-fija-xbox-series-s-de-512-gb-xbox-series-s/1178112780?skuid=1178112780
                 - figure [ref=e1281]:
-                  - img "Consola fija xbox series s de 512 gb Microsoft" [ref=e1284]
+                  - img "Consola fija xbox series s de 512 gb Xbox Series S" [ref=e1284]
                   - generic [ref=e1286]:
                     - article [ref=e1287]:
-                      - heading "MICROSOFT" [level=3] [ref=e1288]
-                      - heading "Consola fija xbox series s de 512 gb" [level=3] [ref=e1289]
+                      - heading "XBOX SERIES S" [level=3] [ref=e1288]
+                      - heading "Consola fija de 512 gb Xbox Series S" [level=3] [ref=e1289]
                     - generic [ref=e1291]:
-                      - paragraph [ref=e1293]:
+                      - generic [ref=e1292]:
+                        - paragraph [ref=e1293]:
+                          - text: $9,999
+                          - superscript [ref=e1294]: "00"
+                        - paragraph [ref=e1295]:
+                          - text: $8,399
+                          - superscript [ref=e1296]: "00"
+                      - list [ref=e1298]:
+                        - listitem [ref=e1299]:
+                          - generic "Blanco" [ref=e1300]
+            - listitem [ref=e1301]:
+              - link [ref=e1302] [cursor=pointer]:
+                - /url: /tienda/pdp/consola-fija-xbox-series-s-de-512-gb-microsoft/1100132300?skuid=1100132300
+                - figure [ref=e1304]:
+                  - img "Consola fija xbox series s de 512 gb Microsoft" [ref=e1307]
+                  - generic [ref=e1309]:
+                    - article [ref=e1310]:
+                      - heading "MICROSOFT" [level=3] [ref=e1311]
+                      - heading "Consola fija xbox series s de 512 gb" [level=3] [ref=e1312]
+                    - generic [ref=e1314]:
+                      - paragraph [ref=e1316]:
                         - text: $8,899
-                        - superscript [ref=e1294]: "00"
-                      - list [ref=e1296]:
-                        - listitem [ref=e1297]:
-                          - generic "Blanco" [ref=e1298]
-                      - list [ref=e1300]:
-                        - listitem [ref=e1301]:
-                          - generic [ref=e1302]: 
-                        - listitem [ref=e1303]:
-                          - generic [ref=e1304]: 
-                        - listitem [ref=e1305]:
-                          - generic [ref=e1306]: 
-                        - listitem [ref=e1307]:
-                          - generic [ref=e1308]: 
-                        - listitem [ref=e1309]:
-                          - generic [ref=e1310]: 
-                        - listitem [ref=e1311]: (419)
-            - listitem [ref=e1312]:
-              - link [ref=e1313] [cursor=pointer]:
+                        - superscript [ref=e1317]: "00"
+                      - list [ref=e1319]:
+                        - listitem [ref=e1320]:
+                          - generic "Blanco" [ref=e1321]
+                      - list [ref=e1323]:
+                        - listitem [ref=e1324]:
+                          - generic [ref=e1325]: 
+                        - listitem [ref=e1326]:
+                          - generic [ref=e1327]: 
+                        - listitem [ref=e1328]:
+                          - generic [ref=e1329]: 
+                        - listitem [ref=e1330]:
+                          - generic [ref=e1331]: 
+                        - listitem [ref=e1332]:
+                          - generic [ref=e1333]: 
+                        - listitem [ref=e1334]: (419)
+            - listitem [ref=e1335]:
+              - link [ref=e1336] [cursor=pointer]:
                 - /url: /tienda/pdp/control-microsoft-al%C3%A1mbrico-para-xbox-one/1144646572?skuid=1144646572
-                - figure [ref=e1315]:
-                  - generic [ref=e1316]:
+                - figure [ref=e1338]:
+                  - generic [ref=e1339]:
                     - generic:
                       - img "Control Microsoft alámbrico para xbox one"
-                  - generic [ref=e1318]:
-                    - article [ref=e1319]:
-                      - heading "MICROSOFT" [level=3] [ref=e1320]
-                      - heading "Control alámbrico para xbox one" [level=3] [ref=e1321]
-                    - generic [ref=e1323]:
-                      - paragraph [ref=e1325]:
+                  - generic [ref=e1341]:
+                    - article [ref=e1342]:
+                      - heading "MICROSOFT" [level=3] [ref=e1343]
+                      - heading "Control alámbrico para xbox one" [level=3] [ref=e1344]
+                    - generic [ref=e1346]:
+                      - paragraph [ref=e1348]:
                         - text: $9,078
-                        - superscript [ref=e1326]: "00"
-                      - list [ref=e1328]:
-                        - listitem [ref=e1329]:
-                          - generic "Blanco" [ref=e1330]
-            - listitem [ref=e1331]:
-              - link [ref=e1332] [cursor=pointer]:
-                - /url: /tienda/pdp/consola-fija-xbox-series-s-de-512-gb-edici%C3%B3n-bundle-microsoft/1140162147?skuid=1140162147
-                - figure [ref=e1334]:
-                  - img "Consola fija xbox series s de 512 gb edición bundle Microsoft" [ref=e1337]
-                  - generic [ref=e1339]:
-                    - article [ref=e1340]:
-                      - heading "MICROSOFT" [level=3] [ref=e1341]
-                      - heading "Consola fija xbox series s de 512 gb edición bundle" [level=3] [ref=e1342]
-                    - generic [ref=e1344]:
-                      - generic [ref=e1345]:
-                        - paragraph [ref=e1346]:
-                          - text: $11,919
-                          - superscript [ref=e1347]: "00"
-                        - paragraph [ref=e1348]:
-                          - text: $9,389
-                          - superscript [ref=e1349]: "00"
+                        - superscript [ref=e1349]: "00"
                       - list [ref=e1351]:
                         - listitem [ref=e1352]:
                           - generic "Blanco" [ref=e1353]
-                      - list [ref=e1355]:
-                        - listitem [ref=e1356]:
-                          - generic [ref=e1357]: 
-                        - listitem [ref=e1358]:
-                          - generic [ref=e1359]: 
-                        - listitem [ref=e1360]:
-                          - generic [ref=e1361]: 
-                        - listitem [ref=e1362]:
-                          - generic [ref=e1363]: 
-                        - listitem [ref=e1364]:
-                          - generic [ref=e1365]: 
-                        - listitem [ref=e1366]: (1)
-            - listitem [ref=e1367]:
-              - link [ref=e1368] [cursor=pointer]:
-                - /url: /tienda/pdp/consola-fija-xbox-series-s-de-512-gb-microsoft/1141615064?skuid=1141615064
-                - figure [ref=e1370]:
-                  - img "Consola fija xbox series s de 512 gb Microsoft" [ref=e1373]
-                  - generic [ref=e1375]:
-                    - article [ref=e1376]:
-                      - heading "MICROSOFT" [level=3] [ref=e1377]
-                      - heading "Consola fija xbox series s de 512 gb" [level=3] [ref=e1378]
-                    - generic [ref=e1380]:
-                      - generic [ref=e1381]:
-                        - paragraph [ref=e1382]:
-                          - text: $10,999
-                          - superscript [ref=e1383]: "00"
-                        - paragraph [ref=e1384]:
+            - listitem [ref=e1354]:
+              - link [ref=e1355] [cursor=pointer]:
+                - /url: /tienda/pdp/consola-fija-xbox-series-s-de-512-gb-edici%C3%B3n-bundle-microsoft/1140162147?skuid=1140162147
+                - figure [ref=e1357]:
+                  - img "Consola fija xbox series s de 512 gb edición bundle Microsoft" [ref=e1360]
+                  - generic [ref=e1362]:
+                    - article [ref=e1363]:
+                      - heading "MICROSOFT" [level=3] [ref=e1364]
+                      - heading "Consola fija xbox series s de 512 gb edición bundle" [level=3] [ref=e1365]
+                    - generic [ref=e1367]:
+                      - generic [ref=e1368]:
+                        - paragraph [ref=e1369]:
+                          - text: $11,919
+                          - superscript [ref=e1370]: "00"
+                        - paragraph [ref=e1371]:
                           - text: $9,389
-                          - superscript [ref=e1385]: "00"
-                      - list [ref=e1387]:
-                        - listitem [ref=e1388]:
-                          - generic "Blanco" [ref=e1389]
+                          - superscript [ref=e1372]: "00"
+                      - list [ref=e1374]:
+                        - listitem [ref=e1375]:
+                          - generic "Blanco" [ref=e1376]
+                      - list [ref=e1378]:
+                        - listitem [ref=e1379]:
+                          - generic [ref=e1380]: 
+                        - listitem [ref=e1381]:
+                          - generic [ref=e1382]: 
+                        - listitem [ref=e1383]:
+                          - generic [ref=e1384]: 
+                        - listitem [ref=e1385]:
+                          - generic [ref=e1386]: 
+                        - listitem [ref=e1387]:
+                          - generic [ref=e1388]: 
+                        - listitem [ref=e1389]: (1)
             - listitem [ref=e1390]:
               - link [ref=e1391] [cursor=pointer]:
-                - /url: /tienda/pdp/consola-fija-xbox-series-s-de-512-gb-edici%C3%B3n-especial-microsoft/1146389216?skuid=1146389216
+                - /url: /tienda/pdp/consola-fija-xbox-series-s-de-512-gb-microsoft/1141615064?skuid=1141615064
                 - figure [ref=e1393]:
-                  - img "Consola fija xbox series s de 512 gb edición especial Microsoft" [ref=e1396]
+                  - img "Consola fija xbox series s de 512 gb Microsoft" [ref=e1396]
                   - generic [ref=e1398]:
                     - article [ref=e1399]:
                       - heading "MICROSOFT" [level=3] [ref=e1400]
-                      - heading "Consola fija xbox series s de 512 gb edición especial" [level=3] [ref=e1401]
+                      - heading "Consola fija xbox series s de 512 gb" [level=3] [ref=e1401]
                     - generic [ref=e1403]:
                       - generic [ref=e1404]:
                         - paragraph [ref=e1405]:
-                          - text: $11,579
+                          - text: $10,999
                           - superscript [ref=e1406]: "00"
                         - paragraph [ref=e1407]:
                           - text: $9,389
@@ -1325,262 +1325,282 @@ Received:    2
                       - list [ref=e1410]:
                         - listitem [ref=e1411]:
                           - generic "Blanco" [ref=e1412]
-                      - list [ref=e1414]:
-                        - listitem [ref=e1415]:
-                          - generic [ref=e1416]: 
-                        - listitem [ref=e1417]:
-                          - generic [ref=e1418]: 
-                        - listitem [ref=e1419]:
-                          - generic [ref=e1420]: 
-                        - listitem [ref=e1421]:
-                          - generic [ref=e1422]: 
-                        - listitem [ref=e1423]:
-                          - generic [ref=e1424]: 
-                        - listitem [ref=e1425]: (4)
-            - listitem [ref=e1426]:
-              - link [ref=e1427] [cursor=pointer]:
+            - listitem [ref=e1413]:
+              - link [ref=e1414] [cursor=pointer]:
+                - /url: /tienda/pdp/consola-fija-xbox-series-s-de-512-gb-edici%C3%B3n-especial-microsoft/1146389216?skuid=1146389216
+                - figure [ref=e1416]:
+                  - img "Consola fija xbox series s de 512 gb edición especial Microsoft" [ref=e1419]
+                  - generic [ref=e1421]:
+                    - article [ref=e1422]:
+                      - heading "MICROSOFT" [level=3] [ref=e1423]
+                      - heading "Consola fija xbox series s de 512 gb edición especial" [level=3] [ref=e1424]
+                    - generic [ref=e1426]:
+                      - generic [ref=e1427]:
+                        - paragraph [ref=e1428]:
+                          - text: $11,579
+                          - superscript [ref=e1429]: "00"
+                        - paragraph [ref=e1430]:
+                          - text: $9,389
+                          - superscript [ref=e1431]: "00"
+                      - list [ref=e1433]:
+                        - listitem [ref=e1434]:
+                          - generic "Blanco" [ref=e1435]
+                      - list [ref=e1437]:
+                        - listitem [ref=e1438]:
+                          - generic [ref=e1439]: 
+                        - listitem [ref=e1440]:
+                          - generic [ref=e1441]: 
+                        - listitem [ref=e1442]:
+                          - generic [ref=e1443]: 
+                        - listitem [ref=e1444]:
+                          - generic [ref=e1445]: 
+                        - listitem [ref=e1446]:
+                          - generic [ref=e1447]: 
+                        - listitem [ref=e1448]: (4)
+            - listitem [ref=e1449]:
+              - link [ref=e1450] [cursor=pointer]:
                 - /url: /tienda/pdp/consola-fija-xbox-series-s-de-1-tb-edici%C3%B3n-est%C3%A1ndar-microsoft/1163096729?skuid=1163096729
-                - figure [ref=e1429]:
-                  - img "Consola fija xbox series s de 1 tb edición estándar Microsoft" [ref=e1432]
-                  - generic [ref=e1434]:
-                    - article [ref=e1435]:
-                      - heading "MICROSOFT" [level=3] [ref=e1436]
-                      - heading "Consola fija xbox series s de 1 tb edición estándar" [level=3] [ref=e1437]
-                    - generic [ref=e1439]:
-                      - paragraph [ref=e1441]:
+                - figure [ref=e1452]:
+                  - img "Consola fija xbox series s de 1 tb edición estándar Microsoft" [ref=e1455]
+                  - generic [ref=e1457]:
+                    - article [ref=e1458]:
+                      - heading "MICROSOFT" [level=3] [ref=e1459]
+                      - heading "Consola fija xbox series s de 1 tb edición estándar" [level=3] [ref=e1460]
+                    - generic [ref=e1462]:
+                      - paragraph [ref=e1464]:
                         - text: $10,499
-                        - superscript [ref=e1442]: "00"
-                      - list [ref=e1444]:
-                        - listitem [ref=e1445]:
-                          - generic "Blanco" [ref=e1446]
-                      - list [ref=e1448]:
-                        - listitem [ref=e1449]:
-                          - generic [ref=e1450]: 
-                        - listitem [ref=e1451]:
-                          - generic [ref=e1452]: 
-                        - listitem [ref=e1453]:
-                          - generic [ref=e1454]: 
-                        - listitem [ref=e1455]:
-                          - generic [ref=e1456]: 
-                        - listitem [ref=e1457]:
-                          - generic [ref=e1458]: 
-                        - listitem [ref=e1459]: (41)
-            - listitem [ref=e1460]:
-              - link [ref=e1461] [cursor=pointer]:
-                - /url: /tienda/pdp/consola-fija-xbox-series-s-de-512-gb-edici%C3%B3n-bundle-microsoft/9993645172?skuid=1199037826
-                - figure [ref=e1463]:
-                  - img "Consola fija Xbox Series S de 512 GB edición bundle Microsoft" [ref=e1466]
-                  - generic [ref=e1468]:
-                    - article [ref=e1469]:
-                      - heading "MICROSOFT" [level=3] [ref=e1470]
-                      - heading "Consola fija Xbox Series S de 512 GB edición bundle" [level=3] [ref=e1471]
-                    - generic [ref=e1473]:
-                      - generic [ref=e1474]:
-                        - paragraph [ref=e1475]:
-                          - text: $14,999
-                          - superscript [ref=e1476]: "00"
-                        - paragraph [ref=e1477]:
-                          - text: $11,099
-                          - superscript [ref=e1478]: "00"
-                      - list [ref=e1480]:
-                        - listitem [ref=e1481]:
-                          - generic "Blanco" [ref=e1482]
+                        - superscript [ref=e1465]: "00"
+                      - list [ref=e1467]:
+                        - listitem [ref=e1468]:
+                          - generic "Blanco" [ref=e1469]
+                      - list [ref=e1471]:
+                        - listitem [ref=e1472]:
+                          - generic [ref=e1473]: 
+                        - listitem [ref=e1474]:
+                          - generic [ref=e1475]: 
+                        - listitem [ref=e1476]:
+                          - generic [ref=e1477]: 
+                        - listitem [ref=e1478]:
+                          - generic [ref=e1479]: 
+                        - listitem [ref=e1480]:
+                          - generic [ref=e1481]: 
+                        - listitem [ref=e1482]: (41)
             - listitem [ref=e1483]:
               - link [ref=e1484] [cursor=pointer]:
-                - /url: /tienda/pdp/consola-fija-xbox-one-series-x-de-1-tb-edici%C3%B3n-digital-microsoft/1163093606?skuid=1163093606
+                - /url: /tienda/pdp/consola-fija-xbox-series-s-de-512-gb-edici%C3%B3n-bundle-microsoft/9993645172?skuid=1199037826
                 - figure [ref=e1486]:
-                  - img "Consola fija xbox one series x de 1 tb edición digital Microsoft" [ref=e1489]
+                  - img "Consola fija Xbox Series S de 512 GB edición bundle Microsoft" [ref=e1489]
                   - generic [ref=e1491]:
                     - article [ref=e1492]:
                       - heading "MICROSOFT" [level=3] [ref=e1493]
-                      - heading "Consola fija xbox one series x de 1 tb edición digital" [level=3] [ref=e1494]
+                      - heading "Consola fija Xbox Series S de 512 GB edición bundle" [level=3] [ref=e1494]
                     - generic [ref=e1496]:
-                      - paragraph [ref=e1498]:
+                      - generic [ref=e1497]:
+                        - paragraph [ref=e1498]:
+                          - text: $14,999
+                          - superscript [ref=e1499]: "00"
+                        - paragraph [ref=e1500]:
+                          - text: $11,099
+                          - superscript [ref=e1501]: "00"
+                      - list [ref=e1503]:
+                        - listitem [ref=e1504]:
+                          - generic "Blanco" [ref=e1505]
+            - listitem [ref=e1506]:
+              - link [ref=e1507] [cursor=pointer]:
+                - /url: /tienda/pdp/consola-fija-xbox-one-series-x-de-1-tb-edici%C3%B3n-digital-microsoft/1163093606?skuid=1163093606
+                - figure [ref=e1509]:
+                  - img "Consola fija xbox one series x de 1 tb edición digital Microsoft" [ref=e1512]
+                  - generic [ref=e1514]:
+                    - article [ref=e1515]:
+                      - heading "MICROSOFT" [level=3] [ref=e1516]
+                      - heading "Consola fija xbox one series x de 1 tb edición digital" [level=3] [ref=e1517]
+                    - generic [ref=e1519]:
+                      - paragraph [ref=e1521]:
                         - text: $13,999
-                        - superscript [ref=e1499]: "00"
-                      - list [ref=e1501]:
-                        - listitem [ref=e1502]:
-                          - generic "Blanco" [ref=e1503]
-                      - list [ref=e1505]:
-                        - listitem [ref=e1506]:
-                          - generic [ref=e1507]: 
-                        - listitem [ref=e1508]:
-                          - generic [ref=e1509]: 
-                        - listitem [ref=e1510]:
-                          - generic [ref=e1511]: 
-                        - listitem [ref=e1512]:
-                          - generic [ref=e1513]: 
-                        - listitem [ref=e1514]:
-                          - generic [ref=e1515]: 
-                        - listitem [ref=e1516]: (48)
-            - listitem [ref=e1517]:
-              - link [ref=e1518] [cursor=pointer]:
+                        - superscript [ref=e1522]: "00"
+                      - list [ref=e1524]:
+                        - listitem [ref=e1525]:
+                          - generic "Blanco" [ref=e1526]
+                      - list [ref=e1528]:
+                        - listitem [ref=e1529]:
+                          - generic [ref=e1530]: 
+                        - listitem [ref=e1531]:
+                          - generic [ref=e1532]: 
+                        - listitem [ref=e1533]:
+                          - generic [ref=e1534]: 
+                        - listitem [ref=e1535]:
+                          - generic [ref=e1536]: 
+                        - listitem [ref=e1537]:
+                          - generic [ref=e1538]: 
+                        - listitem [ref=e1539]: (48)
+            - listitem [ref=e1540]:
+              - link [ref=e1541] [cursor=pointer]:
                 - /url: /tienda/pdp/consola-fija-xbox-one-series-x-de-1-tb-edici%C3%B3n-digital-microsoft-reacondicionado/1171815483?skuid=1171815483
-                - figure [ref=e1520]:
-                  - img "Consola fija xbox one series x de 1 tb edición digital Microsoft reacondicionado" [ref=e1523]
-                  - generic [ref=e1524]:
-                    - generic [ref=e1526]: Reacondicionado
-                    - generic [ref=e1527]:
-                      - article [ref=e1528]:
-                        - heading "MICROSOFT" [level=3] [ref=e1529]
-                        - heading "Consola fija xbox one series x de 1 tb edición digital reacondicionado" [level=3] [ref=e1530]
-                      - generic [ref=e1532]:
-                        - generic [ref=e1533]:
-                          - paragraph [ref=e1534]:
+                - figure [ref=e1543]:
+                  - img "Consola fija xbox one series x de 1 tb edición digital Microsoft reacondicionado" [ref=e1546]
+                  - generic [ref=e1547]:
+                    - generic [ref=e1549]: Reacondicionado
+                    - generic [ref=e1550]:
+                      - article [ref=e1551]:
+                        - heading "MICROSOFT" [level=3] [ref=e1552]
+                        - heading "Consola fija xbox one series x de 1 tb edición digital reacondicionado" [level=3] [ref=e1553]
+                      - generic [ref=e1555]:
+                        - generic [ref=e1556]:
+                          - paragraph [ref=e1557]:
                             - text: $22,011
-                            - superscript [ref=e1535]: "00"
-                          - paragraph [ref=e1536]:
+                            - superscript [ref=e1558]: "00"
+                          - paragraph [ref=e1559]:
                             - text: $14,307
-                            - superscript [ref=e1537]: "00"
-                        - list [ref=e1539]:
-                          - listitem [ref=e1540]:
-                            - generic "Blanco" [ref=e1541]
-                        - list [ref=e1543]:
-                          - listitem [ref=e1544]:
-                            - generic [ref=e1545]: 
-                          - listitem [ref=e1546]:
-                            - generic [ref=e1547]: 
-                          - listitem [ref=e1548]:
-                            - generic [ref=e1549]: 
-                          - listitem [ref=e1550]:
-                            - generic [ref=e1551]: 
-                          - listitem [ref=e1552]:
-                            - generic [ref=e1553]: 
-                          - listitem [ref=e1554]: (2)
-            - listitem [ref=e1555]:
-              - link [ref=e1556] [cursor=pointer]:
+                            - superscript [ref=e1560]: "00"
+                        - list [ref=e1562]:
+                          - listitem [ref=e1563]:
+                            - generic "Blanco" [ref=e1564]
+                        - list [ref=e1566]:
+                          - listitem [ref=e1567]:
+                            - generic [ref=e1568]: 
+                          - listitem [ref=e1569]:
+                            - generic [ref=e1570]: 
+                          - listitem [ref=e1571]:
+                            - generic [ref=e1572]: 
+                          - listitem [ref=e1573]:
+                            - generic [ref=e1574]: 
+                          - listitem [ref=e1575]:
+                            - generic [ref=e1576]: 
+                          - listitem [ref=e1577]: (2)
+            - listitem [ref=e1578]:
+              - link [ref=e1579] [cursor=pointer]:
                 - /url: /tienda/pdp/consola-microsoft-xbox-one-s-1tb-ultra-hd-4k-jedi-fallen/1099923683?skuid=1099923683
-                - figure [ref=e1558]:
-                  - img "Consola Microsoft Xbox One S 1TB Ultra HD 4K Jedi Fallen" [ref=e1561]
-                  - generic [ref=e1563]:
-                    - article [ref=e1564]:
-                      - heading "MICROSOFT" [level=3] [ref=e1565]
-                      - heading "Consola Microsoft Xbox One S 1TB Ultra HD 4K Jedi Fallen" [level=3] [ref=e1566]: Consola Microsoft Xbox One S 1TB Ultra HD 4K Jedi Fallen
-                    - generic [ref=e1568]:
-                      - paragraph [ref=e1570]:
+                - figure [ref=e1581]:
+                  - img "Consola Microsoft Xbox One S 1TB Ultra HD 4K Jedi Fallen" [ref=e1584]
+                  - generic [ref=e1586]:
+                    - article [ref=e1587]:
+                      - heading "MICROSOFT" [level=3] [ref=e1588]
+                      - heading "Consola Microsoft Xbox One S 1TB Ultra HD 4K Jedi Fallen" [level=3] [ref=e1589]: Consola Microsoft Xbox One S 1TB Ultra HD 4K Jedi Fallen
+                    - generic [ref=e1591]:
+                      - paragraph [ref=e1593]:
                         - text: $21,656
-                        - superscript [ref=e1571]: "00"
-                      - list [ref=e1573]:
-                        - listitem [ref=e1574]:
-                          - generic "Blanco" [ref=e1575]
+                        - superscript [ref=e1594]: "00"
+                      - list [ref=e1596]:
+                        - listitem [ref=e1597]:
+                          - generic "Blanco" [ref=e1598]
         - text: 
-    - contentinfo [ref=e1577]:
-      - generic [ref=e1578]:
-        - generic [ref=e1579]:
-          - navigation [ref=e1582]:
-            - generic [ref=e1584]:
-              - generic [ref=e1586]:
+    - contentinfo [ref=e1600]:
+      - generic [ref=e1601]:
+        - generic [ref=e1602]:
+          - navigation [ref=e1605]:
+            - generic [ref=e1607]:
+              - generic [ref=e1609]:
                 - generic:
                   - heading "Soporte al cliente" [level=3]
                   - text: 
-                - generic "Soporte al cliente" [ref=e1587]:
-                  - list [ref=e1589]:
-                    - listitem [ref=e1590]:
-                      - link "Facturación" [ref=e1591] [cursor=pointer]:
+                - generic "Soporte al cliente" [ref=e1610]:
+                  - list [ref=e1612]:
+                    - listitem [ref=e1613]:
+                      - link "Facturación" [ref=e1614] [cursor=pointer]:
                         - /url: https://facturacionclientes.liverpool.com.mx/inicio/&uid=liverpool
-                    - listitem [ref=e1592]:
-                      - link "Ayuda" [ref=e1593] [cursor=pointer]:
+                    - listitem [ref=e1615]:
+                      - link "Ayuda" [ref=e1616] [cursor=pointer]:
                         - /url: https://www.liverpool.com.mx/ayuda/index.html#/
-                    - listitem [ref=e1594]:
-                      - link "Mis Compras" [ref=e1595] [cursor=pointer]:
+                    - listitem [ref=e1617]:
+                      - link "Mis Compras" [ref=e1618] [cursor=pointer]:
                         - /url: /tienda/users/miscompras
-                    - listitem [ref=e1596]:
-                      - link "Garantía Liverpool" [ref=e1597] [cursor=pointer]:
+                    - listitem [ref=e1619]:
+                      - link "Garantía Liverpool" [ref=e1620] [cursor=pointer]:
                         - /url: /tienda/paginas/garantia
-              - generic [ref=e1599]:
+              - generic [ref=e1622]:
                 - generic:
                   - heading "Servicios Liverpool" [level=3]
                   - text: 
-                - generic "Servicios Liverpool" [ref=e1600]:
-                  - list [ref=e1602]:
-                    - listitem [ref=e1603]:
-                      - link "Crédito" [ref=e1604] [cursor=pointer]:
+                - generic "Servicios Liverpool" [ref=e1623]:
+                  - list [ref=e1625]:
+                    - listitem [ref=e1626]:
+                      - link "Crédito" [ref=e1627] [cursor=pointer]:
                         - /url: https://micredito.liverpool.com.mx/app
-                    - listitem [ref=e1605]:
-                      - link "Tiempo aire" [ref=e1606] [cursor=pointer]:
+                    - listitem [ref=e1628]:
+                      - link "Tiempo aire" [ref=e1629] [cursor=pointer]:
                         - /url: "#"
-                    - listitem [ref=e1607]:
-                      - link "Concursos y promociones" [ref=e1608] [cursor=pointer]:
+                    - listitem [ref=e1630]:
+                      - link "Concursos y promociones" [ref=e1631] [cursor=pointer]:
                         - /url: /tienda/promotions
-                    - listitem [ref=e1609]:
-                      - link "Diseño de Interiores" [ref=e1610] [cursor=pointer]:
+                    - listitem [ref=e1632]:
+                      - link "Diseño de Interiores" [ref=e1633] [cursor=pointer]:
                         - /url: /tienda/paginas/diseno-interiores
-                    - listitem [ref=e1611]:
-                      - link "Ventas Corporativas" [ref=e1612] [cursor=pointer]:
+                    - listitem [ref=e1634]:
+                      - link "Ventas Corporativas" [ref=e1635] [cursor=pointer]:
                         - /url: https://www.liverpool.com.mx/tienda/paginas/ventas-corporativas
-              - generic [ref=e1614]:
+              - generic [ref=e1637]:
                 - generic:
                   - heading "Acerca de Liverpool" [level=3]
                   - text: 
-                - generic "Acerca de Liverpool" [ref=e1615]:
-                  - list [ref=e1617]:
-                    - listitem [ref=e1618]:
-                      - link "Portal de carrera" [ref=e1619] [cursor=pointer]:
+                - generic "Acerca de Liverpool" [ref=e1638]:
+                  - list [ref=e1640]:
+                    - listitem [ref=e1641]:
+                      - link "Portal de carrera" [ref=e1642] [cursor=pointer]:
                         - /url: https://pcarrera.liverpool.com.mx
-                    - listitem [ref=e1620]:
-                      - link "¿Quiénes somos?" [ref=e1621] [cursor=pointer]:
+                    - listitem [ref=e1643]:
+                      - link "¿Quiénes somos?" [ref=e1644] [cursor=pointer]:
                         - /url: https://www.elpuertodeliverpool.mx/perfil.html
-                    - listitem [ref=e1622]:
-                      - link "Relación con inversionistas" [ref=e1623] [cursor=pointer]:
+                    - listitem [ref=e1645]:
+                      - link "Relación con inversionistas" [ref=e1646] [cursor=pointer]:
                         - /url: https://www.elpuertodeliverpool.mx/
-                    - listitem [ref=e1624]:
-                      - link "Sostenibilidad" [ref=e1625] [cursor=pointer]:
+                    - listitem [ref=e1647]:
+                      - link "Sostenibilidad" [ref=e1648] [cursor=pointer]:
                         - /url: /tienda/paginas/sostenibilidad
-              - generic [ref=e1627]:
+              - generic [ref=e1650]:
                 - generic:
                   - heading "Promociones" [level=3]
                   - text: 
-                - generic "Promociones" [ref=e1628]:
-                  - list [ref=e1630]:
-                    - listitem [ref=e1631]:
-                      - link "Venta Nocturna" [ref=e1632] [cursor=pointer]:
+                - generic "Promociones" [ref=e1651]:
+                  - list [ref=e1653]:
+                    - listitem [ref=e1654]:
+                      - link "Venta Nocturna" [ref=e1655] [cursor=pointer]:
                         - /url: https://www.liverpool.com.mx/tienda/paginas/venta-nocturna
-                    - listitem [ref=e1633]:
-                      - link "Hot Sale" [ref=e1634] [cursor=pointer]:
+                    - listitem [ref=e1656]:
+                      - link "Hot Sale" [ref=e1657] [cursor=pointer]:
                         - /url: https://www.liverpool.com.mx/tienda/hot-sale/catst52375715
-                    - listitem [ref=e1635]:
-                      - link "Buen Fin" [ref=e1636] [cursor=pointer]:
+                    - listitem [ref=e1658]:
+                      - link "Buen Fin" [ref=e1659] [cursor=pointer]:
                         - /url: https://www.liverpool.com.mx/tienda/buen-fin/catst44480398
-                    - listitem [ref=e1637]:
-                      - link "Bolo Fest" [ref=e1638] [cursor=pointer]:
+                    - listitem [ref=e1660]:
+                      - link "Bolo Fest" [ref=e1661] [cursor=pointer]:
                         - /url: https://www.liverpool.com.mx/tienda/paginas/bolofest
-          - generic [ref=e1642]:
-            - paragraph [ref=e1643]
-            - paragraph [ref=e1644]: Ventas por teléfono 555262-9999
-            - paragraph [ref=e1645]: Desde tu celular *7171
-            - paragraph [ref=e1646]:
+          - generic [ref=e1665]:
+            - paragraph [ref=e1666]
+            - paragraph [ref=e1667]: Ventas por teléfono 555262-9999
+            - paragraph [ref=e1668]: Desde tu celular *7171
+            - paragraph [ref=e1669]:
               - text: Contáctanos vía
-              - link "WhatsApp" [ref=e1647] [cursor=pointer]:
+              - link "WhatsApp" [ref=e1670] [cursor=pointer]:
                 - /url: https://wa.me/525552629999
               - text: o por Teléfono al 5552629999
-          - separator [ref=e1649]
-        - generic [ref=e1650]:
-          - generic [ref=e1651]:
-            - generic [ref=e1652]: "Comentarios y Sugerencias:"
-            - generic [ref=e1653]: atencion@liverpool.com.mx
-          - generic [ref=e1654]:
-            - link "Términos y condiciones" [ref=e1655] [cursor=pointer]:
+          - separator [ref=e1672]
+        - generic [ref=e1673]:
+          - generic [ref=e1674]:
+            - generic [ref=e1675]: "Comentarios y Sugerencias:"
+            - generic [ref=e1676]: atencion@liverpool.com.mx
+          - generic [ref=e1677]:
+            - link "Términos y condiciones" [ref=e1678] [cursor=pointer]:
               - /url: https://www.liverpool.com.mx/ayuda/index.html#/sec/terminos-y-condiciones/informacion
             - text: /
-            - link "Aviso de privacidad" [ref=e1656] [cursor=pointer]:
+            - link "Aviso de privacidad" [ref=e1679] [cursor=pointer]:
               - /url: https://www.liverpool.com.mx/ayuda/index.html#/sec/terminos-y-condiciones/proteccion-de-datos/aviso-clientes
             - text: /
-            - link "Mapa del sitio" [ref=e1657] [cursor=pointer]:
+            - link "Mapa del sitio" [ref=e1680] [cursor=pointer]:
               - /url: /tienda/sitemap
-          - generic [ref=e1658]:
-            - link "icon" [ref=e1659] [cursor=pointer]:
+          - generic [ref=e1681]:
+            - link "icon" [ref=e1682] [cursor=pointer]:
               - /url: https://www.facebook.com/liverpoolmexico
-              - img "icon" [ref=e1660]
-            - link "icon" [ref=e1661] [cursor=pointer]:
+              - img "icon" [ref=e1683]
+            - link "icon" [ref=e1684] [cursor=pointer]:
               - /url: https://twitter.com/LiverpoolMexico
-              - img "icon" [ref=e1662]
-            - link "icon" [ref=e1663] [cursor=pointer]:
+              - img "icon" [ref=e1685]
+            - link "icon" [ref=e1686] [cursor=pointer]:
               - /url: https://www.instagram.com/liverpool_mexico/
-              - img "icon" [ref=e1664]
-      - generic [ref=e1666]:
-        - paragraph [ref=e1667]: Precio en rojo aplica el descuento más alto, las promociones pueden diferir de las publicadas en tienda
-        - paragraph [ref=e1668]: 2025 Liverpool / Todos los derechos reservados D.R. ®
-  - alert [ref=e1669]: Xbox series x
+              - img "icon" [ref=e1687]
+      - generic [ref=e1689]:
+        - paragraph [ref=e1690]: Precio en rojo aplica el descuento más alto, las promociones pueden diferir de las publicadas en tienda
+        - paragraph [ref=e1691]: 2025 Liverpool / Todos los derechos reservados D.R. ®
+  - alert [ref=e1692]: Xbox series x
 ```
 
 # Test source
